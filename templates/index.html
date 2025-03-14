@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mon Site Flask</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Recherche de Médicaments</title>
 </head>
 <body>
-    <div class="container">
-        <h1>Bienvenue sur mon site Flask</h1>
-        <p>Ceci est une page simple avec Flask et CSS.</p>
-    </div>
+    <h1>Recherche de Médicaments</h1>
+    <form action="/search" method="post">
+        <input type="text" name="query" placeholder="Tapez le nom d'un médicament">
+        <button type="submit">Rechercher</button>
+    </form>
 </body>
 </html>

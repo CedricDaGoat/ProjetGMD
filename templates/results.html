@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Résultats</title>
+    <style>
+        .medicament {
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Résultats de la Recherche</h1>
+    {% if resultats %}
+        {% for medoc in resultats %}
+            <div class="medicament">
+                <h2>{{ medoc[0] }}</h2>
+                <p><strong>Dosage :</strong> {{ medoc[1] }}</p>
+                <p><strong>Description :</strong> {{ medoc[2] }}</p>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>Aucun résultat trouvé.</p>
+    {% endif %}
+</body>
+</html>
