@@ -1,14 +1,72 @@
+/* Style global */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    text-align: center;
-    padding: 50px;
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
 }
 
-.container {
-    background: rgb(87, 125, 207);
-    padding: 20px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    display: inline-block;
+/* Titre de la page */
+h1 {
+    color: #2c3e50;
+    margin-top: 30px;
+}
+
+/* Conteneur de formulaire */
+.form-container {
+    margin-top: 50px;
+    background: #ffffff;
+    padding: 30px;
     border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Barre de recherche */
+.form-control {
+    border: 2px solid #0d6efd; /* Bordure bleue pour le champ */
+    border-radius: 5px;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 5px rgba(13, 110, 253, 0.8); /* Lumière bleue au focus */
+    border-color: #0d6efd;
+}
+
+/* Bouton de recherche */
+.btn-primary {
+    background: #0d6efd;
+    border: none;
+}
+
+.btn-primary:hover {
+    background: #004085; /* Bleu plus foncé au survol */
+}
+
+/* Cartes */
+.card {
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-body {
+    background-color: #f8f9fa;
+    border-left: 5px solid #0d6efd; /* Bordure bleue sur le côté */
+}
+
+.card-title {
+    color: #0d6efd; /* Titre de la carte */
+}
+
+.card-subtitle {
+    color: #6c757d; /* Texte du dosage */
+}
+
+/* Conteneur principal */
+.container {
+    margin-top: 30px;
 }

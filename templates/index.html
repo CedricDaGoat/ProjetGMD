@@ -6,10 +6,55 @@
     <title>Recherche de Médicaments</title>
 </head>
 <body>
-    <h1>Recherche de Médicaments</h1>
-    <form action="/search" method="post">
-        <input type="text" name="query" placeholder="Tapez le nom d'un médicament">
+    <h1>Recherche de Médicaments par Symptômes</h1>
+    <form method="POST">
+        <!-- Input pour les symptômes -->
+        <label for="symptoms">Entrez vos symptômes (séparés par des virgules) :</label>
+        <input type="text" id="symptoms" name="symptoms" placeholder="ex: headache, nausea" required>
+
+        <!-- Checkbox pour choisir ET -->
+        <div>
+            <input type="checkbox" id="and_condition" name="and_condition">
+            <label for="and_condition">Rechercher les médicaments avec "ET" (tous les symptômes doivent correspondre)</label>
+        </div>
+
+        <!-- Bouton pour lancer la recherche -->
         <button type="submit">Rechercher</button>
     </form>
+
+    <hr>
+
+    <!-- Résultats de la recherche -->
+    {% if drugs_causing or drugs_treating %}
+        <h2>Résultats :</h2>
+
+        <!-- Médicaments causant les symptômes -->
+        <div>
+            <h3>Médicaments causant les symptômes :</h3>
+            {% if drugs_causing %}
+                <ul>
+                {% for drug in drugs_causing %}
+                    <li>{{ drug }}</li>
+                {% endfor %}
+                </ul>
+            {% else %}
+                <p>Aucun médicament trouvé qui cause ces symptômes.</p>
+            {% endif %}
+        </div>
+
+        <!-- Médicaments soignant les symptômes -->
+        <div>
+            <h3>Médicaments soignant les symptômes :</h3>
+            {% if drugs_treating %}
+                <ul>
+                {% for drug in drugs_treating %}
+                    <li>{{ drug }}</li>
+                {% endfor %}
+                </ul>
+            {% else %}
+                <p>Aucun médicament trouvé qui soigne ces symptômes.</p>
+            {% endif %}
+        </div>
+    {% endif %}
 </body>
 </html>
