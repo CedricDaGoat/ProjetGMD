@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recherche de Médicaments</title>
+    <title>Drug Search by Symptoms</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -36,105 +36,106 @@
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            width: 150px; /* Size of the button */
+            width: 150px;
             text-align: center;
         }
         .more-btn:hover {
             background-color: #0056b3;
         }
-        .genetic-disease-container {
-            margin-bottom: 20px;
+        .hidden {
+            display: none;
         }
     </style>
     <script>
-        let currentPage = 1;
+        let currentPageCausing = 1;
+        let currentPageTreating = 1;
+        let currentPageGenetic = 1;
         const recordsPerPage = 10;
 
-        function toggleSymptoms(id) {
-            const symptomsDiv = document.getElementById(id);
-            if (symptomsDiv.style.display === "none" || symptomsDiv.style.display === "") {
-                symptomsDiv.style.display = "block";
+        function loadMoreRecords(type) {
+            let allRecords;
+            let currentPage;
+            if (type === 'causing') {
+                allRecords = document.querySelectorAll('.drug-causing-item');
+                currentPage = ++currentPageCausing;
+            } else if (type === 'treating') {
+                allRecords = document.querySelectorAll('.drug-treating-item');
+                currentPage = ++currentPageTreating;
             } else {
-                symptomsDiv.style.display = "none";
+                allRecords = document.querySelectorAll('.genetic-disease-card');
+                currentPage = ++currentPageGenetic;
             }
-        }
-
-        function loadMoreRecords() {
-            currentPage++;
-            const allRecords = document.querySelectorAll('.genetic-disease-card');
+            
             const start = (currentPage - 1) * recordsPerPage;
             const end = currentPage * recordsPerPage;
 
-            // Affiche les éléments supplémentaires
             for (let i = start; i < end && i < allRecords.length; i++) {
-                allRecords[i].style.display = 'block';
+                allRecords[i].classList.remove('hidden');
             }
 
-            // Cache le bouton si tous les éléments sont affichés
             if (end >= allRecords.length) {
-                document.getElementById('more-btn').style.display = 'none';
+                document.getElementById(type + '-more-btn').style.display = 'none';
             }
         }
 
+        function toggleSymptoms(id) {
+            const symptomsDiv = document.getElementById(id);
+            symptomsDiv.classList.toggle('hidden');
+        }
+
         document.addEventListener("DOMContentLoaded", () => {
-            // Initialement, afficher uniquement les 10 premiers éléments
-            loadMoreRecords();
+            ['causing', 'treating', 'genetic'].forEach(type => {
+                let allRecords = document.querySelectorAll('.' + (type === 'causing' ? 'drug-causing-item' : type === 'treating' ? 'drug-treating-item' : 'genetic-disease-card'));
+                for (let i = 0; i < recordsPerPage && i < allRecords.length; i++) {
+                    allRecords[i].classList.remove('hidden');
+                }
+            });
         });
     </script>
 </head>
 <body>
-    <h1>Recherche de Médicaments par Symptômes</h1>
+    <h1>Drug Search by Symptoms</h1>
     <form method="POST">
-        <label for="symptoms">Entrez vos symptômes (séparés par des virgules) :</label>
-        <input type="text" id="symptoms" name="symptoms" placeholder="ex: headache, nausea" required>
+        <label for="symptoms">Enter your symptoms (comma-separated):</label>
+        <input type="text" id="symptoms" name="symptoms" placeholder="e.g., headache, nausea" required>
 
         <div>
             <input type="checkbox" id="and_condition" name="and_condition">
-            <label for="and_condition">Rechercher avec "ET" (tous les symptômes doivent correspondre)</label>
+            <label for="and_condition">Search with "AND" (all symptoms must match)</label>
         </div>
 
-        <button type="submit">Rechercher</button>
+        <button type="submit">Search</button>
     </form>
 
     <hr>
 
-    {% if drugs_causing or drugs_treating %}
-        <h2>Résultats :</h2>
+    {% if drugs_causing %}
+        <h3>Drugs causing the symptoms:</h3>
+        <ul>
+        {% for drug in drugs_causing %}
+            <li class="drug-causing-item hidden">{{ drug }}</li>
+        {% endfor %}
+        </ul>
+        <button id="causing-more-btn" class="more-btn" onclick="loadMoreRecords('causing')">Show more</button>
+    {% endif %}
 
-        <div>
-            <h3>Médicaments causant les symptômes :</h3>
-            {% if drugs_causing %}
-                <ul>
-                {% for drug in drugs_causing %}
-                    <li>{{ drug }}</li>
-                {% endfor %}
-                </ul>
-            {% else %}
-                <p>Aucun médicament trouvé qui cause ces symptômes.</p>
-            {% endif %}
-        </div>
-
-        <div>
-            <h3>Médicaments soignant les symptômes :</h3>
-            {% if drugs_treating %}
-                <ul>
-                {% for drug in drugs_treating %}
-                    <li>{{ drug }}</li>
-                {% endfor %}
-                </ul>
-            {% else %}
-                <p>Aucun médicament trouvé qui soigne ces symptômes.</p>
-            {% endif %}
-        </div>
+    {% if drugs_treating %}
+        <h3>Drugs treating the symptoms:</h3>
+        <ul>
+        {% for drug in drugs_treating %}
+            <li class="drug-treating-item hidden">{{ drug }}</li>
+        {% endfor %}
+        </ul>
+        <button id="treating-more-btn" class="more-btn" onclick="loadMoreRecords('treating')">Show more</button>
     {% endif %}
 
     {% if genetic_diseases %}
-        <div class="genetic-disease-container">
-            <h3>Maladies génétiques causant ces symptômes</h3>
+        <div>
+            <h3>Genetic diseases causing these symptoms</h3>
             {% for disease in genetic_diseases %}
-                <div class="card genetic-disease-card" style="display: none;" onclick="toggleSymptoms('symptoms-{{ loop.index }}')">
+                <div class="card genetic-disease-card hidden" onclick="toggleSymptoms('symptoms-{{ loop.index }}')">
                     <strong>{{ disease['TI'] }}</strong>
-                    <div class="symptoms" id="symptoms-{{ loop.index }}">
+                    <div class="symptoms hidden" id="symptoms-{{ loop.index }}">
                         <p><strong>Symptoms:</strong></p>
                         <ul>
                             {% for symptom in disease['ALL_SYMPTOMS'] %}
@@ -145,7 +146,7 @@
                 </div>
             {% endfor %}
         </div>
-        <button id="more-btn" class="more-btn" onclick="loadMoreRecords()">Afficher plus</button>
+        <button id="genetic-more-btn" class="more-btn" onclick="loadMoreRecords('genetic')">Show more</button>
     {% endif %}
 </body>
 </html>
