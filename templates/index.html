@@ -98,32 +98,54 @@
 
     <hr>
 
-    {% if drugs_causing or drugs_treating %}
+    {% if drugs_causing or drugs_treating or drugs_causing2 or drugs_treating2 %}
         <h2>Results :</h2>
 
         <div>
             <h3>Drugs causing the symptoms as side effects :</h3>
             {% if drugs_causing %}
+                <h4>Drugs found on drugbank</h4>
                 <ul>
                 {% for drug in drugs_causing %}
                     <li>{{ drug }}</li>
                 {% endfor %}
                 </ul>
             {% else %}
-                <p>No drug found for this side effect.</p>
+                <p>No drugs found on drugbank for this side effect.</p>
+            {% endif %}
+            {% if drugs_causing2 %}
+                <h4>Drugs found on SIDER</h4>
+                <ul>
+                {% for drug in drugs_causing2 %}
+                    <li>{{ drug }}</li>
+                {% endfor %}
+                </ul>
+            {% else %}
+                <p>No drug found on SIDER for this side effect.</p>
             {% endif %}
         </div>
 
         <div>
             <h3>Drugs treating theses symptoms :</h3>
             {% if drugs_treating %}
+                <h4>Drugs treating these symptoms found on drugbank</h4>
                 <ul>
                 {% for drug in drugs_treating %}
                     <li>{{ drug }}</li>
                 {% endfor %}
                 </ul>
             {% else %}
-                <p>No drugs treating this symptoms found.</p>
+                <p>No drugs treating this symptoms found on drugbank.</p>
+            {% endif %}
+            {% if drugs_treating2 %}
+                <h4>Drugs treating these symptoms found on SIDER</h4>
+                <ul>
+                {% for drug in drugs_treating2 %}
+                    <li>{{ drug }}</li>
+                {% endfor %}
+                </ul>
+            {% else %}
+                <p>No drug found on SIDER for this indication.</p>
             {% endif %}
         </div>
     {% endif %}

@@ -85,13 +85,13 @@ except FileNotFoundError:
     save_index_to_disk(index, index_filename)
 
 
-file_path = "SIDER/meddra_all_indications.tsv"  # Chemin vers le fichier
-index_filename = "SIDER/index_all_indications"
+file_path2 = "SIDER/meddra_all_indications.tsv"  # Chemin vers le fichier
+index_filename2 = "SIDER/index_all_indications"
 try:
-    index = load_index_from_disk(index_filename)
+    index2 = load_index_from_disk(index_filename2)
 except FileNotFoundError:
-    index = index_meddra_all_se(file_path, fichier_tsv="SIDER/drug_names.tsv")
-    save_index_to_disk(index, index_filename)
+    index2 = index_meddra_all_se(file_path2, fichier_tsv="SIDER/drug_names.tsv")
+    save_index_to_disk(index2, index_filename2)
 
 
 

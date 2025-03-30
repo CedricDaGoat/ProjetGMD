@@ -34,7 +34,6 @@ def index():
         if symptoms_list:
             drugs_causing, drugs_treating = recherche_medicaments_par_symptomes(symptoms_list, condition)
             drugs_causing2, drugs_treating2 = rechercher_medicaments_meddra(symptoms_list, index_se, condition),rechercher_medicaments_indic_meddra(symptoms_list, index_all_indications, condition)
-            drugs_causing, drugs_treating = drugs_causing + drugs_causing2, drugs_treating + drugs_treating2
             genetic_diseases = search_records(omim_records, symptoms_list, condition)
 
     # Renvoyer les résultats à la page HTML
@@ -42,6 +41,8 @@ def index():
                            drugs_causing=drugs_causing,
                            drugs_treating=drugs_treating,
                            genetic_diseases=genetic_diseases,
+                           drugs_causing2=drugs_causing2,
+                           drugs_treating2=drugs_treating2,
                            symptoms=", ".join(symptoms_list),
                            condition=condition)
 
