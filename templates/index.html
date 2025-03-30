@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recherche de Médicaments</title>
+    <title>Symptoms research</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -83,26 +83,26 @@
     </script>
 </head>
 <body>
-    <h1>Recherche de Médicaments par Symptômes</h1>
+    <h1>Researching drugs and diseases based on symptoms</h1>
     <form method="POST">
-        <label for="symptoms">Entrez vos symptômes (séparés par des virgules) :</label>
+        <label for="symptoms">Enter your symptoms (separated by commas) :</label>
         <input type="text" id="symptoms" name="symptoms" placeholder="ex: headache, nausea" required>
 
         <div>
             <input type="checkbox" id="and_condition" name="and_condition">
-            <label for="and_condition">Rechercher avec "ET" (tous les symptômes doivent correspondre)</label>
+            <label for="and_condition">Search with AND (every symptom must match)</label>
         </div>
 
-        <button type="submit">Rechercher</button>
+        <button type="submit">Search</button>
     </form>
 
     <hr>
 
     {% if drugs_causing or drugs_treating %}
-        <h2>Résultats :</h2>
+        <h2>Results :</h2>
 
         <div>
-            <h3>Médicaments causant les symptômes :</h3>
+            <h3>Drugs causing the symptoms as side effects :</h3>
             {% if drugs_causing %}
                 <ul>
                 {% for drug in drugs_causing %}
@@ -110,12 +110,12 @@
                 {% endfor %}
                 </ul>
             {% else %}
-                <p>Aucun médicament trouvé qui cause ces symptômes.</p>
+                <p>No drug found for this side effect.</p>
             {% endif %}
         </div>
 
         <div>
-            <h3>Médicaments soignant les symptômes :</h3>
+            <h3>Drugs treating theses symptoms :</h3>
             {% if drugs_treating %}
                 <ul>
                 {% for drug in drugs_treating %}
@@ -123,14 +123,14 @@
                 {% endfor %}
                 </ul>
             {% else %}
-                <p>Aucun médicament trouvé qui soigne ces symptômes.</p>
+                <p>No drugs treating this symptoms found.</p>
             {% endif %}
         </div>
     {% endif %}
 
     {% if genetic_diseases %}
         <div class="genetic-disease-container">
-            <h3>Maladies génétiques causant ces symptômes</h3>
+            <h3>Genetic diseases causing theses symptoms</h3>
             {% for disease in genetic_diseases %}
                 <div class="card genetic-disease-card" style="display: none;" onclick="toggleSymptoms('symptoms-{{ loop.index }}')">
                     <strong>{{ disease['TI'] }}</strong>
@@ -145,7 +145,7 @@
                 </div>
             {% endfor %}
         </div>
-        <button id="more-btn" class="more-btn" onclick="loadMoreRecords()">Afficher plus</button>
+        <button id="more-btn" class="more-btn" onclick="loadMoreRecords()">Display more</button>
     {% endif %}
 </body>
 </html>
