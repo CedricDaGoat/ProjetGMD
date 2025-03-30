@@ -3,60 +3,110 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Symptoms research</title>
+    <title>Symptoms Research</title>
     <style>
+        /* 🌟 Global Styles */
         body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
+            background: linear-gradient(to right, #eef2f3, #dde1e7);
+            color: #333;
         }
-        .card {
-            background-color: white;
+        h1, h2, h3, h4 {
+            text-align: center;
+        }
+
+        /* 🌟 Form Styles */
+        form {
+            background: white;
+            padding: 20px;
             border-radius: 8px;
-            box-shadow: 0 0 5px rgba(0,0,0,0.1);
-            margin-bottom: 10px;
-            padding: 15px;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-        .card:hover {
-            box-shadow: 0 0 10px rgba(0,0,0,0.2);
-        }
-        .card .symptoms {
-            display: none;
-            margin-top: 10px;
-        }
-        .more-btn {
-            display: block;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            width: 50%;
             margin: 20px auto;
+            text-align: center;
+        }
+        input[type="text"] {
+            width: 80%;
             padding: 10px;
+            margin-top: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        input[type="checkbox"] {
+            margin-right: 5px;
+        }
+        button {
+            margin-top: 15px;
+            padding: 10px 20px;
             background-color: #007BFF;
             color: white;
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            width: 150px; /* Size of the button */
-            text-align: center;
+            transition: background 0.3s ease;
         }
-        .more-btn:hover {
+        button:hover {
             background-color: #0056b3;
         }
-        .genetic-disease-container {
-            margin-bottom: 20px;
+
+        /* 🌟 Card Styles */
+        .card {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            margin: 10px auto;
+            padding: 15px;
+            width: 80%;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        .card .symptoms {
+            display: none;
+            margin-top: 10px;
+        }
+
+        /* 🌟 Load More Button */
+        .more-btn {
+            display: block;
+            margin: 20px auto;
+            padding: 12px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 180px;
+            font-size: 16px;
+            text-align: center;
+            transition: background 0.3s ease;
+        }
+        .more-btn:hover {
+            background-color: #218838;
+        }
+
+        /* 🌟 Results Section */
+        .results-container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            width: 80%;
+            margin: 20px auto;
         }
     </style>
+
     <script>
         let currentPage = 1;
-        const recordsPerPage = 10;
+        const recordsPerPage = 5;
 
         function toggleSymptoms(id) {
             const symptomsDiv = document.getElementById(id);
-            if (symptomsDiv.style.display === "none" || symptomsDiv.style.display === "") {
-                symptomsDiv.style.display = "block";
-            } else {
-                symptomsDiv.style.display = "none";
-            }
+            symptomsDiv.style.display = symptomsDiv.style.display === "none" ? "block" : "none";
         }
 
         function loadMoreRecords() {
@@ -65,94 +115,91 @@
             const start = (currentPage - 1) * recordsPerPage;
             const end = currentPage * recordsPerPage;
 
-            // Affiche les éléments supplémentaires
             for (let i = start; i < end && i < allRecords.length; i++) {
                 allRecords[i].style.display = 'block';
             }
 
-            // Cache le bouton si tous les éléments sont affichés
             if (end >= allRecords.length) {
                 document.getElementById('more-btn').style.display = 'none';
             }
         }
 
         document.addEventListener("DOMContentLoaded", () => {
-            // Initialement, afficher uniquement les 10 premiers éléments
             loadMoreRecords();
         });
     </script>
 </head>
 <body>
-    <h1>Researching drugs and diseases based on symptoms</h1>
-    <form method="POST">
-        <label for="symptoms">Enter your symptoms (separated by commas) :</label>
-        <input type="text" id="symptoms" name="symptoms" placeholder="ex: headache, nausea" required>
+    <h1>Research Drugs & Diseases by Symptoms</h1>
 
+    <form method="POST">
+        <label for="symptoms">Enter symptoms (comma separated):</label><br>
+        <input type="text" id="symptoms" name="symptoms" placeholder="e.g., headache, nausea" required>
         <div>
             <input type="checkbox" id="and_condition" name="and_condition">
-            <label for="and_condition">Search with AND (every symptom must match)</label>
+            <label for="and_condition">Search with AND (all symptoms must match)</label>
         </div>
-
         <button type="submit">Search</button>
     </form>
 
-    <hr>
-
     {% if drugs_causing or drugs_treating or drugs_causing2 or drugs_treating2 %}
-        <h2>Results :</h2>
+        <div class="results-container">
+            <h2>Results</h2>
+            <div>
+                <h3>Drugs causing the symptoms:</h3>
+                {% if drugs_causing %}
+                    <h4>DrugBank:</h4>
+                    <ul>
+                        {% for drug in drugs_causing %}
+                            <li>{{ drug }}</li>
+                        {% endfor %}
+                    </ul>
+                {% else %}
+                    <p>No drugs found in DrugBank.</p>
+                {% endif %}
 
-        <div>
-            <h3>Drugs causing the symptoms as side effects :</h3>
-            {% if drugs_causing %}
-                <h4>Drugs found on drugbank</h4>
-                <ul>
-                {% for drug in drugs_causing %}
-                    <li>{{ drug }}</li>
-                {% endfor %}
-                </ul>
-            {% else %}
-                <p>No drugs found on drugbank for this side effect.</p>
-            {% endif %}
-            {% if drugs_causing2 %}
-                <h4>Drugs found on SIDER</h4>
-                <ul>
-                {% for drug in drugs_causing2 %}
-                    <li>{{ drug }}</li>
-                {% endfor %}
-                </ul>
-            {% else %}
-                <p>No drug found on SIDER for this side effect.</p>
-            {% endif %}
-        </div>
+                {% if drugs_causing2 %}
+                    <h4>SIDER:</h4>
+                    <ul>
+                        {% for drug in drugs_causing2 %}
+                            <li>{{ drug }}</li>
+                        {% endfor %}
+                    </ul>
+                {% else %}
+                    <p>No drugs found in SIDER.</p>
+                {% endif %}
+            </div>
 
-        <div>
-            <h3>Drugs treating theses symptoms :</h3>
-            {% if drugs_treating %}
-                <h4>Drugs treating these symptoms found on drugbank</h4>
-                <ul>
-                {% for drug in drugs_treating %}
-                    <li>{{ drug }}</li>
-                {% endfor %}
-                </ul>
-            {% else %}
-                <p>No drugs treating this symptoms found on drugbank.</p>
-            {% endif %}
-            {% if drugs_treating2 %}
-                <h4>Drugs treating these symptoms found on SIDER</h4>
-                <ul>
-                {% for drug in drugs_treating2 %}
-                    <li>{{ drug }}</li>
-                {% endfor %}
-                </ul>
-            {% else %}
-                <p>No drug found on SIDER for this indication.</p>
-            {% endif %}
+            <div>
+                <h3>Drugs treating these symptoms:</h3>
+                {% if drugs_treating %}
+                    <h4>DrugBank:</h4>
+                    <ul>
+                        {% for drug in drugs_treating %}
+                            <li>{{ drug }}</li>
+                        {% endfor %}
+                    </ul>
+                {% else %}
+                    <p>No drugs found in DrugBank.</p>
+                {% endif %}
+
+                {% if drugs_treating2 %}
+                    <h4>SIDER:</h4>
+                    <ul>
+                        {% for drug in drugs_treating2 %}
+                            <li>{{ drug }}</li>
+                        {% endfor %}
+                    </ul>
+                {% else %}
+                    <p>No drugs found in SIDER.</p>
+                {% endif %}
+            </div>
         </div>
     {% endif %}
 
     {% if genetic_diseases %}
         <div class="genetic-disease-container">
-            <h3>Genetic diseases causing theses symptoms</h3>
+            <h3>Genetic Diseases Causing These Symptoms (source : OMIM)</h3>
             {% for disease in genetic_diseases %}
                 <div class="card genetic-disease-card" style="display: none;" onclick="toggleSymptoms('symptoms-{{ loop.index }}')">
                     <strong>{{ disease['TI'] }}</strong>
@@ -168,6 +215,8 @@
             {% endfor %}
         </div>
         <button id="more-btn" class="more-btn" onclick="loadMoreRecords()">Display more</button>
+    {% else %}
+        <p>No diseases found in OMIM.</p>
     {% endif %}
 </body>
 </html>
