@@ -11,6 +11,7 @@ app = Flask(__name__)
 OMIM_PATH = "OMIM/omim.txt"
 omim_records = split_and_parse_records(OMIM_PATH)
 
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
     drugs_causing = []
@@ -18,6 +19,7 @@ def index():
     genetic_diseases = []
     symptoms_list = []
     condition = "OU"
+    drugs_causing2, drugs_treating2 = [],[]
 
     if request.method == 'POST':
         # Récupérer les symptômes saisis par l'utilisateur
