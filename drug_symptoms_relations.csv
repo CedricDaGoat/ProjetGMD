@@ -1,0 +1,2167 @@
+drug_id,drug_name,treats,causes
+DB00001,Lepirudin,thrombocytopenia,
+DB00002,Cetuximab,,edema; edema
+DB00003,Dornase alfa,,fever; pain; chest pain; dyspnea; rhinitis; pharyngitis; laryngitis; hoarseness; chest pain; dyspepsia; dyspepsia; frequency; rash; urticaria; fever; rash; urticaria; rhinitis; conjunctivitis; dyspnea; urticaria
+DB00004,Denileukin diftitox,lymphoma,
+DB00005,Etanercept,arthritis; arthritis; rheumatoid arthritis; psoriasis,
+DB00006,Bivalirudin,angina; angina; thrombocytopenia,
+DB00007,Leuprolide,,dyspnea; dyspnea
+DB00008,Peginterferon alfa-2a,hepatitis; hepatitis,edema; pain; chest pain; dyspnea; chest pain; hypertension; edema; arthritis; myositis; purpura; purpura; dyspnea; depression; pneumonia; hypertension; pancreatitis; hepatitis; cirrhosis; nephritis; arthritis; rheumatoid arthritis; psoriasis; hypothyroidism; hyperthyroidism; diabetes; depression; hepatitis
+DB00010,Sermorelin,weight loss; weight loss; weight loss; hiv,
+DB00012,Darbepoetin alfa,anemia; hiv,
+DB00016,Erythropoietin,lymphoma,
+DB00017,Salmon Calcitonin,menopause,swelling; pain; back pain; rhinitis; swelling; nausea; back pain; swelling; rhinitis; allergy
+DB00022,Peginterferon alfa-2b,,edema; pain; chest pain; dyspnea; chest pain; hypertension; edema; arthritis; myositis; purpura; purpura; dyspnea; depression; pneumonia; hypertension; pancreatitis; hepatitis; cirrhosis; nephritis; arthritis; rheumatoid arthritis; psoriasis; hypothyroidism; hyperthyroidism; diabetes; depression; hepatitis
+DB00023,Asparaginase,leukemia; lymphoma,
+DB00025,"Antihemophilic factor, human recombinant",hemophilia,
+DB00026,Anakinra,arthritis; arthritis; rheumatoid arthritis,pyrexia; pain; headache; abdominal pain; arthralgia; nausea; vomiting; abdominal pain; diarrhea; arthralgia; arthritis; arthralgia; diarrhea; abdominal pain; arthritis; rheumatoid arthritis
+DB00028,Immune Globulin Human,arthritis; purpura; purpura; arthritis; rheumatoid arthritis; leukemia,
+DB00030,Insulin Human,diabetes,
+DB00034,"Interferon Alfa-2a, Recombinant",hepatitis; leukemia; hiv; aids; hepatitis,sweating; tiredness; weight loss; dizziness; blurred vision; nausea; vomiting; diarrhea; loss of appetite; arthritis; rash; itching; dry skin; weight loss; sweating; dry skin; weight loss; rash; diarrhea; arthritis; neuropathy; hypothyroidism; hyperthyroidism; anemia; thrombocytopenia
+DB00035,Desmopressin,polydipsia; polyuria; enuresis; polyuria; polydipsia; diabetes; hemophilia,fluid retention; pain; headache; abdominal pain; abdominal cramps; dizziness; nasal congestion; rhinitis; flushing; nausea; abdominal pain; abdominal cramps; flushing; rhinitis; abdominal pain
+DB00036,Coagulation factor VIIa Recombinant Human,hemophilia,
+DB00042,Botulinum Toxin Type B,pain; neck pain; dystonia; neck pain,
+DB00043,Omalizumab,asthma; asthma,
+DB00044,Lutropin alfa,,tumors
+DB00046,Insulin Lispro,diabetes,sweating; lethargy; weakness; headache; dizziness; tingling; trembling; weakness; confusion; palpitations; nausea; weakness; sweating; palpitations; hunger; weakness; weakness; anxiety; confusion
+DB00047,Insulin Glargine,diabetes,sweating; lethargy; weakness; headache; dizziness; tingling; trembling; weakness; confusion; palpitations; nausea; weakness; rash; sweating; palpitations; hunger; weakness; weakness; rash; anxiety; confusion
+DB00051,Adalimumab,arthritis; arthritis; rheumatoid arthritis,
+DB00052,Somatotropin,weight loss; weight loss; weight loss; hiv,
+DB00054,Abciximab,angina; angina,
+DB00056,Gemtuzumab ozogamicin,leukemia,
+DB00058,Alpha-1-proteinase inhibitor,emphysema,
+DB00059,Pegaspargase,leukemia,bronchospasm; erythema; erythema; anaphylaxis
+DB00065,Infliximab,arthritis; arthritis; rheumatoid arthritis; psoriasis,
+DB00066,Follitropin,,hemoptysis; nausea; cysts; hemoptysis; lymphadenopathy; lymphadenopathy; asthma; asthma
+DB00067,Vasopressin,polydipsia; polyuria; enuresis; polyuria; polydipsia; diabetes,
+DB00068,Interferon beta-1b,frequency,
+DB00069,Interferon alfacon-1,leukemia; aids,
+DB00071,Insulin Pork,diabetes,
+DB00072,Trastuzumab,,heart failure
+DB00073,Rituximab,arthritis; arthritis; rheumatoid arthritis; leukemia; lymphoma,
+DB00078,Ibritumomab tiuxetan,lymphoma,
+DB00081,Tositumomab,lymphoma,
+DB00083,Botulinum Toxin Type A,sweating; hyperhidrosis; pain; neck pain; strabismus; dystonia; neck pain; hyperhidrosis; sweating,
+DB00085,Pancrelipase,pancreatitis,pain; headache; abdominal pain; nasal congestion; abdominal pain; diarrhea; diarrhea; abdominal pain
+DB00087,Alemtuzumab,leukemia,
+DB00091,Cyclosporine,arthritis; arthritis; rheumatoid arthritis; psoriasis,
+DB00092,Alefacept,psoriasis,
+DB00095,Efalizumab,psoriasis,
+DB00099,Filgrastim,leukemia,
+DB00100,Coagulation Factor IX (Recombinant),hemophilia,
+DB00102,Becaplermin,diabetes,
+DB00105,"Interferon Alfa-2b, Recombinant",leukemia; aids,
+DB00107,Oxytocin,,spasm; spasm
+DB00109,Enfuvirtide,hiv; aids,
+DB00113,Technetium Tc-99m arcitumomab,tumors,
+DB00115,Cyanocobalamin,anemia,wheezing; rash; itching; rash; wheezing
+DB00117,Histidine,arthritis; arthritis; rheumatoid arthritis; anemia,
+DB00118,Ademetionine,fibromyalgia; fibromyalgia; depression; osteoarthritis; fibromyalgia; depression,mucus; depression; depression
+DB00119,Pyruvic acid,,discomfort; bloating; gas; diarrhea; diarrhea
+DB00120,L-Phenylalanine,depression; depression,schizophrenia
+DB00123,L-Lysine,herpes,
+DB00125,L-Arginine,,abdominal cramps; nausea; abdominal cramps; diarrhea; diarrhea
+DB00128,L-Aspartic Acid,aids,diarrhea; diarrhea
+DB00130,L-Glutamine,,pain; headache; chest pain; abdominal pain; back pain; cough; chest pain; nausea; bloating; abdominal pain; constipation; back pain; cough; abdominal pain
+DB00134,L-Methionine,,headache; nausea; vomiting; cirrhosis
+DB00135,L-Tyrosine,fatigue; fatigue; fatigue; fatigue; narcolepsy,
+DB00136,Calcitriol,,weakness; anorexia; polydipsia; weakness; nausea; vomiting; anorexia; polyuria; weakness; pruritus; polyuria; polydipsia; weakness; weakness; anorexia; anorexia
+DB00138,Cystine,arthritis; arthritis; osteoarthritis; rheumatoid arthritis,nausea; hyperactivity
+DB00141,N-Acetylglucosamine,osteoarthritis,distress; heartburn; diarrhea; heartburn; diarrhea
+DB00142,Glutamic Acid,fatigue; fatigue; fatigue; fatigue; schizophrenia,
+DB00146,Calcidiol,,tiredness; weakness; thirst; pain; headache; muscle pain; bone pain; weakness; irregular heartbeat; nausea; vomiting; diarrhea; constipation; loss of appetite; frequency; muscle pain; weakness; bone pain; itching; weakness; weakness; diarrhea
+DB00150,L-Tryptophan,pain; depression; depression,fever; sweating; shaking; trembling; twitching; confusion; vomiting; diarrhea; sweating; fever; diarrhea; agitation; confusion
+DB00152,Thiamine,delirium; psychosis; psychosis,
+DB00153,Ergocalciferol,,fatigue; weakness; weight loss; headache; weakness; nausea; vomiting; diarrhea; weakness; weight loss; fatigue; weakness; fatigue; weakness; fatigue; weight loss; diarrhea; irritability
+DB00156,L-Threonine,aids,
+DB00157,NADH,fatigue; fatigue; fatigue; fatigue,anxiety; insomnia
+DB00158,Folic Acid,anemia,
+DB00162,Vitamin A,,lethargy; weakness; anorexia; pain; pressure; headache; bone pain; dizziness; weakness; blindness; diplopia; vomiting; diarrhea; anorexia; weakness; bone pain; dry skin; hair loss; dry skin; weakness; splenomegaly; hepatomegaly; weakness; anorexia; splenomegaly; hepatomegaly; diarrhea; irritability; anorexia; neuropathy; anemia
+DB00163,Vitamin E,arthritis; asthma; arthritis; rheumatoid arthritis; diabetes; asthma,
+DB00165,Pyridoxine,neuropathy,weakness; weakness; ataxia; dyspnea; diarrhea; weakness; muscle weakness; ataxia; weakness; weakness; dyspnea; diarrhea
+DB00168,Aspartame,,diarrhea; diarrhea
+DB00169,Cholecalciferol,,hyperthermia; weakness; weight loss; anorexia; polydipsia; pain; headache; muscle pain; bone pain; weakness; photophobia; rhinorrhea; hypertension; nausea; vomiting; constipation; anorexia; polyuria; nocturia; muscle pain; weakness; bone pain; polyuria; polydipsia; weight loss; decreased libido; weakness; weakness; anorexia; weight loss; conjunctivitis; anorexia; hypertension; pancreatitis
+DB00170,Menadione,,anemia
+DB00175,Pravastatin,,pain; abdominal pain; nausea; gas; abdominal pain; diarrhea; constipation; myositis; diarrhea; abdominal pain
+DB00176,Fluvoxamine,depression; bulimia; depression,sweating; anorexia; headache; nausea; constipation; anorexia; rash; sweating; anorexia; rash; mania; anorexia
+DB00177,Valsartan,hypertension; hypertension; coronary artery disease; heart failure,
+DB00178,Ramipril,hypertension; hypertension; heart failure; diabetes,asthenia; edema; pain; pressure; headache; chest pain; dizziness; dyspnea; chest pain; bradycardia; hypotension; edema; peripheral edema; nausea; impotence; arthritis; rash; bradycardia; rash; dyspnea; hypotension; arthritis
+DB00179,Masoprocol,,dizziness; wheezing; wheezing
+DB00180,Flunisolide,asthma; asthma,
+DB00181,Baclofen,pain; rigidity,
+DB00182,Amphetamine,narcolepsy; attention deficit; hyperactivity,pain; chest pain; chest pain; agitation
+DB00184,Nicotine,,diaphoresis; weakness; pain; abdominal pain; dizziness; weakness; confusion; palpitations; hypotension; flushing; nausea; vomiting; abdominal pain; diarrhea; weakness; flushing; palpitations; weakness; weakness; diarrhea; abdominal pain; confusion; hypotension
+DB00186,Lorazepam,anxiety,depression; depression
+DB00187,Esmolol,tachycardia; atrial fibrillation; atrial flutter; tachycardia,loss of consciousness; bradycardia; hypotension; bradycardia; hypotension
+DB00188,Bortezomib,,pressure; hypotension; hypotension
+DB00189,Ethchlorvynol,insomnia,thrombocytopenia
+DB00190,Carbidopa,paralysis,weakness; weakness; confusion; irregular heartbeat; nausea; vomiting; diarrhea; weakness; weakness; weakness; diarrhea; agitation; confusion
+DB00191,Phentermine,,collapse; convulsion; delirium; tachycardia; arrhythmia; hypertension; tachycardia; arrhythmia; mania; hypertension; arrhythmia
+DB00192,Indecainide,tachycardia; ventricular tachycardia; tachycardia,syncope; tachycardia; bradycardia; ventricular tachycardia; hypotension; syncope; nausea; vomiting; tachycardia; bradycardia; hypotension
+DB00193,Tramadol,pain; constipation; depression; osteoarthritis; depression,
+DB00194,Vidarabine,herpes,
+DB00195,Betaxolol,hypertension; hypertension,bronchospasm; bradycardia; hypotension; bradycardia; hypotension; heart failure
+DB00197,Troglitazone,diabetes,
+DB00198,Oseltamivir,influenza,nausea; vomiting
+DB00199,Erythromycin,cough; whooping cough; pertussis; cough; urethritis; syphilis,nausea; vomiting; diarrhea; diarrhea
+DB00200,Hydroxocobalamin,diarrhea; diarrhea; hyperthyroidism; anemia,
+DB00201,Caffeine,fatigue; apnea; hypotension; orthostatic hypotension; fatigue; fatigue; fatigue; hypotension,
+DB00203,Sildenafil,hypertension; erectile dysfunction; erectile dysfunction; hypertension,
+DB00204,Dofetilide,atrial fibrillation; atrial flutter,
+DB00205,Pyrimethamine,malaria,
+DB00206,Reserpine,hypertension; hypertension,
+DB00207,Azithromycin,,jaundice; angioedema; jaundice; jaundice; angioedema
+DB00208,Ticlopidine,,hypothermia; dyspnea; purpura; purpura; dyspnea; anemia; thrombocytopenia
+DB00209,Trospium,frequency; urinary frequency; urgency; incontinence,
+DB00211,Midodrine,hypotension; orthostatic hypotension; hypotension,hypertension; hypertension
+DB00212,Remikiren,hypertension; hypertension; heart failure,
+DB00213,Pantoprazole,,tremor; ataxia; ataxia; tremor
+DB00214,Torasemide,edema; hypertension; edema; hypertension; heart failure,dehydration; hypotension; hypotension
+DB00215,Citalopram,depression; agitation; dementia; neuropathy; depression; dementia,sweating; dizziness; tremor; amnesia; confusion; hyperventilation; tachycardia; arrhythmia; cyanosis; nausea; vomiting; cyanosis; sweating; tremor; tachycardia; arrhythmia; cyanosis; confusion; amnesia; insomnia; hyperactivity; arrhythmia
+DB00216,Eletriptan,migraine; migraine,hypertension; hypertension
+DB00217,Bethanidine,hypertension; hypertension,
+DB00218,Moxifloxacin,conjunctivitis; bronchitis; pneumonia,tremor; vomiting; diarrhea; tremor; diarrhea
+DB00220,Nelfinavir,hiv,fatigue; weight loss; thirst; increased urination; weight loss; hunger; fatigue; fatigue; fatigue; weight loss
+DB00221,Isoetarine,wheezing; wheezing; asthma; bronchitis; asthma,headache; palpitations; tachycardia; nausea; palpitations; tachycardia
+DB00222,Glimepiride,diabetes,seizure
+DB00224,Indinavir,hiv,angina; angina
+DB00226,Guanadrel,hypertension; hypertension,fatigue; headache; dizziness; nasal congestion; gas; diarrhea; constipation; loss of appetite; fatigue; fatigue; fatigue; diarrhea
+DB00228,Enflurane,,headache; dizziness; hypotension; nausea; vomiting; depression; hypotension; depression
+DB00229,Cefotiam,,distress; nausea; vomiting; diarrhea; diarrhea
+DB00230,Pregabalin,pain; fibromyalgia; neuralgia; neuropathic pain; fibromyalgia; fibromyalgia; neuralgia; neuropathy,weight gain; edema; dizziness; blurred vision; edema; peripheral edema; nausea; weight gain
+DB00231,Temazepam,insomnia,
+DB00232,Methyclothiazide,edema; hypertension; edema; hypertension; heart failure; cirrhosis,weakness; dizziness; weakness; confusion; weakness; weakness; weakness; confusion
+DB00233,Aminosalicylic Acid,tuberculosis,
+DB00234,Reboxetine,depression; depression,
+DB00235,Milrinone,heart failure,
+DB00237,Butabarbital,anxiety; insomnia,fever; weakness; weakness; confusion; shortness of breath; weakness; weakness; weakness; fever; irritability; confusion
+DB00238,Nevirapine,hiv,fever; fatigue; edema; headache; vertigo; edema; erythema; nausea; vomiting; rash; erythema; fatigue; fatigue; fever; fatigue; rash; insomnia
+DB00239,Oxiconazole,,burning; erythema; rash; dermatitis; pruritus; erythema; nodules; rash; dermatitis
+DB00240,Alclometasone,,rash; hives; itching; rash
+DB00241,Butalbital,pain,confusion; hypotension; depression; confusion; hypotension; depression
+DB00242,Cladribine,anemia; leukemia; lymphoma; thrombocytopenia,paraparesis; anemia; thrombocytopenia
+DB00243,Ranolazine,angina; angina,dizziness; syncope; loss of consciousness; paresthesia; confusion; diplopia; syncope; nausea; vomiting; confusion
+DB00245,Benzatropine,,hyperthermia; weakness; pressure; headache; dizziness; numbness; weakness; ataxia; confusion; delirium; blurred vision; palpitations; tachycardia; nausea; vomiting; constipation; dysuria; weakness; muscle weakness; ataxia; anhidrosis; palpitations; tachycardia; weakness; weakness; confusion
+DB00246,Ziprasidone,schizophrenia,
+DB00247,Methysergide,headache,dizziness; tachycardia; cyanosis; cyanosis; tachycardia; cyanosis; euphoria; hyperactivity
+DB00248,Cabergoline,,syncope; nasal congestion; syncope
+DB00249,Idoxuridine,herpes,increased sensitivity
+DB00250,Dapsone,dermatitis; dermatitis,pressure; syncope; nasal congestion; syncope
+DB00252,Phenytoin,,pressure; low blood pressure; nausea; vomiting
+DB00253,Medrysone,conjunctivitis,
+DB00254,Doxycycline,malaria,anorexia; hypertension; nausea; dysphagia; anorexia; dermatitis; urticaria; purpura; purpura; anorexia; urticaria; anorexia; hypertension; dermatitis; urticaria; thrombocytopenia; anaphylaxis
+DB00255,Diethylstilbestrol,,nausea; vomiting
+DB00256,Lymecycline,malaria,nausea; vomiting; dysphagia; dermatitis; dermatitis
+DB00257,Clotrimazole,,edema; burning; edema; erythema; urticaria; pruritus; erythema; urticaria; urticaria
+DB00258,Calcium Acetate,,loss of consciousness; confusion; nausea; vomiting; constipation; loss of appetite; confusion
+DB00259,Sulfanilamide,,swelling; burning; swelling; redness; rash; swelling; itching; redness; rash
+DB00260,Cycloserine,tuberculosis,headache; dizziness; numbness; tingling; paralysis; confusion; irritability; confusion
+DB00261,Anagrelide,,thrombocytopenia
+DB00262,Carmustine,tumors,nausea; thrombocytopenia
+DB00263,Sulfisoxazole,conjunctivitis; malaria,
+DB00264,Metoprolol,migraine; angina; angina; hypertension; hypertension; heart failure; migraine,bronchospasm; bradycardia; hypotension; bradycardia; hypotension
+DB00267,Cefmenoxime,,distress; nausea; vomiting; diarrhea; diarrhea
+DB00268,Ropinirole,,pain; pressure; chest pain; dizziness; confusion; chest pain; low blood pressure; nausea; vomiting; agitation; confusion
+DB00269,Chlorotrianisene,menopause,nausea; vomiting
+DB00270,Isradipine,hypertension; hypertension,lethargy; tachycardia; hypotension; tachycardia; hypotension
+DB00273,Topiramate,migraine; migraine,pain; pressure; abdominal pain; dizziness; blurred vision; double vision; low blood pressure; abdominal pain; diarrhea; diarrhea; abdominal pain; depression; agitation; depression
+DB00274,Cefmetazole,,distress; nausea; vomiting; diarrhea; diarrhea
+DB00275,Olmesartan,hypertension; hypertension,pressure; low blood pressure
+DB00276,Amsacrine,,nausea; vomiting; diarrhea; diarrhea
+DB00277,Theophylline,asthma; bronchitis; emphysema; asthma,
+DB00278,Argatroban,thrombocytopenia,
+DB00279,Liothyronine,hypothyroidism,
+DB00280,Disopyramide,tachycardia; ventricular tachycardia; tachycardia,
+DB00281,Lidocaine,anesthesia,bradycardia; bradycardia
+DB00283,Clemastine,sneezing; rhinorrhea; rhinitis; urticaria; angioedema; pruritus; urticaria; angioedema; rhinitis; urticaria; common cold,fever; hyperthermia; twitching; ataxia; incoordination; cyanosis; flushing; ataxia; flushing; cyanosis; cyanosis; fever; depression; depression
+DB00284,Acarbose,diabetes,
+DB00285,Venlafaxine,pain; neuropathic pain; anxiety; panic; phobia; anxiety disorder,seizure; depression; depression
+DB00286,Conjugated estrogens,menopause,nausea; vomiting
+DB00287,Travoprost,pressure; hypertension; hypertension,
+DB00289,Atomoxetine,hyperactivity,agitation; hyperactivity
+DB00290,Bleomycin,,fever; chills; confusion; wheezing; nausea; vomiting; fever; wheezing; confusion
+DB00291,Chlorambucil,leukemia; lymphoma,
+DB00292,Etomidate,anesthesia,pain; myoclonus
+DB00293,Raltitrexed,,fever; chills; tiredness; weakness; pain; chest pain; sore throat; weakness; cough; shortness of breath; sore throat; chest pain; loose stools; weakness; bruising; weakness; weakness; fever; cough
+DB00294,Etonogestrel,,nausea; vomiting
+DB00295,Morphine,pain,pressure
+DB00296,Ropivacaine,anesthesia,dizziness; collapse; loss of consciousness; tingling; tremor; tinnitus; blurred vision; apnea; bradycardia; hypotension; tremor; bradycardia; depression; hypotension; depression
+DB00297,Bupivacaine,anesthesia,seizure
+DB00299,Penciclovir,,pain; headache; abdominal pain; dizziness; nausea; dyspepsia; abdominal pain; dyspepsia; abdominal pain
+DB00300,Tenofovir disoproxil,hepatitis; hiv; hepatitis,
+DB00302,Tranexamic Acid,hemophilia,hypotension; nausea; vomiting; hypotension
+DB00303,Ertapenem,pneumonia; pyelonephritis,
+DB00304,Desogestrel,,nausea
+DB00305,Mitomycin,,nausea; vomiting
+DB00306,Talbutal,,confusion; hypotension; depression; confusion; hypotension; depression
+DB00307,Bexarotene,lymphoma,
+DB00308,Ibutilide,atrial fibrillation; atrial flutter,depression; depression
+DB00309,Vindesine,lymphoma,
+DB00310,Chlorthalidone,hypertension; hypertension,weakness; dizziness; weakness; nausea; weakness; weakness; weakness
+DB00311,Ethoxzolamide,epilepsy,
+DB00312,Pentobarbital,insomnia,incoordination
+DB00313,Valproic Acid,headache; migraine; seizure; mania; migraine,
+DB00314,Capreomycin,tuberculosis,
+DB00315,Zolmitriptan,migraine; migraine,
+DB00316,Acetaminophen,fever; fever,
+DB00317,Gefitinib,,diarrhea; rash; rash; diarrhea
+DB00318,Codeine,pain; cough; cough,apnea; bradycardia; hypotension; nausea; vomiting; bradycardia; depression; hypotension; depression
+DB00320,Dihydroergotamine,headache; migraine; migraine; cluster headache,pain; pressure; abdominal pain; numbness; tingling; confusion; nausea; vomiting; abdominal pain; abdominal pain; confusion
+DB00321,Amitriptyline,pain; migraine; depression; agitation; insomnia; irritable bowel syndrome; migraine; neuropathy; depression,pressure; confusion; delirium; blurred vision; tachycardia; irregular heartbeat; hypertension; hypotension; low blood pressure; postural hypotension; constipation; tachycardia; depression; anxiety; confusion; insomnia; hypertension; hypotension; heart failure; depression
+DB00322,Floxuridine,,nausea; vomiting; diarrhea; diarrhea; depression; thrombocytopenia; depression
+DB00324,Fluorometholone,,conjunctivitis
+DB00325,Nitroprusside,pressure; heart failure,hypotension; hypotension
+DB00326,Calcium Gluceptate,tetany,pressure; increased sensitivity; confusion; high blood pressure; frequency; confusion
+DB00327,Hydromorphone,pain,collapse; apnea; bradycardia; hypotension; nausea; vomiting; bradycardia; depression; hypotension; depression
+DB00328,Indomethacin,arthritis; arthritis; osteoarthritis; rheumatoid arthritis,lethargy; headache; dizziness; numbness; confusion; disorientation; nausea; vomiting; confusion; disorientation
+DB00330,Ethambutol,tuberculosis,malaise; pain; headache; abdominal pain; joint pain; dizziness; confusion; disorientation; abdominal pain; joint pain; pruritus; malaise; abdominal pain; confusion; disorientation; neuropathy
+DB00331,Metformin,,malaise; weakness; discomfort; headache; dizziness; weakness; nausea; vomiting; diarrhea; weakness; weakness; weakness; malaise; diarrhea
+DB00332,Ipratropium bromide,bronchospasm; bronchitis; emphysema,
+DB00333,Methadone,pain; cough; dry cough; cough,collapse; apnea
+DB00334,Olanzapine,schizophrenia,dysarthria; tachycardia; tachycardia; agitation
+DB00335,Atenolol,angina; angina,weakness; dizziness; fainting; weakness; confusion; shortness of breath; fainting; nausea; vomiting; weakness; weakness; weakness; confusion
+DB00336,Nitrofural,,dermatitis; dermatitis
+DB00337,Pimecrolimus,dermatitis; dermatitis,burning; burning sensation; erythema; pruritus; erythema
+DB00338,Omeprazole,reflux; heartburn; heartburn,diaphoresis; headache; confusion; blurred vision; tachycardia; flushing; nausea; flushing; tachycardia; confusion
+DB00339,Pyrazinamide,tuberculosis,fever; malaise; anorexia; nausea; vomiting; anorexia; dysuria; urticaria; fever; malaise; anorexia; urticaria; anorexia; urticaria; anemia
+DB00340,Metixene,,ataxia; confusion; disorientation; delirium; secretions; tachycardia; flushing; ataxia; flushing; dry skin; dry skin; tachycardia; anxiety; agitation; paranoia; confusion; disorientation; hyperactivity
+DB00341,Cetirizine,rhinitis; urticaria; urticaria; rhinitis; urticaria,irritability
+DB00342,Terfenadine,fever; rhinitis; fever; rhinitis,headache; confusion; nausea; confusion
+DB00343,Diltiazem,hypertension; hypertension,
+DB00344,Protriptyline,depression; depression,discomfort; pressure; headache; dizziness; confusion; delirium; blurred vision; tachycardia; irregular heartbeat; hypertension; hypotension; low blood pressure; postural hypotension; flushing; constipation; impotence; rash; flushing; tachycardia; decreased libido; rash; depression; anxiety; confusion; insomnia; hypertension; hypotension; heart failure; depression
+DB00346,Alfuzosin,straining; urgency,fatigue; headache; dizziness; hypotension; postural hypotension; fatigue; fatigue; fatigue; hypotension
+DB00347,Trimethadione,,dizziness; clumsiness; nausea
+DB00349,Clobazam,epilepsy,pyrexia; lethargy
+DB00350,Minoxidil,hypertension; alopecia; hair loss; alopecia; hypertension,weight gain; dizziness; hypotension; weight gain; hypotension
+DB00351,Megestrol acetate,weight loss; anorexia; anorexia; weight loss; anorexia; weight loss; anorexia; immunodeficiency; aids,
+DB00352,Tioguanine,,diaphoresis; malaise; hypotension; nausea; vomiting; malaise; hypotension
+DB00353,Methylergometrine,,headache; hypertension; hypotension; nausea; vomiting; hypertension; hypotension
+DB00354,Buclizine,dizziness; vertigo; nausea; vomiting,
+DB00356,Chlorzoxazone,discomfort,headache; dizziness; nausea; vomiting; diarrhea; diarrhea
+DB00357,Aminoglutethimide,,fatigue; lethargy; dehydration; dizziness; ataxia; hypotension; nausea; vomiting; ataxia; fatigue; fatigue; fatigue; depression; hypotension; depression
+DB00358,Mefloquine,malaria,weight loss; nausea; vomiting; weight loss; weight loss
+DB00359,Sulfadiazine,fever; fever,
+DB00363,Clozapine,schizophrenia,
+DB00366,Doxylamine,allergy,fever; swelling; cough; wheezing; swelling; swelling; itching; fever; wheezing; cough
+DB00368,Norepinephrine,hypotension; hypotension,
+DB00369,Cidofovir,immunodeficiency; aids,
+DB00370,Mirtazapine,,disorientation; tachycardia; tachycardia; disorientation
+DB00371,Meprobamate,anxiety,
+DB00372,Thiethylperazine,nausea; vomiting,confusion; hypotension; depression; confusion; hypotension; depression
+DB00373,Timolol,pressure; migraine; high blood pressure; migraine,headache; vertigo
+DB00374,Treprostinil,hypertension; hypertension,headache; hypotension; flushing; nausea; vomiting; diarrhea; flushing; diarrhea; hypotension
+DB00375,Colestipol,,abdominal cramps; nausea; vomiting; abdominal cramps; diarrhea; constipation; diarrhea
+DB00376,Trihexyphenidyl,,hyperthermia; confusion; depression; agitation; confusion; depression
+DB00377,Palonosetron,nausea; vomiting,collapse; cyanosis; pallor; pallor; cyanosis; pallor; cyanosis
+DB00379,Mexiletine,tachycardia; ventricular tachycardia; tachycardia,collapse; paresthesia; bradycardia; heart block; hypotension; nausea; bradycardia; hypotension
+DB00381,Amlodipine,angina; angina; hypertension; hypertension,tachycardia; hypotension; tachycardia; hypotension
+DB00382,Tacrine,dementia; dementia,sweating; weakness; collapse; weakness; bradycardia; hypotension; nausea; vomiting; weakness; muscle weakness; sweating; bradycardia; weakness; weakness; hypotension
+DB00383,Oxyphencyclimine,peptic ulcer,
+DB00384,Triamterene,edema; edema; heart failure; cirrhosis,weakness; weakness; hypotension; nausea; vomiting; weakness; weakness; weakness; hypotension
+DB00388,Phenylephrine,pressure; nasal congestion; tachycardia; hypotension; tachycardia; hypotension,
+DB00389,Carbimazole,hyperthyroidism,
+DB00390,Digoxin,heart failure,tachycardia; heart block; ventricular tachycardia; tachycardia
+DB00391,Sulpiride,schizophrenia,torticollis; torticollis
+DB00392,Ethopropazine,,clumsiness; shortness of breath; flushing; flushing
+DB00393,Nimodipine,,hypotension; hypotension
+DB00394,Beclomethasone dipropionate,rhinitis; rhinitis; asthma; asthma,
+DB00395,Carisoprodol,discomfort,weakness; headache; dizziness; giddiness; weakness; ataxia; dysarthria; diplopia; wheezing; tachycardia; hypotension; postural hypotension; erythema; nausea; indigestion; indigestion; weakness; ataxia; rash; erythema; tachycardia; weakness; weakness; rash; wheezing; irritability; insomnia; hypotension; anaphylaxis
+DB00396,Progesterone,amenorrhea; amenorrhea,
+DB00397,Phenylpropanolamine,nasal congestion; incontinence; priapism,tingling; tachycardia; ventricular tachycardia; tachycardia
+DB00398,Sorafenib,,diarrhea; diarrhea
+DB00399,Zoledronic acid,tumors,
+DB00401,Nisoldipine,hypertension; hypertension,
+DB00402,Eszopiclone,insomnia,dizziness; rash; rash
+DB00404,Alprazolam,anxiety; panic; anxiety disorder,confusion; confusion
+DB00405,Dexbrompheniramine,fever; fever,tiredness; weakness; weakness; irregular heartbeat; weakness; weakness; weakness
+DB00406,Gentian Violet,,depression; depression
+DB00407,Ardeparin,,bruising
+DB00408,Loxapine,schizophrenia,
+DB00409,Remoxipride,schizophrenia,
+DB00412,Rosiglitazone,diabetes,fluid retention; heart failure
+DB00414,Acetohexamide,diabetes,weakness; weakness; nausea; weakness; hunger; weakness; weakness; anxiety
+DB00416,Metocurine Iodide,anesthesia,hypotension; hypotension
+DB00417,Phenoxymethylpenicillin,fever; fever,pain; stomach pain; nausea; vomiting; stomach pain; diarrhea; diarrhea
+DB00418,Secobarbital,insomnia,incoordination
+DB00419,Miglustat,allergy,dizziness; paresthesia; immunodeficiency; hiv
+DB00420,Promazine,agitation,weight gain; constipation; weight gain
+DB00421,Spironolactone,hypertension; hypertension,dizziness; confusion; nausea; vomiting; diarrhea; rash; rash; diarrhea; confusion
+DB00422,Methylphenidate,hyperactivity; impulsivity; emotional lability,sweating; headache; twitching; confusion; delirium; palpitations; tachycardia; hypertension; flushing; vomiting; flushing; sweating; palpitations; tachycardia; euphoria; agitation; confusion; hypertension
+DB00423,Methocarbamol,,pressure; blurred vision; low blood pressure; nausea
+DB00424,Hyoscyamine,colic; rhinitis; colic; rhinitis; peptic ulcer; irritable bowel syndrome; pancreatitis; cystitis,headache; dizziness; blurred vision; nausea; vomiting; dry skin; dry skin
+DB00425,Zolpidem,insomnia,
+DB00426,Famciclovir,hiv; herpes,fever; fatigue; headache; dizziness; nausea; vomiting; diarrhea; constipation; fatigue; fatigue; fever; fatigue; diarrhea
+DB00427,Triprolidine,rhinitis; urticaria; angioedema; urticaria; angioedema; rhinitis; conjunctivitis; urticaria; common cold,weakness; weakness; tachycardia; hypertension; hypotension; weakness; tachycardia; weakness; weakness; depression; irritability; agitation; hypertension; hypotension; depression
+DB00428,Streptozocin,,anorexia; nausea; vomiting; anorexia; anorexia; anorexia
+DB00429,Carboprost Tromethamine,,pyrexia; dyspnea; hypertension; flushing; nausea; vomiting; diarrhea; flushing; dyspnea; diarrhea; asthma; hypertension; asthma
+DB00430,Cefpiramide,,distress; nausea; vomiting; diarrhea; diarrhea
+DB00431,Lindane,,convulsion
+DB00432,Trifluridine,herpes,depression; depression
+DB00433,Prochlorperazine,nausea; vomiting; anxiety; anxiety disorder,fever; hypotension; fever; depression; agitation; hypotension; depression
+DB00434,Cyproheptadine,rhinitis; urticaria; angioedema; urticaria; angioedema; rhinitis; conjunctivitis; urticaria,
+DB00436,Bendroflumethiazide,edema; pressure; high blood pressure; edema; heart failure,
+DB00437,Allopurinol,gout,
+DB00438,Ceftazidime,,seizure
+DB00440,Trimethoprim,diarrhea; diarrhea; bronchitis; pneumonia; pyelonephritis; cystitis,
+DB00441,Gemcitabine,,rash; rash
+DB00442,Entecavir,hepatitis; hepatitis,
+DB00443,Betamethasone,,burning; dermatitis; itching; hypertrichosis; dermatitis
+DB00446,Chloramphenicol,diarrhea; conjunctivitis; diarrhea; cholera,collapse; cyanosis; emesis; distension; cyanosis; cyanosis
+DB00447,Loracarbef,bronchitis; pneumonia; pyelonephritis,headache; dizziness; nausea; vomiting; diarrhea; rash; rash; diarrhea; depression; depression
+DB00448,Lansoprazole,reflux; peptic ulcer,pain; abdominal pain; nausea; abdominal pain; diarrhea; diarrhea; abdominal pain
+DB00449,Dipivefrin,pressure,
+DB00450,Droperidol,nausea; vomiting,
+DB00451,Levothyroxine,goiter; hypothyroidism,fever; sweating; weight loss; increased appetite; pressure; abdominal cramps; palpitations; tachycardia; abdominal cramps; diarrhea; weight loss; heat intolerance; sweating; palpitations; tachycardia; fever; weight loss; diarrhea; insomnia
+DB00453,Clomocycline,bronchitis,
+DB00454,Pethidine,pain,
+DB00455,Loratadine,rhinitis; erythema; urticaria; pruritus; erythema; urticaria; rhinitis; urticaria,headache; tachycardia; tachycardia
+DB00457,Prazosin,hypertension; hypertension; heart failure,
+DB00458,Imipramine,neuralgia; enuresis; depression; panic; neuralgia; depression; bipolar disorder; schizophrenia,malaise; pain; headache; abdominal pain; ataxia; delirium; blurred vision; tachycardia; hypertension; hypotension; postural hypotension; nausea; vomiting; abdominal pain; diarrhea; constipation; urine retention; ataxia; tachycardia; malaise; diarrhea; abdominal pain; depression; anxiety; insomnia; hypertension; hypotension; heart failure; depression; bipolar disorder
+DB00459,Acitretin,psoriasis,headache; vertigo
+DB00460,Verteporfin,tumors,
+DB00461,Nabumetone,arthritis; arthritis; osteoarthritis; rheumatoid arthritis,pain; abdominal pain; abdominal pain; abdominal pain
+DB00462,Methylscopolamine bromide,nausea; vomiting; peptic ulcer,weakness; headache; dizziness; paralysis; weakness; confusion; blurred vision; irregular heartbeat; nausea; vomiting; difficulty swallowing; weakness; dry skin; dry skin; weakness; weakness; anxiety; confusion
+DB00463,Metharbital,epilepsy,fever; weakness; weakness; confusion; shortness of breath; weakness; weakness; weakness; fever; irritability; confusion
+DB00464,Sodium Tetradecyl Sulfate,varicose veins,
+DB00465,Ketorolac,pain,
+DB00466,Picrotoxin,distress; respiratory distress,paralysis; delirium
+DB00467,Enoxacin,cystitis,
+DB00468,Quinine,malaria,thrombocytopenia
+DB00469,Tenoxicam,pain; backache; arthritis; arthritis; osteoarthritis; rheumatoid arthritis,
+DB00470,Dronabinol,weight loss; anorexia; nausea; vomiting; anorexia; weight loss; anorexia; weight loss; anorexia; aids,
+DB00471,Montelukast,asthma; asthma,fever; tiredness; weakness; pain; headache; stomach pain; dental pain; dizziness; weakness; cough; stuffy nose; heartburn; stomach pain; heartburn; weakness; rash; weakness; weakness; fever; rash; cough
+DB00472,Fluoxetine,pain; fibromyalgia; neuropathic pain; fibromyalgia; depression; anxiety; panic; agitation; dementia; bulimia; fibromyalgia; depression; anxiety disorder; dementia,sweating; fatigue; asthenia; anorexia; dizziness; lightheadedness; tremor; nausea; diarrhea; anorexia; rash; sweating; tremor; decreased libido; fatigue; fatigue; fatigue; anorexia; rash; diarrhea; anxiety; agitation; insomnia; anorexia; hyperactivity
+DB00473,Hexylcaine,,headache; twitching; tinnitus; depression; depression
+DB00474,Methohexital,,edema; collapse; twitching; hypotension; edema; depression; hyperactivity; hypotension; depression
+DB00475,Chlordiazepoxide,anxiety,weakness; weakness; weakness; muscle weakness; weakness; weakness; depression; depression
+DB00476,Duloxetine,pain; fibromyalgia; neuropathic pain; incontinence; fibromyalgia; anxiety; fibromyalgia; neuropathy; anxiety disorder,rigidity
+DB00477,Chlorpromazine,hiccups; nausea; vomiting; impulsivity; schizophrenia,fever; pressure; low blood pressure; difficulty swallowing; fever; agitation
+DB00478,Rimantadine,influenza,arrhythmia; arrhythmia; agitation; arrhythmia
+DB00479,Amikacin,tuberculosis,dizziness; vertigo; nausea; vomiting; frequency
+DB00480,Lenalidomide,anemia,
+DB00482,Celecoxib,pain; dysmenorrhea; dysmenorrhea; arthritis; arthritis; osteoarthritis; rheumatoid arthritis,pain; pressure; stomach pain; high blood pressure; nausea; vomiting; stomach pain
+DB00483,Gallamine Triethiodide,anesthesia,
+DB00484,Brimonidine,pressure; hypertension; erythema; erythema; hypertension,burning; burning sensation; flushing; erythema; dermatitis; erythema; flushing; dermatitis
+DB00485,Dicloxacillin,,fever; chills; wheezing; nausea; rash; hives; itching; fever; rash; wheezing
+DB00486,Nabilone,nausea; vomiting,anxiety
+DB00487,Pefloxacin,urethritis,burning; rash; itching; rash; anxiety; agitation; neuropathy
+DB00489,Sotalol,atrial fibrillation; atrial flutter,bronchospasm; bradycardia; hypotension; bradycardia; hypotension; heart failure
+DB00490,Buspirone,depression; anxiety; depression,dizziness; nausea; vomiting
+DB00491,Miglitol,diabetes,discomfort; flatulence; diarrhea; diarrhea
+DB00492,Fosinopril,hypertension; hypertension; heart failure; diabetes,fatigue; headache; cough; hypotension; fatigue; fatigue; fatigue; cough; hypotension
+DB00493,Cefotaxime,pyelonephritis,distress; nausea; vomiting; diarrhea; diarrhea
+DB00494,Entacapone,,pain; abdominal pain; dizziness; hypotension; orthostatic hypotension; nausea; abdominal pain; diarrhea; constipation; diarrhea; abdominal pain; hypotension
+DB00495,Zidovudine,hiv,fatigue; headache; nausea; vomiting; fatigue; fatigue; fatigue
+DB00496,Darifenacin,frequency; urgency; incontinence,
+DB00497,Oxycodone,pain,bradycardia; hypotension; bradycardia; depression; hypotension; depression
+DB00498,Phenindione,atrial fibrillation,
+DB00499,Flutamide,,anorexia; ataxia; emesis; anorexia; ataxia; anorexia; anorexia
+DB00500,Tolmetin,arthritis; arthritis; osteoarthritis; rheumatoid arthritis,lethargy; pain; nausea; vomiting
+DB00501,Cimetidine,reflux; heartburn; indigestion; indigestion; heartburn; peptic ulcer,nausea; vomiting; diarrhea; diarrhea
+DB00502,Haloperidol,delirium; nausea; vomiting; hyperactivity; schizophrenia,
+DB00503,Ritonavir,hiv,pancreatitis
+DB00504,Levallorphan,depression; depression,
+DB00505,Tridihexethyl,nystagmus; peptic ulcer,
+DB00507,Nitazoxanide,diarrhea; diarrhea,
+DB00508,Triflupromazine,nausea; vomiting,fever; pressure; low blood pressure; difficulty swallowing; fever; agitation
+DB00511,Acetyldigitoxin,heart failure,tachycardia; heart block; ventricular tachycardia; tachycardia
+DB00513,Aminocaproic Acid,,hypotension; hypotension
+DB00514,Dextromethorphan,cough; dry cough; cough,
+DB00515,Cisplatin,tumors,
+DB00516,Bentoquatam,dermatitis; dermatitis,redness; erythema; erythema; redness
+DB00517,Anisotropine Methylbromide,peptic ulcer,
+DB00518,Albendazole,,fever; itching; hair loss; fever
+DB00519,Trandolapril,hypertension; hypertension; heart failure; diabetes,headache; dizziness; cough; hypotension; cough; hypotension
+DB00520,Caspofungin,,swelling; swelling; nausea; rash; swelling; rash
+DB00521,Carteolol,hypertension; hypertension,bronchospasm; bradycardia; hypotension; bradycardia; hypotension; heart failure
+DB00522,Bentiromide,,shortness of breath
+DB00523,Alitretinoin,aids,
+DB00524,Metolazone,hypertension; hypertension,lethargy; dizziness; fainting; fainting
+DB00526,Oxaliplatin,,fatigue; pain; chest pain; paresthesia; dyspnea; wheezing; chest pain; bradycardia; nausea; vomiting; emesis; diarrhea; bradycardia; fatigue; fatigue; fatigue; wheezing; dyspnea; diarrhea; neuropathy; anemia; thrombocytopenia
+DB00527,Cinchocaine,anesthesia,bradycardia; bradycardia
+DB00528,Lercanidipine,angina; angina; hypertension; hypertension,
+DB00529,Foscarnet,immunodeficiency; aids,
+DB00530,Erlotinib,,fatigue; anorexia; nausea; diarrhea; anorexia; rash; fatigue; fatigue; fatigue; anorexia; rash; diarrhea; anorexia
+DB00531,Cyclophosphamide,,fever; febrile; nausea; vomiting; diarrhea; alopecia; alopecia; fever; diarrhea
+DB00532,Mephenytoin,epilepsy,
+DB00533,Rofecoxib,pain; migraine; dysmenorrhea; dysmenorrhea; arthritis; arthritis; osteoarthritis; rheumatoid arthritis; migraine,
+DB00535,Cefdinir,,distress; nausea; vomiting; diarrhea; diarrhea
+DB00536,Guanidine,weakness; weakness; weakness; muscle weakness; weakness; weakness,nausea; vomiting; diarrhea; diarrhea; anemia
+DB00537,Ciprofloxacin,fever; diarrhea; fever; diarrhea; cystitis; typhoid,
+DB00538,Gadoversetamide,tumors,
+DB00539,Toremifene,tumors,
+DB00540,Nortriptyline,pain; migraine; depression; agitation; insomnia; irritable bowel syndrome; migraine; neuropathy; depression,edema; delirium; blurred vision; tachycardia; hypertension; hypotension; postural hypotension; edema; constipation; tachycardia; depression; anxiety; insomnia; hypertension; hypotension; heart failure; depression
+DB00541,Vincristine,leukemia; lymphoma,
+DB00542,Benazepril,hypertension; hypertension,fatigue; headache; dizziness; cough; hypotension; nausea; fatigue; fatigue; fatigue; cough; hypotension
+DB00543,Amoxapine,depression; anxiety; agitation; depression,
+DB00546,Adinazolam,anxiety,weakness; weakness; ataxia; dysarthria; confusion; weakness; muscle weakness; ataxia; weakness; weakness; confusion
+DB00549,Zafirlukast,asthma; asthma,rash; rash
+DB00550,Propylthiouracil,hyperthyroidism,
+DB00551,Acetohydroxamic Acid,,lethargy; malaise; anorexia; tremor; nausea; vomiting; anorexia; tremor; malaise; anorexia; anxiety; anorexia
+DB00552,Pentostatin,,fatigue; lethargy; nausea; rash; fatigue; fatigue; fatigue; rash
+DB00553,Methoxsalen,psoriasis,
+DB00554,Piroxicam,arthritis; arthritis; osteoarthritis; rheumatoid arthritis,pain; stomach pain; nausea; vomiting; stomach pain
+DB00555,Lamotrigine,epilepsy; depression; depression,
+DB00556,Perflutren,,seizure
+DB00557,Hydroxyzine,urticaria; pruritus; urticaria; anxiety; urticaria,
+DB00558,Zanamivir,influenza,
+DB00559,Bosentan,hypertension; hypertension,pressure; headache; hypotension; nausea; vomiting; hypotension
+DB00560,Tigecycline,,headache; nausea; vomiting
+DB00561,Doxapram,,tachycardia; tachycardia; hyperactivity
+DB00562,Benzthiazide,edema; pressure; high blood pressure; edema,fatigue; nausea; vomiting; fatigue; fatigue; fatigue
+DB00563,Methotrexate,arthritis; arthritis; rheumatoid arthritis; psoriasis; leukemia; lymphoma,
+DB00564,Carbamazepine,pain; neuralgia; epilepsy; neuralgia,ataxia; nystagmus; hypotension; vomiting; ataxia; depression; hypotension; depression
+DB00565,Cisatracurium besylate,anesthesia,anesthesia
+DB00566,Succimer,,ataxia; ataxia
+DB00567,Cephalexin,,pain; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; diarrhea; abdominal pain
+DB00568,Cinnarizine,vertigo; nausea; vomiting,
+DB00571,Propranolol,migraine; migraine,bradycardia; hypotension; bradycardia; hypotension
+DB00572,Atropine,,fever; collapse; paralysis; tachycardia; tachycardia; fever; depression; depression
+DB00573,Fenoprofen,pain; arthritis; arthritis; osteoarthritis; rheumatoid arthritis,pain; headache; abdominal pain; dizziness; tremor; ataxia; confusion; tinnitus; tachycardia; hypotension; nausea; vomiting; dyspepsia; abdominal pain; dyspepsia; ataxia; tremor; tachycardia; abdominal pain; depression; confusion; hypotension; depression
+DB00574,Fenfluramine,,fever; sweating; pain; pressure; abdominal pain; tremor; confusion; nystagmus; hyperventilation; tachycardia; flushing; abdominal pain; flushing; sweating; tremor; tachycardia; fever; abdominal pain; agitation; confusion
+DB00575,Clonidine,pain; pressure; migraine; dysmenorrhea; hypertension; dysmenorrhea; menopause; hyperactivity; hypertension; migraine,weakness; pressure; weakness; high blood pressure; weakness; weakness; weakness; irritability
+DB00576,Sulfamethizole,urinary tract infection,
+DB00577,Valaciclovir,hiv; herpes,headache; nausea
+DB00578,Carbenicillin,,nausea; vomiting; diarrhea; diarrhea
+DB00579,Mazindol,hypertension; hypertension; diabetes,tremor; confusion; rapid breathing; irregular heartbeat; nausea; vomiting; diarrhea; tremor; diarrhea; panic; confusion
+DB00580,Valdecoxib,osteoarthritis,lethargy; pain; hypertension; nausea; vomiting; depression; hypertension; depression
+DB00581,Lactulose,constipation,dehydration; diarrhea; diarrhea
+DB00582,Voriconazole,,dyspnea; dyspnea
+DB00583,L-Carnitine,secretions,fever; tachycardia; hypertension; tachycardia; fever; hypertension
+DB00584,Enalapril,hypertension; hypertension; heart failure,fatigue; headache; dizziness; hypotension; fatigue; fatigue; fatigue; hypotension
+DB00585,Nizatidine,reflux; peptic ulcer,emesis; diarrhea; diarrhea
+DB00586,Diclofenac,arthritis; arthritis; osteoarthritis; rheumatoid arthritis,pressure; loss of consciousness
+DB00587,Cinalukast,asthma; asthma,
+DB00588,Fluticasone propionate,rhinitis; rhinitis; asthma; psoriasis; asthma,
+DB00590,Doxazosin,hypertension; hypertension,hypotension; hypotension
+DB00592,Piperazine,,fatigue; fatigue; fatigue; fatigue
+DB00593,Ethosuximide,epilepsy,nausea; vomiting; depression; depression
+DB00594,Amiloride,hypertension; hypertension; heart failure,dehydration
+DB00595,Oxytetracycline,,headache
+DB00598,Labetalol,pressure; angina; anesthesia; angina; hypertension; hypotension; hypertension; hypotension,fatigue; weakness; pressure; dizziness; weakness; low blood pressure; weakness; fatigue; weakness; fatigue; weakness; fatigue
+DB00599,Thiopental,pressure; anesthesia,pressure; apnea
+DB00601,Linezolid,,ataxia; vomiting; ataxia
+DB00602,Ivermectin,blindness,fever; pain; headache; joint pain; dizziness; joint pain; rash; fever; rash
+DB00603,Medroxyprogesterone acetate,pain; amenorrhea; amenorrhea,
+DB00604,Cisapride,reflux; heartburn; heartburn,
+DB00605,Sulindac,arthritis; arthritis; osteoarthritis; rheumatoid arthritis,hypotension; hypotension
+DB00606,Cyclothiazide,edema; hypertension; edema; hypertension; heart failure; cirrhosis,dehydration
+DB00607,Nafcillin,,pain; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; hematuria; hematuria; diarrhea; abdominal pain
+DB00608,Chloroquine,arthritis; arthritis; rheumatoid arthritis; malaria,
+DB00609,Ethionamide,tuberculosis,nausea; vomiting
+DB00610,Metaraminol,anesthesia; hypotension; hypotension,
+DB00611,Butorphanol,pain,
+DB00612,Bisoprolol,angina; angina; hypertension; hypertension; heart failure,fatigue; weight gain; swelling; pressure; shortness of breath; low blood pressure; swelling; swelling; weight gain; fatigue; fatigue; fatigue; heart failure
+DB00613,Amodiaquine,,headache; collapse; bradycardia; hypotension; vomiting; bradycardia; hypotension
+DB00614,Furazolidone,diarrhea; diarrhea,fever; pressure; arthralgia; arthralgia; rash; urticaria; fever; arthralgia; rash; urticaria; urticaria
+DB00615,Rifabutin,hiv,
+DB00617,Paramethadione,,dizziness; clumsiness; nausea
+DB00618,Demeclocycline,bronchitis; malaria,
+DB00619,Imatinib,tumors; leukemia,fatigue; edema; pain; abdominal pain; edema; nausea; vomiting; abdominal pain; diarrhea; rash; fatigue; fatigue; fatigue; rash; diarrhea; abdominal pain
+DB00620,Triamcinolone,rhinitis; rhinitis,
+DB00621,Oxandrolone,weight loss; weight gain; weight loss; weight gain; weight loss,
+DB00622,Nicardipine,angina; angina; hypertension; hypertension,
+DB00624,Testosterone,menopause; climacteric; hiv,sweating; edema; dizziness; paresthesia; amnesia; edema; peripheral edema; dry skin; hirsutism; sweating; dry skin; hirsutism; anxiety; amnesia
+DB00625,Efavirenz,hiv; aids,
+DB00626,Bacitracin,pneumonia,
+DB00627,Niacin,,flushing; flushing
+DB00628,Clorazepate,anxiety,confusion; confusion
+DB00629,Guanabenz,pressure; high blood pressure,pressure; low blood pressure; irritability
+DB00631,Clofarabine,leukemia,vomiting; rash; rash
+DB00632,Docosanol,fever; blisters; fever; herpes,pain; headache; abdominal pain; dizziness; nausea; dyspepsia; abdominal pain; dyspepsia; abdominal pain
+DB00633,Dexmedetomidine,pain; anxiety,
+DB00634,Sulfacetamide,conjunctivitis,tiredness; edema; headache; dizziness; edema; redness; erythema; nausea; vomiting; erythema; redness
+DB00635,Prednisone,edema; rhinitis; edema; erythema; dermatitis; erythema; purpura; tumors; purpura; rhinitis; conjunctivitis; tuberculosis; dermatitis; psoriasis; anemia; leukemia; thrombocytopenia; herpes,
+DB00637,Astemizole,rhinitis; rhinitis; conjunctivitis; allergy,
+DB00638,Inulin,diabetes,
+DB00640,Adenosine,tachycardia; tachycardia,
+DB00641,Simvastatin,,arthralgia; myalgia; arthralgia; myalgia; arthralgia; myalgia
+DB00643,Mebendazole,,fever; itching; hair loss; fever
+DB00645,Dyclonine,fever; anesthesia; fever,depression; depression
+DB00647,Dextropropoxyphene,pain,edema; collapse; edema; depression; depression
+DB00649,Stavudine,hiv,swelling; pain; burning; numbness; tingling; swelling; swelling; neuropathy
+DB00651,Dyphylline,bronchospasm; asthma; bronchitis; emphysema; asthma,
+DB00652,Pentazocine,pain,
+DB00653,Magnesium Sulfate,tetany; nephritis,hypotension; diarrhea; diarrhea; depression; hypotension; depression
+DB00654,Latanoprost,pressure; hypertension; hypertension,
+DB00655,Estrone,,edema; fluid retention; tenderness; fit; edema; nausea; vomiting; tenderness; depression; irritability; depression
+DB00656,Trazodone,depression; depression,
+DB00657,Mecamylamine,hypertension; hypertension,
+DB00659,Acamprosate,,diarrhea; diarrhea
+DB00661,Verapamil,headache; angina; angina; hypertension; hypertension; cluster headache,
+DB00662,Trimethobenzamide,nausea; vomiting,
+DB00663,Flumethasone,rash; dermatitis; rash; dermatitis; psoriasis,burning; burning sensation; rash; itching; rash
+DB00664,Sulfametopyrazine,bronchitis; urinary tract infection,
+DB00665,Nilutamide,,discomfort; headache; dizziness; nausea; vomiting
+DB00668,Epinephrine,anaphylaxis,
+DB00669,Sumatriptan,migraine; migraine,tremor; paralysis; ataxia; cyanosis; erythema; ataxia; erythema; cyanosis; tremor; cyanosis
+DB00670,Pirenzepine,peptic ulcer,
+DB00671,Cefixime,pharyngitis; bronchitis,pain; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; diarrhea; abdominal pain
+DB00673,Aprepitant,nausea; vomiting,
+DB00674,Galantamine,dementia; dementia,
+DB00676,Benzyl Benzoate,,loss of consciousness; itching
+DB00677,Isoflurophate,,sweating; tiredness; weakness; pain; weakness; shortness of breath; wheezing; irregular heartbeat; nausea; vomiting; diarrhea; weakness; muscle weakness; sweating; weakness; weakness; wheezing; diarrhea
+DB00678,Losartan,hypertension; hypertension; coronary artery disease; heart failure,tachycardia; bradycardia; hypotension; tachycardia; bradycardia; hypotension
+DB00679,Thioridazine,anxiety; anxiety disorder; schizophrenia,pressure; confusion; blurred vision; nasal congestion; low blood pressure; constipation; dry skin; dry skin; agitation; confusion
+DB00680,Moricizine,,pressure; low blood pressure; vomiting
+DB00682,Warfarin,atrial fibrillation,
+DB00683,Midazolam,amnesia; amnesia,confusion; confusion
+DB00685,Trovafloxacin,urethritis,vomiting; diarrhea; diarrhea
+DB00686,Pentosan Polysulfate,pain; discomfort; cystitis,
+DB00687,Fludrocortisone,,weakness; edema; weakness; hypertension; edema; weakness; weakness; weakness; hypertension
+DB00688,Mycophenolate mofetil,,pain; abdominal pain; nausea; vomiting; dyspepsia; abdominal pain; diarrhea; dyspepsia; diarrhea; abdominal pain
+DB00689,Cephaloglycin,,distress; nausea; vomiting; diarrhea; diarrhea
+DB00690,Flurazepam,insomnia,pressure; confusion; low blood pressure; confusion
+DB00691,Moexipril,hypertension; hypertension,fatigue; myalgia; dizziness; cough; pharyngitis; hypotension; flushing; diarrhea; myalgia; rash; flushing; fatigue; fatigue; fatigue; myalgia; rash; cough; diarrhea; hypotension
+DB00692,Phentolamine,anesthesia; hypertension; erectile dysfunction; erectile dysfunction; hypertension,
+DB00694,Daunorubicin,leukemia,
+DB00695,Furosemide,edema; hypertension; edema; hypertension; heart failure; cirrhosis,weight loss; dehydration; tinnitus; hearing loss; deafness; hypotension; orthostatic hypotension; weight loss; weight loss; hypotension
+DB00696,Ergotamine,headache; migraine; cephalalgia; migraine,thirst; headache; numbness; tingling; confusion; nausea; vomiting; diarrhea; pruritus; diarrhea; confusion
+DB00698,Nitrofurantoin,cystitis,nausea; vomiting; anemia
+DB00699,Nicergoline,dementia; dementia,
+DB00700,Eplerenone,heart failure,hypotension; hypotension
+DB00701,Amprenavir,hiv,
+DB00704,Naltrexone,,depression; depression
+DB00705,Delavirdine,hiv,fever; swelling; swelling; rash; swelling; fever; rash; conjunctivitis
+DB00708,Sufentanil,pain; anesthesia,
+DB00709,Lamivudine,hepatitis; hiv; hepatitis,fatigue; malaise; headache; cough; nausea; diarrhea; fatigue; fatigue; fatigue; malaise; cough; diarrhea
+DB00710,Ibandronate,,bronchitis; pneumonia
+DB00712,Flurbiprofen,pain; dysmenorrhea; dysmenorrhea; arthritis; arthritis; rheumatoid arthritis,edema; fluid retention; pain; pressure; headache; abdominal pain; dizziness; tinnitus; edema; nausea; vomiting; dyspepsia; flatulence; abdominal pain; diarrhea; constipation; dyspepsia; frequency; rash; dermatitis; pruritus; rash; diarrhea; abdominal pain; heart failure; peptic ulcer; dermatitis; anemia
+DB00715,Paroxetine,hot flashes; menopause; hot flashes; anxiety; panic; phobia; agitation; dementia; anxiety disorder; dementia,sweating; asthenia; dizziness; tremor; flushing; nausea; vomiting; diarrhea; constipation; impotence; flushing; sweating; tremor; diarrhea; insomnia; hyperactivity
+DB00716,Nedocromil,asthma; asthma,burning; headache; increased sensitivity; blurred vision; cough; shortness of breath; wheezing; nasal congestion; conjunctivitis; wheezing; cough
+DB00717,Norethisterone,amenorrhea; amenorrhea,
+DB00718,Adefovir Dipivoxil,hepatitis; hepatitis,
+DB00719,Azatadine,nasal congestion; rhinitis; rhinitis,shaking; trembling; tic; clumsiness; shortness of breath; flushing; redness; redness; flushing; insomnia
+DB00720,Clodronic Acid,tumors,
+DB00722,Lisinopril,hypertension; hypertension; heart failure; diabetes,fatigue; headache; dizziness; cough; hypotension; diarrhea; fatigue; fatigue; fatigue; cough; diarrhea; hypotension
+DB00723,Methoxamine,hypotension; hypotension,
+DB00724,Imiquimod,,fever; fatigue; pain; headache; muscle pain; nausea; muscle pain; fatigue; fatigue; fever; fatigue
+DB00726,Trimipramine,depression; anxiety; agitation; depression,fever; pressure; confusion; low blood pressure; vomiting; rigidity; fever; agitation; confusion
+DB00727,Nitroglycerin,angina; angina,fever; diaphoresis; throbbing; pressure; headache; colic; vertigo; syncope; paralysis; confusion; dyspnea; air hunger; palpitations; bradycardia; heart block; syncope; nausea; vomiting; colic; diarrhea; palpitations; bradycardia; hunger; fever; dyspnea; diarrhea; confusion
+DB00728,Rocuronium,anesthesia,anesthesia
+DB00729,Diphemanil Methylsulfate,perspiration; hyperhidrosis; hyperhidrosis; gastritis; peptic ulcer,
+DB00730,Thiabendazole,eruption,
+DB00731,Nateglinide,diabetes,
+DB00732,Atracurium besylate,anesthesia,hypotension; hypotension
+DB00734,Risperidone,psychosis; aggression; psychosis; dementia; schizophrenia; dementia,tachycardia; hypotension; tachycardia; hypotension
+DB00736,Esomeprazole,reflux; peptic ulcer,sweating; headache; confusion; blurred vision; rapid heartbeat; flushing; nausea; flushing; sweating; confusion
+DB00737,Meclizine,dizziness; nausea; vomiting,
+DB00738,Pentamidine,pneumonia,fever; anorexia; pain; dizziness; confusion; hypotension; nausea; diarrhea; anorexia; rash; fever; anorexia; rash; diarrhea; confusion; anorexia; hypotension
+DB00741,Hydrocortisone,arthritis; asthma; arthritis; psoriasis; adrenal insufficiency; asthma,
+DB00742,Mannitol,edema; pressure; edema,
+DB00744,Zileuton,asthma; asthma,
+DB00745,Modafinil,narcolepsy,
+DB00746,Deferoxamine,anemia,
+DB00747,Scopolamine,pain; abdominal pain; bradycardia; abdominal pain; bradycardia; abdominal pain; irritable bowel syndrome,
+DB00748,Carbinoxamine,rhinitis; urticaria; angioedema; urticaria; angioedema; rhinitis; conjunctivitis; urticaria,
+DB00749,Etodolac,pain; arthritis; arthritis; osteoarthritis; rheumatoid arthritis,lethargy; edema; fluid retention; pain; pressure; headache; abdominal pain; dizziness; tinnitus; edema; nausea; vomiting; dyspepsia; flatulence; abdominal pain; diarrhea; constipation; dyspepsia; rash; dermatitis; pruritus; rash; diarrhea; abdominal pain; peptic ulcer; dermatitis; anemia
+DB00751,Epinastine,itching; conjunctivitis,
+DB00752,Tranylcypromine,,weakness; headache; dizziness; twitching; weakness; confusion; hypertension; hypotension; weakness; rigidity; weakness; weakness; anxiety; agitation; confusion; insomnia; hypertension; hypotension
+DB00753,Isoflurane,anesthesia,
+DB00754,Ethotoin,,nausea
+DB00755,Tretinoin,ichthyosis; hyperkeratosis; psoriasis; leukemia,
+DB00756,Hexachlorophene,,anorexia; dehydration; abdominal cramps; hypotension; vomiting; abdominal cramps; diarrhea; anorexia; anorexia; diarrhea; anorexia; hypotension
+DB00757,Dolasetron,nausea; vomiting,
+DB00758,Clopidogrel,,vomiting
+DB00759,Tetracycline,fever; fever,
+DB00760,Meropenem,appendicitis,ataxia; dyspnea; ataxia; dyspnea
+DB00761,Potassium Chloride,,collapse; paralysis; depression; depression
+DB00762,Irinotecan,,cramping; nausea; vomiting; diarrhea; diarrhea
+DB00763,Methimazole,goiter; psoriasis; hyperthyroidism,fever; edema; pain; distress; headache; joint pain; edema; nausea; vomiting; joint pain; dermatitis; pruritus; fever; depression; hepatitis; dermatitis; anemia; depression; hepatitis
+DB00764,Mometasone,rhinitis; rhinitis; asthma; asthma,weakness; weakness; weakness; muscle weakness; weakness; weakness
+DB00765,Metyrosine,,fatigue; tremor; diarrhea; tremor; fatigue; fatigue; fatigue; diarrhea; depression; anxiety; depression
+DB00766,Clavulanate,,pain; abdominal pain; vomiting; abdominal pain; diarrhea; rash; rash; diarrhea; abdominal pain; hyperactivity
+DB00767,Benzquinamide,anesthesia; nausea; vomiting,
+DB00768,Olopatadine,itching; conjunctivitis,
+DB00769,Hydrocortamate,,burning; dermatitis; itching; hypertrichosis; dermatitis
+DB00770,Alprostadil,erectile dysfunction; erectile dysfunction,pyrexia; apnea; bradycardia; hypotension; flushing; flushing; bradycardia; hypotension
+DB00771,Clidinium,pain; abdominal pain; abdominal pain; abdominal pain; peptic ulcer; irritable bowel syndrome,confusion; blurred vision; confusion
+DB00772,Malathion,,chest tightness; tremor; paralysis; ataxia; confusion; blurred vision; chest tightness; tachycardia; bradycardia; ataxia; tremor; tachycardia; bradycardia; confusion
+DB00773,Etoposide,tumors; leukemia; lymphoma,nausea; vomiting; diarrhea; constipation; alopecia; alopecia; diarrhea; leukemia
+DB00774,Hydroflumethiazide,edema; hypertension; edema; hypertension; heart failure; cirrhosis,lethargy; dehydration; depression; depression
+DB00776,Oxcarbazepine,epilepsy,
+DB00777,Propiomazine,insomnia,fever; sweating; tiredness; weakness; pressure; weakness; irregular heartbeat; low blood pressure; weakness; stiffness; sweating; weakness; weakness; fever
+DB00778,Roxithromycin,,pain; abdominal pain; nausea; vomiting; abdominal pain; abdominal pain
+DB00779,Nalidixic Acid,,lethargy; pressure; psychosis; nausea; vomiting; psychosis
+DB00780,Phenelzine,bulimia,diaphoresis; pain; headache; precordial pain; dizziness; collapse; precordial pain; hypertension; hypotension; depression; irritability; agitation; hyperactivity; hypertension; hypotension; depression
+DB00781,Polymyxin B Sulfate,,vomiting; diarrhea; diarrhea
+DB00782,Propantheline,hyperhidrosis; enuresis; hyperhidrosis,
+DB00783,Estradiol,burning; dyspareunia; dysuria; urgency; urinary urgency; dyspareunia; pruritus,nausea; vomiting
+DB00784,Mefenamic acid,fever; pain; dysmenorrhea; dysmenorrhea; arthritis; fever; arthritis; osteoarthritis; rheumatoid arthritis,weakness; pain; headache; stomach pain; loss of consciousness; weakness; confusion; stomach pain; weakness; muscle weakness; weakness; weakness; confusion
+DB00785,Cryptenamine,hypertension; hypertension,
+DB00787,Aciclovir,herpes,lethargy
+DB00788,Naproxen,pain; dysmenorrhea; dysmenorrhea; arthritis; arthritis; osteoarthritis; rheumatoid arthritis; gout,nausea; vomiting; heartburn; indigestion; indigestion; heartburn
+DB00790,Perindopril,hypertension; hypertension; heart failure,fatigue; headache; dizziness; cough; hypotension; fatigue; fatigue; fatigue; cough; hypotension
+DB00792,Tripelennamine,common cold,shaking; trembling; tic; clumsiness; shortness of breath; flushing; redness; redness; flushing
+DB00794,Primidone,epilepsy,incoordination
+DB00795,Sulfasalazine,arthritis; arthritis; rheumatoid arthritis,
+DB00796,Candesartan cilexetil,hypertension; hypertension; coronary artery disease; heart failure,
+DB00798,Gentamicin,,dizziness; vertigo; nausea; vomiting; frequency
+DB00799,Tazarotene,psoriasis,fatigue; edema; discomfort; headache; edema; redness; nausea; dermatitis; redness; hair loss; fatigue; fatigue; fatigue; dermatitis
+DB00800,Fenoldopam,pressure; hypertension; hypertension,hypotension; hypotension
+DB00801,Halazepam,anxiety,
+DB00802,Alfentanil,pain; anesthesia,rigidity; depression; depression
+DB00803,Colistin,,lethargy; dizziness; paresthesia; paralysis; ataxia; confusion; nystagmus; apnea; ataxia; confusion
+DB00804,Dicyclomine,pain; abdominal pain; abdominal pain; abdominal pain; irritable bowel syndrome,
+DB00805,Minaprine,depression; depression,
+DB00808,Indapamide,edema; fluid retention; hypertension; edema; hypertension; heart failure,weakness; weakness; nausea; vomiting; weakness; weakness; weakness
+DB00809,Tropicamide,paralysis,photophobia; blurred vision
+DB00810,Biperiden,,ataxia; confusion; disorientation; delirium; secretions; tachycardia; flushing; ataxia; flushing; dry skin; dry skin; tachycardia; anxiety; agitation; paranoia; confusion; disorientation; hyperactivity
+DB00811,Ribavirin,hepatitis; cirrhosis; hepatitis,frequency; depression; irritability; insomnia; anemia; lymphoma; depression; hiv
+DB00812,Phenylbutazone,backache,
+DB00813,Fentanyl,pain,
+DB00814,Meloxicam,arthritis; arthritis; osteoarthritis,
+DB00815,Sodium lauryl sulfate,hiv; herpes,
+DB00816,Orciprenaline,bronchospasm; asthma; bronchitis; emphysema; asthma,fatigue; malaise; headache; angina; dizziness; tremor; angina; hypertension; hypotension; nausea; tremor; fatigue; fatigue; fatigue; malaise; insomnia; hypertension; hypotension
+DB00819,Acetazolamide,edema; edema; heart failure,
+DB00820,Tadalafil,erectile dysfunction; erectile dysfunction,
+DB00821,Carprofen,pain; joint pain; joint pain,dizziness; nystagmus
+DB00822,Disulfiram,,hypotension; orthostatic hypotension; hypotension
+DB00824,Enprofylline,asthma; neuropathy; asthma,
+DB00825,Menthol,pain; sore throat; cough; sore throat; cough,
+DB00826,Natamycin,conjunctivitis,
+DB00827,Cinoxacin,,anorexia; distress; headache; dizziness; tingling; photophobia; tinnitus; nausea; vomiting; diarrhea; anorexia; anorexia; diarrhea; insomnia; anorexia
+DB00828,Fosfomycin,cystitis,diarrhea; diarrhea
+DB00829,Diazepam,anxiety; insomnia,pressure; confusion; confusion
+DB00830,Phenmetrazine,,collapse; tachycardia; hypertension; tachycardia; hypertension
+DB00831,Trifluoperazine,anxiety; agitation,fever; pressure; low blood pressure; difficulty swallowing; fever; agitation
+DB00832,Phensuximide,epilepsy,
+DB00833,Cefaclor,pneumonia,nausea; vomiting; diarrhea; diarrhea
+DB00834,Mifepristone,diabetes; hypercortisolism,pain; cramping; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; diarrhea; abdominal pain
+DB00835,Brompheniramine,sneezing; runny nose; rhinitis; rhinitis; common cold,tiredness; weakness; weakness; irregular heartbeat; weakness; weakness; weakness
+DB00836,Loperamide,diarrhea; diarrhea; inflammatory bowel disease,lethargy; nausea; constipation
+DB00837,Progabide,epilepsy,
+DB00839,Tolazamide,diabetes,seizure
+DB00842,Oxazepam,anxiety,lethargy; confusion; confusion
+DB00843,Donepezil,dementia; dementia,sweating; weakness; collapse; weakness; bradycardia; hypotension; nausea; vomiting; weakness; muscle weakness; sweating; bradycardia; weakness; weakness; depression; hypotension; depression
+DB00844,Nalbuphine,pain,
+DB00845,Clofazimine,erythema; erythema,
+DB00847,Cysteamine,,tiredness; weakness; thirst; weakness; weakness; weakness; weakness
+DB00849,Methylphenobarbital,epilepsy; anxiety,
+DB00850,Perphenazine,nausea; vomiting,
+DB00852,Pseudoephedrine,croup; nasal congestion; rhinitis; priapism; rhinitis,sweating; weakness; headache; dizziness; lightheadedness; trembling; weakness; palpitations; paleness; nausea; vomiting; painful urination; weakness; paleness; sweating; palpitations; weakness; weakness; insomnia
+DB00854,Levorphanol,pain,dizziness; hypotension; nausea; emesis; rash; rash; depression; hypotension; depression
+DB00856,Chlorphenesin,pain; facial pain; neuralgia; tic; neuralgia,nausea
+DB00858,Drostanolone,,fluid retention
+DB00859,Penicillamine,arthritis; arthritis; rheumatoid arthritis,
+DB00860,Prednisolone,arthritis; purpura; purpura; arthritis; rheumatoid arthritis; anemia; thrombocytopenia,weight gain; fluid retention; weight gain; diabetes
+DB00861,Diflunisal,pain; arthritis; arthritis; osteoarthritis; rheumatoid arthritis,sweating; disorientation; tinnitus; hyperventilation; tachycardia; nausea; vomiting; diarrhea; jaundice; rash; jaundice; sweating; tachycardia; jaundice; rash; diarrhea; disorientation
+DB00862,Vardenafil,erectile dysfunction; erectile dysfunction,pain; muscle pain; muscle pain
+DB00863,Ranitidine,reflux; dyspepsia; dyspepsia; peptic ulcer,vomiting
+DB00864,Tacrolimus,dermatitis; dermatitis,confusion; blurred vision; hypertension; itching; confusion; insomnia; hypertension; diabetes
+DB00865,Benzphetamine,,tremor; confusion; tachypnea; tremor; panic; confusion
+DB00866,Alprenolol,angina; angina; arrhythmia; hypertension; arrhythmia; hypertension; arrhythmia,
+DB00868,Benzonatate,anesthesia; cough; cough,
+DB00869,Dorzolamide,pressure; hypertension; hypertension,headache; dizziness; shortness of breath; asthma; asthma
+DB00870,Suprofen,,fever; chills; swelling; pain; throbbing; blurred vision; shortness of breath; wheezing; swelling; redness; nausea; vomiting; swelling; itching; redness; fever; wheezing
+DB00871,Terbutaline,bronchospasm; bronchitis; emphysema,
+DB00872,Conivaptan,hypothyroidism; adrenal insufficiency,thirst; hypotension; hypotension
+DB00873,Loteprednol,rhinitis; rhinitis; conjunctivitis; herpes,burning; photophobia; itching
+DB00874,Guaifenesin,phlegm; expectoration,
+DB00875,Flupentixol,depression; depression; schizophrenia,
+DB00876,Eprosartan,hypertension; hypertension; heart failure,
+DB00879,Emtricitabine,hiv,
+DB00880,Chlorothiazide,edema; hypertension; edema; hypertension; heart failure; cirrhosis,dehydration
+DB00881,Quinapril,hypertension; hypertension; heart failure; diabetes,fatigue; pain; chest pain; dizziness; cough; dyspnea; chest pain; hypotension; nausea; vomiting; fatigue; fatigue; fatigue; dyspnea; cough; hypotension
+DB00882,Clomifene,,pain; abdominal pain; nausea; vomiting; abdominal pain; abdominal pain
+DB00883,Isosorbide Dinitrate,angina; angina; coronary artery disease,hypotension; hypotension
+DB00884,Risedronate,,weakness; swelling; pain; pressure; headache; chest pain; abdominal pain; back pain; neck pain; muscle pain; nerve pain; sore throat; dizziness; vertigo; weakness; ringing in ears; runny nose; sore throat; chest pain; high blood pressure; swelling; nausea; gas; belching; abdominal pain; diarrhea; constipation; muscle pain; weakness; muscle weakness; back pain; neck pain; rash; swelling; itching; weakness; weakness; rash; diarrhea; abdominal pain; depression; anxiety; insomnia; bronchitis; pneumonia; urinary tract infection; depression
+DB00885,Pemirolast,fever; itching; fever; conjunctivitis,
+DB00886,Omapatrilat,hypertension; hypertension,dizziness; cough; hypotension; diarrhea; angioedema; angioedema; cough; diarrhea; hypotension
+DB00887,Bumetanide,edema; edema; heart failure,lethargy; weakness; anorexia; dehydration; dizziness; collapse; weakness; confusion; vomiting; anorexia; weakness; weakness; weakness; anorexia; confusion; anorexia
+DB00888,Mechlorethamine,leukemia,dermatitis; pruritus; dermatitis; anemia; thrombocytopenia
+DB00889,Granisetron,nausea; vomiting,
+DB00890,Dienestrol,,nausea; vomiting
+DB00891,Sulfapyridine,dermatitis; dermatitis,
+DB00892,Oxybuprocaine,pressure,
+DB00893,Iron Dextran,,swelling; pressure; collapse; loss of consciousness; hypotension; low blood pressure; swelling; hives; swelling; hypotension
+DB00895,Benzylpenicilloyl Polylysine,,swelling; fainting; bronchospasm; fainting; swelling; flushing; eruption; urticaria; swelling; pruritus; flushing; urticaria; urticaria; anaphylaxis
+DB00897,Triazolam,insomnia,depression; depression
+DB00898,Ethanol,pain; neuralgia; tic; neuralgia,nausea; vomiting; depression; depression
+DB00899,Remifentanil,anesthesia,
+DB00900,Didanosine,hiv,diarrhea; diarrhea; pancreatitis; neuropathy
+DB00901,Bitolterol,asthma; asthma,
+DB00902,Methdilazine,,shaking; trembling; tic; clumsiness; shortness of breath; flushing; redness; redness; flushing
+DB00903,Etacrynic acid,edema; pressure; high blood pressure; edema; heart failure,
+DB00904,Ondansetron,nausea; vomiting,pressure; fainting; blindness; low blood pressure; fainting; constipation
+DB00905,Bimatoprost,pressure; hypertension; hypertension,
+DB00906,Tiagabine,,lethargy; seizure; myoclonus; paralysis; ataxia; confusion; disorientation; vomiting; ataxia; depression; agitation; confusion; disorientation; depression
+DB00907,Cocaine,anesthesia,hyperthermia; hypertension; agitation; hypertension
+DB00909,Zonisamide,epilepsy,pressure; loss of consciousness; low blood pressure
+DB00912,Repaglinide,diabetes,
+DB00913,Anileridine,pain; anesthesia,perspiration; dizziness; itching; euphoria
+DB00914,Phenformin,diabetes,
+DB00915,Amantadine,influenza,hyperthermia; lethargy; edema; distress; seizure; tremor; confusion; disorientation; delirium; hallucination; respiratory distress; tachycardia; arrhythmia; hypertension; edema; tremor; tachycardia; arrhythmia; anxiety; hallucination; confusion; disorientation; insomnia; hypertension; arrhythmia
+DB00916,Metronidazole,diarrhea; diarrhea,distress; dizziness; vertigo; nausea; neuropathy
+DB00918,Almotriptan,headache; migraine; migraine,
+DB00919,Spectinomycin,urethritis,
+DB00920,Ketotifen,itching; conjunctivitis,rhinitis; rhinitis
+DB00921,Buprenorphine,pain,hypotension; depression; hypotension; depression
+DB00922,Levosimendan,heart failure,
+DB00923,Ceforanide,,distress; nausea; vomiting; diarrhea; diarrhea
+DB00924,Cyclobenzaprine,spasm; spasm; muscle spasm,low temperature; pressure; confusion; low blood pressure; vomiting; stiffness; agitation; confusion; heart failure
+DB00925,Phenoxybenzamine,hypertension; hypertension,lethargy; dizziness; fainting; tachycardia; hypotension; postural hypotension; fainting; vomiting; tachycardia; hypotension
+DB00926,Etretinate,psoriasis,headache; vertigo
+DB00927,Famotidine,reflux; peptic ulcer,collapse; tachycardia; hypotension; pallor; redness; emesis; redness; pallor; tachycardia; pallor; hypotension
+DB00928,Azacitidine,anemia; leukemia; thrombocytopenia,nausea; vomiting; diarrhea; diarrhea
+DB00930,Colesevelam,,abdominal cramps; nausea; vomiting; abdominal cramps; diarrhea; constipation; diarrhea
+DB00931,Methacycline,bronchitis,
+DB00932,Tipranavir,hiv,fatigue; weight loss; thirst; increased urination; weight loss; hunger; fatigue; fatigue; fatigue; weight loss
+DB00933,Mesoridazine,schizophrenia,emesis
+DB00934,Maprotiline,depression; depression,vertigo; tremor; twitching; ataxia; tachycardia; hypotension; cyanosis; vomiting; rigidity; ataxia; cyanosis; tremor; tachycardia; cyanosis; depression; hypotension; depression
+DB00935,Oxymetazoline,nasal congestion; redness; redness,
+DB00936,Salicylic acid,psoriasis,
+DB00937,Diethylpropion,,tremor; confusion; tremor; panic; confusion
+DB00938,Salmeterol,asthma; asthma,fatigue; pain; pressure; headache; chest pain; angina; dizziness; tremor; chest pain; angina; rapid heartbeat; low blood pressure; nausea; tremor; fatigue; fatigue; fatigue; insomnia
+DB00939,Meclofenamic acid,pain; dysmenorrhea; dysmenorrhea; arthritis; arthritis; osteoarthritis; rheumatoid arthritis,oliguria; anuria; agitation
+DB00940,Methantheline,gastritis; peptic ulcer; irritable bowel syndrome; pancreatitis,fever; tiredness; weakness; dizziness; weakness; clumsiness; confusion; blurred vision; flushing; weakness; muscle weakness; flushing; weakness; weakness; fever; irritability; confusion
+DB00943,Zalcitabine,hiv,fever; rash; fever; rash
+DB00944,Demecarium,,sweating; abdominal cramps; bradycardia; nausea; vomiting; abdominal cramps; diarrhea; incontinence; sweating; bradycardia; diarrhea
+DB00945,Acetylsalicylic acid,pain; angina; angina; arthritis; arthritis; osteoarthritis; rheumatoid arthritis,pyrexia; pain; abdominal pain; seizure; confusion; hallucination; tinnitus; hyperventilation; hypotension; abdominal pain; abdominal pain; hallucination; confusion; hypotension
+DB00946,Phenprocoumon,atrial fibrillation,melena; hematuria; bruising; petechiae; petechiae; melena; hematuria
+DB00948,Mezlocillin,,fever; chills; rash; fever; rash
+DB00949,Felbamate,epilepsy; anemia,
+DB00950,Fexofenadine,rhinitis; rhinitis,dizziness
+DB00951,Isoniazid,tuberculosis,rash; rash; hepatitis; neuropathy; hepatitis
+DB00952,Naratriptan,migraine; migraine,tiredness
+DB00953,Rizatriptan,migraine; migraine,pressure; dizziness; fainting; high blood pressure; fainting; vomiting
+DB00954,Dirithromycin,pharyngitis; bronchitis; pneumonia,distress; nausea; vomiting; diarrhea; diarrhea
+DB00955,Netilmicin,,dizziness; vertigo; hearing loss; nausea; vomiting; frequency
+DB00956,Hydrocodone,pain; cough; cough,dizziness; collapse; confusion; blurred vision; apnea; Cheyne-Stokes respiration; bradycardia; hypotension; cyanosis; cyanosis; bradycardia; cyanosis; depression; confusion; hypotension; depression
+DB00959,Methylprednisolone,arthritis; arthritis; rheumatoid arthritis,
+DB00960,Pindolol,edema; atrial fibrillation; hypertension; edema; hypertension,bronchospasm; bradycardia; hypotension; bradycardia; hypotension
+DB00961,Mepivacaine,anesthesia,seizure
+DB00962,Zaleplon,insomnia,weakness; pain; headache; abdominal pain; menstrual pain; eye pain; dizziness; tingling; weakness; amnesia; memory loss; nausea; abdominal pain; menstrual pain; weakness; weakness; weakness; abdominal pain; amnesia; memory loss
+DB00964,Apraclonidine,pressure,hypothermia; lethargy; asthenia; seizure; apnea; bradycardia; hypertension; hypotension; pallor; vomiting; pallor; bradycardia; pallor; depression; irritability; hypertension; hypotension; depression
+DB00965,Ethiodized oil,,dyspnea; dyspnea
+DB00966,Telmisartan,hypertension; hypertension; heart failure; diabetes,dizziness; tachycardia; bradycardia; hypotension; tachycardia; bradycardia; hypotension
+DB00967,Desloratadine,rhinitis; urticaria; hives; pruritus; urticaria; rhinitis; urticaria,
+DB00968,Methyldopa,hypertension; hypertension,weakness; pressure; dizziness; weakness; low blood pressure; nausea; vomiting; bloating; gas; diarrhea; constipation; weakness; weakness; weakness; diarrhea
+DB00969,Alosetron,diarrhea; diarrhea; irritable bowel syndrome,
+DB00971,Selenium Sulfide,dermatitis; dandruff; dermatitis,
+DB00972,Azelastine,rhinitis; itching; rhinitis; conjunctivitis,
+DB00973,Ezetimibe,,arthralgia; dizziness; arthralgia; arthralgia
+DB00974,Edetic Acid,,edema; edema
+DB00975,Dipyridamole,angina; angina,hypotension; hypotension
+DB00976,Telithromycin,bronchitis; pneumonia,pain; headache; abdominal pain; dizziness; nausea; vomiting; dyspepsia; flatulence; abdominal pain; diarrhea; loose stools; dyspepsia; diarrhea; abdominal pain
+DB00977,Ethinyl Estradiol,menopause,nausea; vomiting
+DB00978,Lomefloxacin,bronchitis; urinary tract infection,burning; rash; itching; rash; anxiety; agitation; neuropathy
+DB00979,Cyclopentolate,,dizziness; tachycardia; tachycardia
+DB00980,Ramelteon,insomnia,
+DB00981,Physostigmine,,sweating; tiredness; weakness; pain; eye pain; weakness; blurred vision; shortness of breath; wheezing; irregular heartbeat; nausea; vomiting; diarrhea; weakness; muscle weakness; sweating; weakness; weakness; wheezing; diarrhea
+DB00982,Isotretinoin,,dry skin; dry skin
+DB00983,Formoterol,bronchospasm; asthma; asthma,headache; tremor; palpitations; tachycardia; nausea; vomiting; tremor; palpitations; tachycardia
+DB00984,Nandrolone phenpropionate,angioedema; angioedema,
+DB00985,Dimenhydrinate,vertigo; nausea,
+DB00986,Glycopyrronium,anesthesia; secretions,blurred vision; diarrhea; constipation; diarrhea
+DB00987,Cytarabine,leukemia,fever; malaise; pain; chest pain; myalgia; bone pain; chest pain; myalgia; bone pain; rash; fever; malaise; myalgia; rash; conjunctivitis
+DB00988,Dopamine,,pain; abdominal pain; spasm; ataxia; confusion; hypotension; nausea; vomiting; abdominal pain; spasm; ataxia; abdominal pain; confusion; insomnia; hypotension
+DB00989,Rivastigmine,dementia; dementia,
+DB00991,Oxaprozin,swelling; pain; joint pain; swelling; joint pain; arthritis; stiffness; swelling; arthritis; osteoarthritis; rheumatoid arthritis,
+DB00992,Methyl aminolevulinate,,pain; burning; burning sensation; erythema; erythema
+DB00993,Azathioprine,arthritis; arthritis; rheumatoid arthritis,
+DB00994,Neomycin,diarrhea; diarrhea,dizziness; vertigo; hearing loss; nausea; vomiting; frequency
+DB00995,Auranofin,arthritis; arthritis; rheumatoid arthritis,abdominal cramps; vomiting; abdominal cramps; rash; hives; itching; rash
+DB00996,Gabapentin,neuralgia; epilepsy; neuralgia,ataxia; ataxia
+DB00997,Doxorubicin,leukemia; lymphoma,
+DB00998,Frovatriptan,migraine; migraine,migraine; migraine
+DB00999,Hydrochlorothiazide,edema; pressure; high blood pressure; edema,dehydration
+DB01000,Cyclacillin,,nausea; vomiting; diarrhea; diarrhea
+DB01001,Salbutamol,bronchospasm; asthma; bronchitis; asthma,
+DB01002,Levobupivacaine,pain; anesthesia,depression; depression
+DB01003,Cromoglicic acid,conjunctivitis; asthma; asthma,cough; wheezing; sneezing; nasal congestion; nausea; wheezing; cough
+DB01004,Ganciclovir,pneumonia; immunodeficiency; aids,
+DB01005,Hydroxyurea,anemia; leukemia,
+DB01007,Tioconazole,,edema; burning; edema; erythema; urticaria; pruritus; erythema; urticaria; urticaria
+DB01008,Busulfan,leukemia,fever; chills; fatigue; weakness; pain; joint pain; dizziness; collapse; loss of consciousness; weakness; confusion; cough; shortness of breath; nausea; vomiting; diarrhea; joint pain; weakness; bruising; fatigue; weakness; fatigue; weakness; fever; fatigue; cough; diarrhea; confusion
+DB01009,Ketoprofen,pain; dysmenorrhea; dysmenorrhea; arthritis; arthritis; osteoarthritis; rheumatoid arthritis,pain; abdominal pain; nausea; vomiting; dyspepsia; flatulence; abdominal pain; diarrhea; constipation; dyspepsia; diarrhea; abdominal pain
+DB01010,Edrophonium,,sweating; secretions; bradycardia; nausea; vomiting; diarrhea; sweating; bradycardia; diarrhea
+DB01011,Metyrapone,,weakness; dehydration; pain; weakness; confusion; hypotension; nausea; vomiting; diarrhea; weakness; weakness; weakness; diarrhea; anxiety; confusion; hypotension
+DB01015,Sulfamethoxazole,bronchitis,nausea; vomiting; diarrhea; jaundice; jaundice; jaundice; diarrhea; anemia; thrombocytopenia
+DB01017,Minocycline,fever; fever,goiter
+DB01018,Guanfacine,hypertension; attention deficit; hyperactivity; hypertension,lethargy; bradycardia; hypotension; bradycardia; hypotension
+DB01020,Isosorbide Mononitrate,angina; angina; hypertension; hypertension; coronary artery disease,hypotension; hypotension
+DB01021,Trichlormethiazide,hypertension; hypertension; heart failure,
+DB01023,Felodipine,hypertension; hypertension,bradycardia; hypotension; bradycardia; hypotension
+DB01024,Mycophenolic acid,,pain; abdominal pain; nausea; vomiting; dyspepsia; abdominal pain; diarrhea; dyspepsia; diarrhea; abdominal pain
+DB01028,Methoxyflurane,anesthesia,anesthesia; depression; depression
+DB01029,Irbesartan,hypertension; hypertension; heart failure; diabetes,tachycardia; bradycardia; hypotension; tachycardia; bradycardia; hypotension
+DB01031,Ethinamate,insomnia,weakness; weakness; confusion; shortness of breath; weakness; weakness; weakness; confusion
+DB01032,Probenecid,arthritis; arthritis; gout,
+DB01033,Mercaptopurine,leukemia,anorexia; nausea; vomiting; diarrhea; anorexia; anorexia; diarrhea; anorexia
+DB01034,Cerulenin,weight loss; weight loss; weight loss,edema; headache; edema; redness; erythema; nausea; vomiting; erythema; redness
+DB01036,Tolterodine,frequency; urinary frequency; urgency; urge incontinence; incontinence,
+DB01037,Selegiline,depression; depression,
+DB01041,Thalidomide,erythema; erythema,
+DB01042,Melphalan,,vomiting; diarrhea; diarrhea
+DB01043,Memantine,dementia; dementia,fever; tiredness; pain; headache; dizziness; confusion; vomiting; increased libido; fever; anxiety; confusion; cystitis
+DB01044,Gatifloxacin,bronchitis; pneumonia,
+DB01045,Rifampicin,tuberculosis,nausea; vomiting
+DB01046,Lubiprostone,constipation; irritable bowel syndrome,hyperhidrosis; asthenia; anorexia; pain; discomfort; headache; abdominal pain; dizziness; syncope; dyspnea; syncope; pallor; flushing; nausea; vomiting; retching; abdominal pain; diarrhea; watery stools; anorexia; flushing; pallor; hyperhidrosis; pallor; anorexia; dyspnea; diarrhea; abdominal pain; anorexia
+DB01047,Fluocinonide,,burning; itching
+DB01048,Abacavir,hiv,fatigue; malaise; headache; nausea; vomiting; fatigue; fatigue; fatigue; malaise; hiv
+DB01049,Ergoloid mesylate,dementia; dementia,delirium; dyspnea; bradycardia; hypertension; hypotension; nausea; vomiting; bradycardia; dyspnea; hypertension; hypotension
+DB01050,Ibuprofen,fever; pain; dysmenorrhea; dysmenorrhea; arthritis; fever; arthritis; osteoarthritis; rheumatoid arthritis; gout,lethargy; anorexia; edema; fluid retention; pain; headache; abdominal pain; dizziness; vertigo; loss of consciousness; tinnitus; dyspnea; apnea; hypertension; edema; peripheral edema; nausea; vomiting; heartburn; dyspepsia; bloating; flatulence; abdominal pain; diarrhea; constipation; dyspepsia; heartburn; anorexia; anorexia; dyspnea; diarrhea; abdominal pain; depression; insomnia; anorexia; hypertension; heart failure; peptic ulcer; depression
+DB01053,Benzylpenicillin,pneumonia,
+DB01054,Nitrendipine,hypertension; hypertension,
+DB01056,Tocainide,tachycardia; ventricular tachycardia; tachycardia,
+DB01057,Echothiophate,,pain; eye pain; blurred vision
+DB01059,Norfloxacin,urinary tract infection,
+DB01060,Amoxicillin,,pain; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; hematuria; hematuria; diarrhea; abdominal pain
+DB01064,Isoprenaline,heart block; asthma; bronchitis; asthma,
+DB01065,Melatonin,headache; tumors; anxiety; insomnia; cluster headache; thrombocytopenia,headache; abdominal cramps; dizziness; tremor; confusion; hypotension; nausea; vomiting; abdominal cramps; frequency; tremor; anxiety; irritability; confusion; hypotension
+DB01066,Cefditoren,pharyngitis; bronchitis; pneumonia,distress; nausea; vomiting; diarrhea; diarrhea
+DB01067,Glipizide,diabetes,
+DB01068,Clonazepam,panic,seizure; confusion; depression; confusion; depression
+DB01069,Promethazine,nausea; vomiting,ataxia; hypotension; ataxia; depression; hypotension; depression
+DB01071,Mequitazine,fever; rhinitis; urticaria; hives; fever; urticaria; rhinitis; urticaria,
+DB01072,Atazanavir,hiv,
+DB01073,Fludarabine,leukemia,
+DB01074,Perhexiline,angina; angina,dizziness; nausea
+DB01075,Diphenhydramine,vertigo; nausea; vomiting,
+DB01076,Atorvastatin,angina; angina,asthenia; pain; abdominal pain; myalgia; nausea; abdominal pain; constipation; myalgia; myositis; myalgia; abdominal pain
+DB01077,Etidronic acid,,paresthesia; vomiting
+DB01078,Deslanoside,heart failure,tachycardia; heart block; ventricular tachycardia; tachycardia
+DB01079,Tegaserod,constipation; irritable bowel syndrome,
+DB01080,Vigabatrin,epilepsy,
+DB01081,Diphenoxylate,diarrhea; diarrhea,rapid heartbeat; flushing; flushing; dry skin; dry skin
+DB01082,Streptomycin,tuberculosis,fever; edema; dizziness; vertigo; paresthesia; hearing loss; edema; nausea; vomiting; frequency; rash; urticaria; fever; rash; urticaria; urticaria
+DB01083,Orlistat,weight loss; weight loss; weight loss,
+DB01084,Emedastine,conjunctivitis,malaise; malaise
+DB01087,Primaquine,malaria,
+DB01088,Iloprost,hypertension; hypertension,headache; hypotension; flushing; nausea; vomiting; diarrhea; flushing; diarrhea; hypotension
+DB01089,Deserpidine,hypertension; hypertension,dizziness; flushing; flushing
+DB01090,Pentolinium,hypotension; hypotension,
+DB01092,Ouabain,atrial fibrillation; heart failure,
+DB01093,Dimethyl sulfoxide,cystitis,
+DB01095,Fluvastatin,,pain; abdominal pain; nausea; gas; abdominal pain; diarrhea; constipation; myositis; diarrhea; abdominal pain
+DB01097,Leflunomide,arthritis; arthritis; rheumatoid arthritis,
+DB01098,Rosuvastatin,,asthenia; pain; abdominal pain; myalgia; nausea; abdominal pain; constipation; myalgia; myositis; myalgia; abdominal pain
+DB01102,Arbutamine,coronary artery disease,
+DB01103,Quinacrine,,collapse; hypotension; hypotension
+DB01104,Sertraline,premature ejaculation; panic; phobia,sweating; fatigue; dizziness; tremor; nausea; dyspepsia; diarrhea; loose stools; dyspepsia; alopecia; sweating; tremor; alopecia; decreased libido; fatigue; fatigue; fatigue; diarrhea; insomnia
+DB01105,Sibutramine,,anorexia; headache; constipation; anorexia; anorexia; insomnia; anorexia
+DB01106,Levocabastine,rhinitis; rhinitis; conjunctivitis,edema; cough; edema; nausea; cough
+DB01107,Methyprylon,insomnia,
+DB01108,Trilostane,,tiredness; vomiting; loss of appetite; rash; rash; depression; depression
+DB01109,Heparin,angina; angina; atrial fibrillation,thrombocytopenia
+DB01111,Colistimethate,,lethargy; dizziness; paresthesia; paralysis; ataxia; confusion; nystagmus; apnea; ataxia; confusion
+DB01112,Cefuroxime,bronchitis,cough; nasal congestion; rash; rash; cough
+DB01113,Papaverine,impotence,
+DB01114,Chlorphenamine,fever; rhinitis; urticaria; fever; urticaria; rhinitis; asthma; urticaria; allergy; asthma; common cold,
+DB01115,Nifedipine,angina; angina; hypertension; hypertension,weakness; pressure; dizziness; weakness; nausea; weakness; weakness; weakness
+DB01116,Trimethaphan,pressure,
+DB01117,Atovaquone,pneumonia,rash; rash
+DB01118,Amiodarone,tachycardia; ventricular tachycardia; tachycardia,asthma; hepatitis; asthma; hepatitis
+DB01120,Gliclazide,,sweating; headache; dizziness; sweating
+DB01121,Phenacemide,epilepsy,
+DB01122,Ambenonium,weakness; weakness; weakness; muscle weakness; weakness; weakness,weakness; pressure; trembling; twitching; paralysis; weakness; weakness; weakness; weakness; anxiety; panic
+DB01124,Tolbutamide,diabetes,
+DB01125,Anisindione,atrial fibrillation,patches
+DB01129,Rabeprazole,reflux; peptic ulcer,
+DB01131,Proguanil,malaria,
+DB01132,Pioglitazone,diabetes,
+DB01134,Desoxycorticosterone Pivalate,arthritis; arthritis; rheumatoid arthritis,polydipsia; edema; edema; polyuria; polyuria; polydipsia
+DB01135,Doxacurium chloride,anesthesia,anesthesia
+DB01136,Carvedilol,heart failure,
+DB01137,Levofloxacin,conjunctivitis,swelling; dizziness; numbness; disorientation; swelling; nausea; swelling; disorientation
+DB01138,Sulfinpyrazone,arthritis; arthritis; gout,pain; ataxia; nausea; vomiting; diarrhea; jaundice; ataxia; jaundice; jaundice; diarrhea; anemia
+DB01140,Cefadroxil,,nausea; vomiting
+DB01142,Doxepin,pain; urticaria; urticaria; depression; anxiety; urticaria; depression,delirium; blurred vision; tachycardia; hypertension; hypotension; postural hypotension; constipation; tachycardia; depression; anxiety; insomnia; hypertension; hypotension; heart failure; depression
+DB01144,Diclofenamide,pressure,
+DB01145,Sulfoxone,dermatitis; dermatitis,
+DB01146,Diphenylpyraline,fever; rhinitis; fever; rhinitis,
+DB01147,Cloxacillin,,fever; swelling; cough; wheezing; swelling; swelling; itching; fever; wheezing; cough
+DB01148,Flavoxate,pain; dysuria; frequency; urgency; nocturia; incontinence; cystitis; urethritis,pressure; confusion; confusion
+DB01149,Nefazodone,depression; depression,
+DB01150,Cefprozil,,diarrhea; loss of appetite; diarrhea
+DB01151,Desipramine,pain; neuropathic pain; depression; anxiety; panic; depression; anxiety disorder,malaise; pain; headache; abdominal pain; delirium; blurred vision; tachycardia; hypertension; hypotension; postural hypotension; nausea; vomiting; abdominal pain; diarrhea; constipation; urine retention; tachycardia; malaise; diarrhea; abdominal pain; anxiety; insomnia; hypertension; hypotension; heart failure; bipolar disorder
+DB01156,Bupropion,depression; depression,loss of consciousness; tachycardia; tachycardia
+DB01157,Trimetrexate,pneumonia; immunodeficiency; aids,
+DB01158,Bretylium,tachycardia; ventricular tachycardia; tachycardia,tachycardia; ventricular tachycardia; hypertension; hypotension; tachycardia; hypertension; hypotension
+DB01159,Halothane,anesthesia,hyperthermia; hepatitis; hepatitis
+DB01160,Dinoprost Tromethamine,,nausea; vomiting; diarrhea; diarrhea
+DB01161,Chloroprocaine,anesthesia,
+DB01162,Terazosin,hypertension; hypertension,
+DB01164,Calcium Chloride,,pressure; syncope; syncope
+DB01166,Cilostazol,pain; claudication; claudication,headache; tachycardia; hypotension; diarrhea; tachycardia; diarrhea; hypotension
+DB01169,Arsenic trioxide,leukemia,weakness; weakness; confusion; weakness; muscle weakness; weakness; weakness; confusion
+DB01170,Guanethidine,hypertension; hypertension,tiredness; dizziness; confusion; confusion
+DB01171,Moclobemide,depression; depression,headache; dizziness; confusion; hypertension; rigidity; agitation; confusion; hypertension
+DB01172,Kanamycin,,dizziness; vertigo; nausea; vomiting; frequency
+DB01174,Phenobarbital,,collapse; apnea; Cheyne-Stokes respiration; tachycardia; hypotension; oliguria; tachycardia; depression; hypotension; depression
+DB01175,Escitalopram,anxiety; agitation; dementia; anxiety disorder; dementia,dizziness; tachycardia; hypotension; nausea; vomiting; tachycardia; insomnia; hypotension
+DB01176,Cyclizine,dizziness; vertigo; nausea; vomiting,
+DB01177,Idarubicin,leukemia,
+DB01178,Chlormezanone,spasm; spasm; muscle spasm; anxiety,weakness; pain; abdominal pain; dizziness; weakness; nausea; abdominal pain; weakness; weakness; weakness; abdominal pain
+DB01180,Rescinnamine,hypertension; hypertension,
+DB01181,Ifosfamide,lymphoma,confusion; nausea; vomiting; confusion; cystitis
+DB01182,Propafenone,tachycardia; atrial fibrillation; ventricular tachycardia; tachycardia,pressure; low blood pressure
+DB01183,Naloxone,pressure; depression; depression,
+DB01184,Domperidone,pain; nausea; vomiting; heartburn; dyspepsia; dyspepsia; heartburn,gynecomastia; galactorrhea
+DB01185,Fluoxymesterone,,fluid retention
+DB01186,Pergolide,,pressure; nausea; vomiting
+DB01187,Iophendylate,tumors,
+DB01188,Ciclopirox,,headache
+DB01189,Desflurane,anesthesia,
+DB01190,Clindamycin,pneumonia,nausea; diarrhea; diarrhea
+DB01191,Dexfenfluramine,weight loss; weight loss; weight loss,
+DB01192,Oxymorphone,pain,collapse; apnea; bradycardia; hypotension; bradycardia; depression; hypotension; depression
+DB01193,Acebutolol,hypertension; hypertension,bronchospasm; bradycardia; hypotension; bradycardia; hypotension; heart failure
+DB01194,Brinzolamide,pressure; hypertension; hypertension,
+DB01195,Flecainide,tachycardia; tachycardia,syncope; tachycardia; bradycardia; ventricular tachycardia; hypotension; syncope; nausea; vomiting; tachycardia; bradycardia; hypotension
+DB01197,Captopril,hypertension; hypertension; heart failure,pressure; cough; hypotension; emesis; rash; angioedema; rash; angioedema; cough; hypotension
+DB01198,Zopiclone,insomnia,
+DB01199,Tubocurarine,anesthesia,
+DB01200,Bromocriptine,galactorrhea,headache; abdominal cramps; vertigo; nasal congestion; hypotension; nausea; vomiting; abdominal cramps; diarrhea; constipation; diarrhea; hypotension
+DB01201,Rifapentine,tuberculosis,
+DB01202,Levetiracetam,epilepsy,agitation; aggression
+DB01203,Nadolol,angina; angina; hypertension; hypertension,lethargy; pressure; wheezing; low blood pressure; wheezing; depression; heart failure; depression
+DB01205,Flumazenil,anesthesia,
+DB01206,Lomustine,tumors,
+DB01208,Sparfloxacin,bronchitis; pneumonia,vomiting; diarrhea; diarrhea
+DB01209,Dezocine,pain,weakness; pressure; dizziness; weakness; confusion; low blood pressure; weakness; weakness; weakness; confusion
+DB01210,Levobunolol,pressure; hypertension; hypertension,bronchospasm; bradycardia; hypotension; bradycardia; hypotension
+DB01211,Clarithromycin,pertussis; pharyngitis; bronchitis; hiv,discomfort; hearing loss; nausea; dyspepsia; diarrhea; dyspepsia; urticaria; urticaria; diarrhea; urticaria; anaphylaxis
+DB01213,Fomepizole,,headache; dizziness; nausea
+DB01214,Metipranolol,pressure; hypertension; hypertension,
+DB01215,Estazolam,insomnia,confusion; confusion
+DB01216,Finasteride,alopecia; baldness; alopecia,
+DB01217,Anastrozole,gynecomastia,
+DB01218,Halofantrine,malaria,pain; indigestion; indigestion; loss of appetite; rash; itching; rash
+DB01219,Dantrolene,hyperthermia,lethargy; weakness; weakness; vomiting; diarrhea; weakness; weakness; weakness; diarrhea
+DB01220,Rifaximin,diarrhea; diarrhea; irritable bowel syndrome,
+DB01222,Budesonide,fever; rhinitis; fever; rhinitis; asthma; asthma,edema; edema
+DB01223,Aminophylline,bronchospasm; asthma; bronchitis; emphysema; asthma,
+DB01224,Quetiapine,schizophrenia,tachycardia; hypotension; tachycardia; hypotension
+DB01225,Enoxaparin,angina; angina,thrombocytopenia
+DB01226,Mivacurium,anesthesia,anesthesia
+DB01227,Levomethadyl Acetate,pain,edema; collapse; apnea; edema
+DB01228,Encainide,tachycardia; atrial fibrillation; atrial flutter; ventricular tachycardia; tachycardia,
+DB01230,Pemoline,attention deficit; hyperactivity,anorexia; ache; headache; dizziness; nausea; anorexia; anorexia; depression; irritability; insomnia; anorexia; depression
+DB01231,Diphenidol,vertigo; nausea; vomiting,tiredness; weakness; weakness; shortness of breath; weakness; weakness; weakness
+DB01232,Saquinavir,immunodeficiency; hiv,pain
+DB01233,Metoclopramide,nausea; vomiting; reflux,disorientation; disorientation
+DB01234,Dexamethasone,edema; edema; asthma; asthma,hypertension; ecchymosis; ecchymosis; hypertension; pancreatitis; diabetes
+DB01235,Levodopa,paralysis,
+DB01236,Sevoflurane,anesthesia,
+DB01237,Bromodiphenhydramine,fever; cough; phlegm; secretions; fever; cough; allergy,fever; swelling; cough; wheezing; swelling; swelling; itching; fever; wheezing; cough
+DB01238,Aripiprazole,schizophrenia,
+DB01239,Chlorprothixene,mania; schizophrenia,tiredness; weakness; dizziness; trembling; weakness; weakness; stiffness; weakness; weakness
+DB01240,Epoprostenol,hypertension; hypertension,hypothermia; headache; ataxia; slow breathing; hypotension; flushing; nausea; vomiting; diarrhea; ataxia; flushing; diarrhea; hypotension
+DB01241,Gemfibrozil,pancreatitis,pain; abdominal cramps; muscle pain; nausea; vomiting; abdominal cramps; diarrhea; muscle pain; diarrhea
+DB01242,Clomipramine,pain; headache; neuropathic pain; premature ejaculation; depression; panic; narcolepsy; tension headache; neuropathy; depression; schizophrenia,delirium; blurred vision; tachycardia; hypertension; hypotension; postural hypotension; constipation; tachycardia; depression; anxiety; insomnia; hypertension; hypotension; heart failure; depression
+DB01243,Chloroxine,dermatitis; dandruff; dermatitis,
+DB01244,Bepridil,angina; angina; hypertension; hypertension,
+DB01245,Decamethonium,,paralysis
+DB01246,Alimemazine,urticaria; pruritus; itching; urticaria; urticaria,shaking; trembling; tic; clumsiness; shortness of breath; flushing; redness; redness; flushing; insomnia
+DB01247,Isocarboxazid,,fever; sweating; pressure; headache; dizziness; confusion; low blood pressure; stiffness; sweating; fever; depression; anxiety; irritability; confusion; depression
+DB01248,Docetaxel,,asthenia; paresthesia
+DB01250,Olsalazine,inflammatory bowel disease,
+DB01251,Gliquidone,diabetes,
+DB01252,Mitiglinide,diabetes,
+DB01253,Ergonovine,,thirst; pain; cramping; pressure; dizziness; loss of consciousness; numbness; tingling; confusion; tachycardia; bradycardia; nausea; vomiting; tachycardia; bradycardia; depression; confusion; depression
+DB01254,Dasatinib,leukemia,
+DB01255,Lisdexamfetamine,attention deficit; hyperactivity,fatigue; abdominal cramps; collapse; tremor; confusion; hypertension; hypotension; nausea; vomiting; abdominal cramps; diarrhea; tremor; fatigue; fatigue; fatigue; diarrhea; depression; panic; confusion; hypertension; hypotension; depression
+DB01257,Eculizumab,hemoglobinuria,
+DB01259,Lapatinib,tumors,vomiting; diarrhea; diarrhea
+DB01261,Sitagliptin,diabetes,
+DB01262,Decitabine,anemia; leukemia,thrombocytopenia
+DB01264,Darunavir,immunodeficiency; hiv,
+DB01265,Telbivudine,hepatitis; hepatitis,
+DB01267,Paliperidone,schizophrenia,emesis
+DB01270,Ranibizumab,edema; edema,pain; pressure; eye pain
+DB01274,Arformoterol,bronchitis; emphysema,
+DB01275,Hydralazine,pressure; hypertension; hypertension; heart failure,
+DB01276,Exenatide,diabetes,nausea; vomiting
+DB01277,Mecasermin,hypothyroidism,
+DB01278,Pramlintide,diabetes,
+DB01280,Nelarabine,leukemia; lymphoma,paralysis
+DB01281,Abatacept,arthritis; arthritis; rheumatoid arthritis,headache; nausea
+DB01283,Lumiracoxib,osteoarthritis,
+DB01288,Fenoterol,asthma; asthma,fatigue; pain; pressure; headache; chest pain; angina; dizziness; tremor; chest pain; angina; rapid heartbeat; low blood pressure; nausea; tremor; fatigue; fatigue; fatigue; insomnia
+DB01289,Glisoxepide,diabetes,
+DB01291,Pirbuterol,bronchospasm; asthma; asthma,
+DB01294,Bismuth Subsalicylate,nausea; heartburn; indigestion; diarrhea; indigestion; heartburn; diarrhea,
+DB01295,Bevantolol,angina; angina; hypertension; hypertension,
+DB01296,Glucosamine,osteoarthritis,nausea; vomiting; heartburn; diarrhea; heartburn; itching; diarrhea
+DB01297,Practolol,,lethargy; pressure; wheezing; low blood pressure; wheezing; depression; heart failure; depression
+DB01299,Sulfadoxine,malaria,
+DB01301,Rolitetracycline,,anorexia; hypertension; nausea; dysphagia; anorexia; dermatitis; urticaria; purpura; purpura; anorexia; urticaria; anorexia; hypertension; dermatitis; urticaria; thrombocytopenia; anaphylaxis
+DB01303,Oxtriphylline,asthma; bronchitis; emphysema; asthma,pain; abdominal pain; dizziness; lightheadedness; trembling; confusion; irregular heartbeat; abdominal pain; diarrhea; diarrhea; abdominal pain; confusion
+DB01306,Insulin Aspart,diabetes,sweating; lethargy; weakness; headache; dizziness; tingling; trembling; weakness; confusion; palpitations; nausea; weakness; sweating; palpitations; hunger; weakness; weakness; anxiety; confusion
+DB01307,Insulin Detemir,diabetes,sweating; lethargy; weakness; swelling; headache; dizziness; tingling; trembling; weakness; confusion; palpitations; swelling; redness; nausea; weakness; swelling; itching; redness; bruising; sweating; palpitations; hunger; weakness; weakness; anxiety; confusion
+DB01309,Insulin Glulisine,diabetes,sweating; lethargy; weakness; headache; dizziness; tingling; trembling; weakness; confusion; palpitations; nausea; weakness; sweating; palpitations; hunger; weakness; weakness; anxiety; confusion
+DB01319,Fosamprenavir,immunodeficiency; hiv,
+DB01320,Fosphenytoin,,lethargy; syncope; ataxia; tachycardia; bradycardia; hypotension; syncope; nausea; vomiting; ataxia; tachycardia; bradycardia; hypotension
+DB01324,Polythiazide,edema; pressure; edema,
+DB01325,Quinethazone,hypertension; hypertension,
+DB01326,Cefamandole,,pain; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; diarrhea; abdominal pain
+DB01329,Cefoperazone,,pain; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; diarrhea; abdominal pain
+DB01337,Pancuronium,anesthesia,
+DB01338,Pipecuronium,anesthesia,
+DB01339,Vecuronium,anesthesia,
+DB01340,Cilazapril,hypertension; hypertension; heart failure,hypotension; hypotension
+DB01342,Forasartan,hypertension; hypertension,
+DB01344,Tolevamer,,weakness; weakness; confusion; weakness; muscle weakness; weakness; weakness; irritability; confusion
+DB01347,Saprisartan,hypertension; hypertension; heart failure,
+DB01348,Spirapril,hypertension; hypertension,
+DB01349,Tasosartan,hypertension; hypertension; heart failure,
+DB01353,Butethal,insomnia,fever; weakness; weakness; confusion; shortness of breath; weakness; weakness; weakness; fever; irritability; confusion
+DB01354,Heptabarbital,,incoordination
+DB01355,Hexobarbital,anesthesia,incoordination
+DB01356,Lithium,depression; mania; depression; bipolar disorder,
+DB01359,Penbutolol,bradycardia; hypertension; bradycardia; asthma; hypertension; asthma,headache; vertigo
+DB01363,Ephedra,weight loss; weight loss; weight loss,
+DB01364,Ephedrine,hypotension; hypotension,angina; angina; tachycardia; hypertension; tachycardia; hypertension
+DB01365,Mephentermine,pressure,
+DB01366,Procaterol,asthma; asthma,fatigue; pain; pressure; headache; chest pain; angina; dizziness; tremor; chest pain; angina; rapid heartbeat; low blood pressure; nausea; tremor; fatigue; fatigue; fatigue; insomnia
+DB01367,Rasagiline,,diaphoresis; pain; headache; precordial pain; dizziness; collapse; precordial pain; hypertension; hypotension; depression; irritability; agitation; hyperactivity; hypertension; hypotension; depression
+DB01377,Magnesium oxide,heartburn; indigestion; constipation; indigestion; heartburn,
+DB01380,Cortisone acetate,adrenal insufficiency,
+DB01381,Ginkgo biloba,dizziness; vertigo; dementia; dementia,weakness; headache; dizziness; loss of consciousness; weakness; palpitations; nausea; vomiting; weakness; palpitations; weakness; weakness
+DB01382,Glycodiazine,diabetes,seizure
+DB01388,Mibefradil,pressure; angina; angina; high blood pressure,
+DB01390,Sodium bicarbonate,dehydration; diarrhea; diarrhea; diabetes,
+DB01392,Yohimbine,impotence,
+DB01393,Bezafibrate,diabetes,
+DB01394,Colchicine,pain; arthritis; arthritis,weakness; pain; burning; abdominal pain; paralysis; weakness; delirium; nausea; vomiting; abdominal pain; diarrhea; oliguria; hematuria; weakness; weakness; hematuria; weakness; diarrhea; abdominal pain
+DB01396,Digitoxin,heart failure,anorexia; confusion; nausea; vomiting; anorexia; anorexia; confusion; anorexia
+DB01397,Magnesium salicylate,pain,
+DB01399,Salsalate,arthritis; arthritis; osteoarthritis; rheumatoid arthritis,
+DB01400,Neostigmine,,weakness; weakness; weakness; muscle weakness; weakness; weakness
+DB01401,Choline magnesium trisalicylate,fever; pain; arthritis; fever; arthritis,hyperthermia; sweating; dehydration; headache; dizziness; confusion; tinnitus; hyperventilation; vomiting; diarrhea; sweating; diarrhea; confusion
+DB01403,Methotrimeprazine,psychosis; psychosis; bipolar disorder; schizophrenia,
+DB01405,Temafloxacin,,anemia
+DB01406,Danazol,angioedema; angioedema,
+DB01407,Clenbuterol,asthma; asthma,
+DB01408,Bambuterol,bronchospasm; asthma; bronchitis; emphysema; asthma,
+DB01410,Ciclesonide,rhinitis; rhinitis,
+DB01411,Pranlukast,,fever; tiredness; weakness; pain; headache; stomach pain; dental pain; dizziness; weakness; cough; stuffy nose; heartburn; stomach pain; heartburn; weakness; rash; weakness; weakness; fever; rash; cough
+DB01412,Theobromine,fatigue; hypotension; orthostatic hypotension; fatigue; fatigue; fatigue; hypotension,
+DB01413,Cefepime,febrile; pneumonia; pyelonephritis,
+DB01415,Ceftibuten,pharyngitis; bronchitis,
+DB01418,Acenocoumarol,,colic; tachycardia; hypotension; nausea; vomiting; colic; tachycardia; epistaxis; hypotension
+DB01419,Antrafenine,pain,
+DB01420,Testosterone Propionate,,sweating; edema; dizziness; paresthesia; amnesia; edema; peripheral edema; dry skin; hirsutism; sweating; dry skin; hirsutism; anxiety; amnesia
+DB01425,Alizapride,nausea; vomiting,
+DB01427,Amrinone,heart failure,
+DB01432,Cholestyramine,pruritus,
+DB01436,Alfacalcidol,,hyperthermia; weakness; weight loss; anorexia; polydipsia; pain; headache; muscle pain; bone pain; weakness; photophobia; rhinorrhea; hypertension; nausea; vomiting; constipation; anorexia; polyuria; nocturia; muscle pain; weakness; bone pain; polyuria; polydipsia; weight loss; decreased libido; weakness; weakness; anorexia; weight loss; conjunctivitis; anorexia; hypertension; pancreatitis
+DB01437,Glutethimide,insomnia,
+DB01438,Phenazopyridine,pain; burning; frequency; urgency,
+DB01439,3-Methylthiofentanyl,,nausea; itching; depression; depression
+DB01440,Gamma Hydroxybutyric Acid,depression; insomnia; narcolepsy; depression,dizziness; amnesia; nausea; agitation; amnesia
+DB01443,19-Nor-5-androstenedione,,depression; depression
+DB01444,Dimethylthiambutene,pain,
+DB01452,Heroin,pain,
+DB01454,Midomafetamine,anxiety,
+DB01459,Bezitramide,pain,
+DB01463,Fencamfamine,fatigue; lethargy; fatigue; fatigue; fatigue,dizziness; tremor; disorientation; tachycardia; nausea; tremor; tachycardia; agitation; disorientation
+DB01466,Ethylmorphine,pain,
+DB01485,4-Hydroxytestosterone,,pressure; hypertension; gynecomastia; hypertension
+DB01489,Camazepam,depression; anxiety; depression,
+DB01501,Difenoxin,cramping; diarrhea; diarrhea,
+DB01511,Delorazepam,anxiety,
+DB01544,Flunitrazepam,,confusion; confusion
+DB01551,Dihydrocodeine,pain; dental pain; breathlessness,
+DB01553,Cloxazolam,anxiety,loss of consciousness; ataxia; ataxia; depression; depression
+DB01558,Bromazepam,anxiety; panic; insomnia,
+DB01559,Clotiazepam,anxiety,
+DB01563,Chloral hydrate,cough; cough; depression; anxiety; insomnia; depression,
+DB01565,Dihydromorphine,pain,
+DB01567,Fludiazepam,anxiety,weakness; pain; abdominal pain; dizziness; weakness; nausea; abdominal pain; weakness; weakness; weakness; abdominal pain
+DB01575,Kaolin,diarrhea; diarrhea; aids,
+DB01576,Dextroamphetamine,attention deficit; hyperactivity,fatigue; abdominal cramps; collapse; tremor; confusion; hypertension; hypotension; nausea; vomiting; abdominal cramps; diarrhea; tremor; fatigue; fatigue; fatigue; diarrhea; depression; panic; confusion; hypertension; hypotension; depression
+DB01577,Methamphetamine,attention deficit; hyperactivity,fatigue; abdominal cramps; collapse; tremor; confusion; hypertension; hypotension; nausea; vomiting; abdominal cramps; diarrhea; tremor; fatigue; fatigue; fatigue; diarrhea; depression; panic; confusion; hypertension; hypotension; depression
+DB01579,Phendimetrazine,,fatigue; abdominal cramps; collapse; confusion; hypertension; hypotension; nausea; vomiting; abdominal cramps; diarrhea; fatigue; fatigue; fatigue; diarrhea; depression; panic; confusion; hypertension; hypotension; depression
+DB01580,Oxprenolol,angina; angina; hypertension; anxiety; hypertension,lethargy; pressure; wheezing; low blood pressure; wheezing; depression; heart failure; depression
+DB01581,Sulfamerazine,bronchitis,nausea; vomiting; diarrhea; jaundice; jaundice; jaundice; diarrhea; anemia; thrombocytopenia
+DB01582,Sulfamethazine,bronchitis,nausea; vomiting; diarrhea; jaundice; jaundice; jaundice; diarrhea; anemia; thrombocytopenia
+DB01583,Liotrix,goiter; hypothyroidism; hyperthyroidism,fever; sweating; weight loss; increased appetite; pressure; abdominal cramps; palpitations; tachycardia; abdominal cramps; diarrhea; weight loss; heat intolerance; sweating; palpitations; tachycardia; fever; weight loss; diarrhea; insomnia
+DB01584,Thyroglobulin,hypothyroidism,
+DB01586,Ursodeoxycholic acid,,diarrhea; diarrhea
+DB01587,Ketazolam,anxiety; irritability,pressure; confusion; confusion
+DB01588,Prazepam,anxiety,pressure; confusion; confusion
+DB01589,Quazepam,insomnia,
+DB01590,Everolimus,tumors,
+DB01591,Solifenacin,frequency; urinary frequency; urgency; incontinence,blurred vision; dry skin; dry skin
+DB01592,Iron,anemia,lethargy; edema; tachycardia; hypotension; edema; vomiting; diarrhea; jaundice; jaundice; tachycardia; jaundice; diarrhea; depression; hypotension; depression
+DB01594,Cinolazepam,anxiety,
+DB01595,Nitrazepam,insomnia,
+DB01600,Tiaprofenic acid,pain,
+DB01601,Lopinavir,hiv,
+DB01602,Bacampicillin,urethritis,
+DB01604,Pivampicillin,bronchitis; pneumonia; urethritis,
+DB01605,Pivmecillinam,fever; fever; typhoid,
+DB01608,Propericiazine,,hypothermia; collapse; twitching; hypotension; hypotension
+DB01611,Hydroxychloroquine,arthritis; arthritis; rheumatoid arthritis; malaria,headache; collapse; bradycardia; bradycardia
+DB01612,Amyl Nitrite,angina; angina,fainting; syncope; shortness of breath; dyspnea; hypotension; syncope; fainting; nausea; vomiting; emesis; dyspnea; hypotension
+DB01613,Erythrityl Tetranitrate,angina; angina,fever; diaphoresis; throbbing; pressure; headache; colic; vertigo; syncope; paralysis; confusion; dyspnea; air hunger; palpitations; bradycardia; heart block; syncope; nausea; vomiting; colic; diarrhea; palpitations; bradycardia; hunger; fever; dyspnea; diarrhea; confusion
+DB01614,Acepromazine,,fever; pressure; low blood pressure; difficulty swallowing; fever; agitation
+DB01616,Alverine,pain; irritable bowel syndrome,hypotension; hypotension
+DB01619,Phenindamine,sneezing; runny nose; hives; itching; common cold,fever; weakness; shaking; weakness; confusion; blurred vision; flushing; weakness; flushing; weakness; weakness; fever; confusion; insomnia
+DB01620,Pheniramine,fever; urticaria; fever; urticaria; urticaria,
+DB01621,Pipotiazine,,lethargy; hypotension; hypotension
+DB01622,Thioproperazine,schizophrenia,hyperthermia; sweating; collapse; pallor; dysphagia; pallor; sweating; pallor
+DB01623,Thiothixene,schizophrenia,weakness; pressure; dizziness; twitching; weakness; low blood pressure; difficulty swallowing; weakness; weakness; weakness; depression; depression
+DB01624,Zuclopenthixol,mania; schizophrenia,hypothermia; hypotension; hypotension
+DB01625,Isopropamide,spasm; diarrhea; spasm; diarrhea; irritability; gastritis; peptic ulcer; cholelithiasis,fever; thirst; collapse; disorientation; photophobia; blurred vision; dysphagia; fever; depression; disorientation; depression
+DB01626,Pargyline,hypertension; hypertension,
+DB01628,Etoricoxib,pain; back pain; arthritis; back pain; arthritis; osteoarthritis; rheumatoid arthritis; gout,
+DB01656,Roflumilast,bronchospasm; bronchitis,weight loss; headache; loose stools; weight loss; weight loss; insomnia
+DB01685,Topiroxostat,gout,pain; arthritis; eczema; arthritis; gout; eczema
+DB01708,Prasterone,anorexia; ache; anorexia; anorexia; anorexia; schizophrenia,
+DB01873,Epothilone D,tumors,
+DB01956,Taurine,weight loss; weight loss; weight loss,
+DB02132,Zenarestat,neuropathy,
+DB02187,Equilin,menopause,
+DB02300,Calcipotriol,psoriasis,
+DB02342,2-Methoxyestradiol,arthritis; arthritis; rheumatoid arthritis,
+DB02546,Vorinostat,lymphoma,
+DB02709,Resveratrol,herpes,
+DB03255,Phenol,pain; throat pain; sore throat; sore throat,
+DB03424,Ubenimex,leukemia,
+DB03496,Alvocidib,leukemia; lymphoma,
+DB03756,Doconexent,,exhaustion; weakness; headache; weakness; cough; weakness; weakness; weakness; cough; depression; anemia; depression
+DB04209,Dequalinium,,burning; burning sensation; pruritus
+DB04468,Afimoxifene,gynecomastia,
+DB04552,Niflumic Acid,arthritis; arthritis; rheumatoid arthritis,
+DB04570,Latamoxef,,diarrhea; hematuria; pyuria; hematuria; diarrhea
+DB04574,Estrone sulfate,menopause,
+DB04575,Quinestrol,hot flashes; menopause; hot flashes,nausea; vomiting
+DB04725,Licofelone,osteoarthritis,
+DB04743,Nimesulide,pain; osteoarthritis,
+DB04796,Inecalcitol,psoriasis,
+DB04817,Metamizole,fever; fever,
+DB04818,Iproniazid,depression; tuberculosis; depression,
+DB04828,Zomepirac,pain,
+DB04831,Ticrynafen,hypertension; hypertension,
+DB04832,Zimelidine,depression; depression,
+DB04833,Methaqualone,insomnia,seizure; delirium; nausea; vomiting
+DB04835,Maraviroc,hiv,
+DB04836,Amineptine,depression; depression,
+DB04837,Clofedanol,cough; dry cough; cough,
+DB04838,Cyclandelate,claudication; claudication,
+DB04840,Debrisoquin,hypertension; hypertension,
+DB04841,Flunarizine,migraine; vertigo; epilepsy; migraine,tachycardia; emesis; tachycardia; depression; agitation; depression
+DB04842,Fluspirilene,schizophrenia,
+DB04843,Mepenzolate,peptic ulcer,weakness; headache; dizziness; paralysis; weakness; blurred vision; nausea; vomiting; weakness; dry skin; dry skin; weakness; weakness
+DB04844,Tetrabenazine,tic,depression; depression
+DB04845,Ixabepilone,tumors; lymphoma,
+DB04846,Celiprolol,angina; angina; hypertension; hypertension,bronchospasm; bradycardia; hypotension; bradycardia; hypotension
+DB04847,Roxadustat,anemia,
+DB04848,AZD0947,incontinence,
+DB04849,Cediranib,tumors,
+DB04850,Posizolid,,ataxia; vomiting; ataxia
+DB04853,Binodenoson,coronary artery disease,
+DB04854,Febuxostat,gout,frequency
+DB04855,Dronedarone,atrial fibrillation,asthenia; pain; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; diarrhea; abdominal pain
+DB04856,Dexloxiglumide,reflux; irritable bowel syndrome,
+DB04859,Zanapezil,dementia; dementia,
+DB04860,Isatoribine,hepatitis; hepatitis,
+DB04861,Nebivolol,hypertension; hypertension,fatigue; dizziness; bronchospasm; bradycardia; heart block; hypotension; pallor; vomiting; pallor; bradycardia; fatigue; pallor; fatigue; fatigue; hypotension
+DB04862,Merimepodib,hepatitis; hepatitis,
+DB04863,Lefradafiban,angina; angina,
+DB04868,Nilotinib,leukemia,
+DB04869,Olcegepant,migraine; migraine,
+DB04871,Lorcaserin,,fatigue; weight loss; pain; headache; back pain; back pain; weight loss; fatigue; fatigue; fatigue; weight loss
+DB04872,Osanetant,pain; depression; depression; schizophrenia,
+DB04873,Piboserod,atrial fibrillation; irritable bowel syndrome,
+DB04874,Picoplatin,tumors,
+DB04875,Pralnacasan,arthritis; arthritis; rheumatoid arthritis,
+DB04876,Vildagliptin,diabetes,
+DB04877,Voacamine,malaria,
+DB04878,Voglibose,diabetes,
+DB04880,Enoximone,heart failure,
+DB04881,Elacridar,tumors,
+DB04882,Edotecarin,tumors,
+DB04883,Darusentan,hypertension; hypertension; heart failure,
+DB04884,Dapoxetine,premature ejaculation,
+DB04885,Cilansetron,irritable bowel syndrome,
+DB04886,Calanolide A,hiv; aids,
+DB04887,Brecanavir,hiv,
+DB04888,Bifeprunox,psychosis; psychosis; schizophrenia,
+DB04889,Bicifadine,pain,
+DB04890,Bepotastine,conjunctivitis,
+DB04891,Becocalcidiol,psoriasis,
+DB04893,AZD3409,tumors,
+DB04894,Vapreotide,diarrhea; diarrhea; aids,fatigue; pain; headache; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; fatigue; fatigue; fatigue; diarrhea; abdominal pain
+DB04896,Milnacipran,pain; fibromyalgia; fibromyalgia; depression; fibromyalgia; depression,hyperhidrosis; headache; dizziness; palpitations; hypertension; nausea; vomiting; constipation; hyperhidrosis; palpitations; insomnia; hypertension
+DB04897,Lucinactant,distress; respiratory distress,pallor; reflux; pallor; pallor
+DB04899,Nesiritide,dyspnea; dyspnea; heart failure,hypotension; hypotension
+DB04900,Thymalfasin,hepatitis; influenza; hepatitis,
+DB04901,Galiximab,arthritis; arthritis; rheumatoid arthritis; psoriasis; lymphoma,
+DB04903,Pagoclone,anxiety; panic,
+DB04917,Renzapride,constipation; irritable bowel syndrome,
+DB04920,Clevidipine,hypertension; hypertension,
+DB04926,Neramexane,pain; hearing loss,
+DB04936,Tagatose,diabetes,
+DB04938,Ospemifene,dyspareunia; dyspareunia; menopause,hyperhidrosis; hyperhidrosis
+DB04941,Crofelemer,diarrhea; diarrhea; hiv; aids,cough; flatulence; cough; bronchitis
+DB04942,Tamibarotene,leukemia,
+DB04944,Acadesine,coronary artery disease,
+DB04946,Iloperidone,schizophrenia,fatigue; dizziness; nasal congestion; tachycardia; hypotension; orthostatic hypotension; tachycardia; fatigue; fatigue; fatigue; hypotension
+DB04947,Altropane,attention deficit; hyperactivity,
+DB04948,Lofexidine,,exhaustion; tremor; ataxia; bradycardia; hypotension; ataxia; tremor; bradycardia; hypotension
+DB04951,Pirfenidone,,rash; rash
+DB04953,Ezogabine,,dizziness
+DB04954,Tecadenoson,arrhythmia; atrial fibrillation; arrhythmia; arrhythmia,
+DB04955,Pumactant,asthma; asthma,
+DB04957,Azimilide,arrhythmia; atrial fibrillation; arrhythmia; arrhythmia,
+DB04958,Epratuzumab,leukemia; lymphoma,
+DB04959,HspE7,hiv,
+DB04960,Tipifarnib,tumors; leukemia,
+DB04961,Troxacitabine,leukemia,
+DB04962,Bectumomab,lymphoma,
+DB04963,rhGAD65,diabetes,
+DB04968,PH94B,phobia,
+DB04970,Lesopitron,anxiety,headache; dizziness; nausea
+DB04971,Reglixane,diabetes,
+DB04972,Canfosfamide,,fatigue; nausea; vomiting; hematuria; fatigue; hematuria; fatigue; fatigue; anemia
+DB04976,M40403,pain,
+DB04982,Talampanel,epilepsy,
+DB04989,Ty800,fever; fever; typhoid,
+DB04991,XL784,diabetes,
+DB04995,AT1022,pain,
+DB04996,Satraplatin,tumors,
+DB04997,ATL1102,asthma; asthma,
+DB04998,AGRO100,tumors; leukemia,
+DB05000,AeroLEF,pain,
+DB05001,PSN9301,diabetes,
+DB05003,Imexon,tumors,
+DB05005,CCX282,inflammatory bowel disease,
+DB05010,SGS-742,memory loss; memory loss; attention deficit; hyperactivity; schizophrenia,
+DB05012,XEN2174,pain,
+DB05013,Ingenol Mebutate,,edema; headache; edema
+DB05014,XL999,tumors,
+DB05015,Belinostat,lymphoma; thrombocytopenia,thrombocytopenia
+DB05017,YSIL6,arthritis; arthritis; rheumatoid arthritis; psoriasis,
+DB05020,ANA380,hepatitis; hepatitis,
+DB05021,EMZ702,hepatitis; hepatitis,
+DB05023,ATL1101,psoriasis,
+DB05024,CTA018,psoriasis,
+DB05025,Arimoclomol,neuropathy; diabetes,
+DB05031,XP19986,reflux,
+DB05032,REV131,rhinitis; rhinitis,
+DB05034,Ularitide,heart failure,
+DB05036,Grn163l,tumors; leukemia,
+DB05037,AT7519,tumors; leukemia; lymphoma,
+DB05039,Indacaterol,bronchitis; emphysema,fatigue; malaise; headache; angina; dizziness; tremor; angina; tachycardia; hypertension; hypotension; nausea; tremor; tachycardia; fatigue; fatigue; fatigue; malaise; insomnia; hypertension; hypotension
+DB05042,SGS518,schizophrenia,
+DB05043,GSK159797,asthma; asthma,
+DB05044,PSN357,diabetes,
+DB05046,V1003,pain,
+DB05048,Cannabinor,pain,
+DB05049,DDP733,reflux; constipation; irritable bowel syndrome,
+DB05050,ADL5859,pain,
+DB05052,MF101,menopause,
+DB05053,MB-07803,diabetes,
+DB05054,AN0128,dermatitis; dermatitis; psoriasis,
+DB05056,EGS21,hepatitis; hepatitis,
+DB05057,Erdosteine,bronchitis,
+DB05060,R1626,hepatitis; hepatitis,
+DB05063,Mitoquinone,hepatitis; hepatitis,
+DB05064,INCB13739,diabetes,
+DB05070,ADX10059,migraine; reflux; anxiety; migraine,
+DB05071,ACE393,diarrhea; diarrhea,
+DB05072,AV608,incontinence; anxiety; irritable bowel syndrome,
+DB05073,SRT501,diabetes,
+DB05078,AER001,asthma; asthma,
+DB05079,HY10275,insomnia,
+DB05081,JB991,psoriasis,
+DB05084,Abaloparatide,,headache; dizziness; tachycardia; hypotension; orthostatic hypotension; nausea; vomiting; tachycardia; hypotension; hyperthyroidism
+DB05085,TM30339,schizophrenia,
+DB05087,Ganaxolone,seizure,
+DB05095,Cimicoxib,depression; depression,
+DB05096,LY2140023,psychosis; psychosis; schizophrenia,
+DB05099,Ancrod,hypertension; priapism; hypertension,pain; hypertension; rash; urticaria; rash; urticaria; tuberculosis; hypertension; urticaria; thrombocytopenia
+DB05103,AN-9,leukemia,
+DB05104,Asimadoline,irritable bowel syndrome,
+DB05107,16-Bromoepiandrosterone,hepatitis; malaria; hiv; hepatitis,
+DB05108,EHT899,hepatitis; hepatitis,
+DB05109,Trabectedin,tumors,
+DB05110,VIR201,hiv,
+DB05111,Fontolizumab,psoriasis,
+DB05112,AP5280,tumors,
+DB05114,EHC18,hepatitis; hepatitis,
+DB05115,NN344,diabetes,
+DB05117,IGN301,tumors,
+DB05118,R1204,depression; depression,
+DB05120,AT1391,diabetes,
+DB05122,R1295,arthritis; arthritis; rheumatoid arthritis,
+DB05124,ARC183,coronary artery disease,
+DB05125,SC12267,arthritis; arthritis; rheumatoid arthritis,
+DB05127,ANA971,hepatitis; hepatitis,
+DB05129,Elsamitrucin,lymphoma,
+DB05132,ND1251,depression; depression,
+DB05134,Tanespimycin,tumors; leukemia,
+DB05136,Bavituximab,tumors; hepatitis; hiv; hepatitis,
+DB05140,RAV12,tumors,
+DB05141,LY2181308,tumors,
+DB05142,ND7001,depression; anxiety; depression,
+DB05143,OXI-4503,tumors,
+DB05144,PEV3A,malaria,
+DB05145,TH0318,diabetes,
+DB05146,XL820,tumors,
+DB05147,CYT997,tumors,
+DB05149,XL844,tumors,
+DB05151,TST10088,tumors,
+DB05152,NGX267,schizophrenia,
+DB05154,Pretomanid,tuberculosis,
+DB05155,CR665,pain,
+DB05156,SL017,tumors,
+DB05157,KC706,arthritis; inflammatory bowel disease; arthritis; rheumatoid arthritis; psoriasis,
+DB05158,PM02734,tumors,
+DB05160,Topsalysin,tumors,
+DB05164,CMLVAX100,leukemia,
+DB05165,LY2275796,tumors,
+DB05166,APD668,diabetes,
+DB05167,PDPSC18,hepatitis; hepatitis,
+DB05168,Vintafolide,tumors,
+DB05169,AT9283,tumors; leukemia,
+DB05170,Benzimate,tumors,
+DB05172,AT3022,pain,
+DB05173,PTC299,tumors,
+DB05180,LX6171,dementia; attention deficit; hyperactivity; schizophrenia; dementia,
+DB05184,XL228,leukemia,
+DB05186,SQ-109,tuberculosis,
+DB05187,Elafibranor,diabetes,
+DB05189,EPC2407,tumors,
+DB05190,XL281,tumors,
+DB05194,KB002,arthritis; arthritis; rheumatoid arthritis,
+DB05195,ADC4022,asthma; asthma,
+DB05196,ACR325,psychosis; psychosis,
+DB05198,CYC116,tumors,
+DB05199,LX1031,irritable bowel syndrome,
+DB05201,V24343,diabetes,
+DB05203,SPP1148,hypertension; hypertension,
+DB05205,CX157,depression; anxiety; depression,
+DB05207,SD118,pain; neuropathic pain,
+DB05209,SYM001,thrombocytopenia,
+DB05212,HE3286,arthritis; arthritis; rheumatoid arthritis; diabetes,
+DB05214,KD7040,pain,
+DB05217,GMX1777,tumors,
+DB05218,PN0621,arthritis; arthritis; rheumatoid arthritis; psoriasis,
+DB05219,Crisaborole,dermatitis; dermatitis,urticaria; urticaria; urticaria
+DB05225,AM103,asthma; asthma,
+DB05228,RDEA806,hiv,
+DB05229,Beraprost,hypertension; hypertension,
+DB05232,Tetrodotoxin,pain,
+DB05235,NRP409,hypothyroidism,
+DB05237,rhMBL,immunodeficiency,
+DB05239,Cobimetinib,,fever; nausea; vomiting; diarrhea; fever; diarrhea
+DB05242,eiRNA,hepatitis; hepatitis,
+DB05244,G4544,lymphoma,
+DB05246,Methsuximide,,nausea; vomiting; depression; depression
+DB05249,FavId,lymphoma,
+DB05252,ACCLAIM,angina; angina; coronary artery disease,
+DB05257,Neocartilage,pain,
+DB05258,Natural alpha interferon,hepatitis; leukemia; hepatitis,
+DB05259,Glatiramer Acetate,frequency,asthenia; pain; chest pain; arthralgia; chest pain; nausea; arthralgia; arthralgia; anxiety
+DB05260,Gallium nitrate,lymphoma,
+DB05262,Oxypurinol,heart failure,
+DB05264,NPI 32101,dermatitis; dermatitis,
+DB05265,Ecabet,reflux; peptic ulcer,
+DB05266,Ibudilast,asthma; asthma,
+DB05271,Rotigotine,,confusion; hypotension; nausea; vomiting; confusion; hypotension
+DB05273,Samarium (153Sm) lexidronam,arthritis; arthritis; rheumatoid arthritis,
+DB05276,Hepatitis B Immune Globulin,hepatitis; hepatitis,
+DB05290,SPP 301,neuropathy,
+DB05294,Vandetanib,heart failure,
+DB05296,Motexafin lutetium,tumors; coronary artery disease,
+DB05299,keyhole limpet hemocyanin,tumors,
+DB05300,PTI-801,pain; osteoarthritis,
+DB05301,LAX-101,depression; depression,
+DB05303,OMS-103HP,pain,
+DB05306,Alferminogene Tadenovec,angina; angina; coronary artery disease,
+DB05311,Ecallantide,angioedema; angioedema,
+DB05312,NVS antibody,arthritis; arthritis; rheumatoid arthritis,
+DB05315,MC-1,coronary artery disease,
+DB05316,Pimavanserin,psychosis; psychosis; schizophrenia,
+DB05327,Ranirestat,neuropathy,
+DB05328,VGV-1,hiv,
+DB05332,Romiplostim,purpura; purpura,pain; headache; abdominal pain; arthralgia; myalgia; dizziness; paresthesia; dyspepsia; abdominal pain; dyspepsia; arthralgia; myalgia; arthralgia; myalgia; abdominal pain; insomnia
+DB05333,TC-5231,attention deficit; hyperactivity,
+DB05339,MN-305,depression; anxiety; insomnia; depression,
+DB05340,ATL-2502,inflammatory bowel disease,
+DB05341,C1-INH,angioedema; angioedema,
+DB05345,SO-101,insomnia,
+DB05346,WL-1002,pain; osteoarthritis,
+DB05350,AP-1034,incontinence,
+DB05351,Dexlansoprazole,reflux; heartburn; heartburn,pain; abdominal pain; hypertension; nausea; vomiting; flatulence; abdominal pain; diarrhea; diarrhea; abdominal pain; hypertension
+DB05364,ROX-888,pain,
+DB05367,Actelion-1,hypertension; hypertension,
+DB05369,HZT-501,pain,
+DB05371,ACR-16,schizophrenia,
+DB05381,Histamine,,headache; dizziness; tachycardia; hypertension; hypotension; tachycardia; hypertension; hypotension
+DB05382,Iodine,pain,
+DB05384,Carbopol 974P,hiv,
+DB05385,PRO 2000,hiv,
+DB05387,AE-941,psoriasis,
+DB05389,WF10,tumors; hiv; aids,
+DB05391,liposomal prostaglandin E1,neuropathy,
+DB05395,Amibegron,depression; irritable bowel syndrome; depression,
+DB05396,Albinterferon Alfa-2B,hepatitis; hepatitis,
+DB05398,C31G,hiv,
+DB05399,Succinobucol,coronary artery disease; diabetes,
+DB05400,QS-21,hepatitis; influenza; malaria; hiv; hepatitis; herpes,
+DB05402,ME-609,herpes,
+DB05403,CEP-1347,asthma; asthma,
+DB05404,AZD 3355,reflux,
+DB05405,XTL-001,hepatitis; hepatitis,
+DB05406,GTI-2501,tumors,
+DB05407,TBC-3711,hypertension; hypertension; heart failure,
+DB05408,Emricasan,hepatitis; hepatitis,
+DB05409,NCX 701,pain,
+DB05410,NCX 1022,dermatitis; dermatitis,
+DB05411,VB2-011,tumors,
+DB05412,Talmapimod,pain; arthritis; arthritis; rheumatoid arthritis,
+DB05413,Tifuvirtide,hiv; aids,
+DB05415,OSI-461,inflammatory bowel disease; leukemia,
+DB05418,GW 597599,depression; anxiety; depression,
+DB05420,gallium maltolate,lymphoma,
+DB05421,CP-122721,depression; asthma; irritable bowel syndrome; asthma; depression,
+DB05422,OPC-14523,depression; bulimia; depression,
+DB05423,ORG-34517,depression; depression,
+DB05426,talactoferrin alpha,tumors,
+DB05428,motexafin gadolinium,tumors; lymphoma,
+DB05429,CAT-213,rhinitis; rhinitis,
+DB05431,MLN-977,asthma; asthma,
+DB05432,DAS-431 IV,dementia; schizophrenia; dementia,
+DB05433,rGLP-1,heart failure; diabetes,
+DB05434,ABT-510,tumors; lymphoma,
+DB05437,RIGScan CR49,tumors,
+DB05438,IDM-4,leukemia,
+DB05440,SRP 299,dermatitis; asthma; dermatitis; asthma,
+DB05441,AVAC,dermatitis; asthma; dermatitis; asthma,asthma; asthma
+DB05442,Etiprednol dicloacetate,asthma; asthma,
+DB05443,ADL 10-0101,pain; arthritis; arthritis; rheumatoid arthritis,
+DB05448,PX-12,tumors,
+DB05449,FM-VP4,tumors,
+DB05451,P54,tumors; inflammatory bowel disease; osteoarthritis,
+DB05452,PH-284,weight loss; anorexia; anorexia; loss of appetite; weight loss; anorexia; weight loss; anorexia; aids,
+DB05456,ETC-588,coronary artery disease,
+DB05458,Pozanicline,attention deficit; hyperactivity; schizophrenia,
+DB05459,Briakinumab,arthritis; arthritis; rheumatoid arthritis; psoriasis,
+DB05463,ISS-1018,hepatitis; lymphoma; hepatitis,
+DB05464,NOX-700,diabetes,
+DB05465,Tandutinib,leukemia,
+DB05466,R673,depression; anxiety; depression,
+DB05467,R667,emphysema,emphysema
+DB05468,R411,asthma; asthma,
+DB05469,R450,incontinence,
+DB05470,VX-702,arthritis; coronary artery disease; arthritis; rheumatoid arthritis,
+DB05471,SGN-30,tumors; lymphoma,
+DB05472,omega interferon,hepatitis; hepatitis,
+DB05474,T487,arthritis; inflammatory bowel disease; arthritis; rheumatoid arthritis; psoriasis,
+DB05475,Golotimod,tuberculosis; hepatitis; hepatitis,
+DB05476,WX-UK1,tumors,
+DB05477,MUC1 Dendritic Cell Vaccine,tumors,
+DB05478,Pradefovir Mesylate,hepatitis; hepatitis,
+DB05480,PBI-1402,anemia,
+DB05481,Recombinant alpha 1-antitrypsin,dermatitis; dermatitis,
+DB05483,PCL-016,herpes,
+DB05485,ADH-1,tumors,
+DB05490,T131,diabetes,fluid retention
+DB05491,ATN-161,tumors,
+DB05492,Epicept NP-1,pain; neuropathy,
+DB05494,Elacytarabine,leukemia,
+DB05495,PG-530742,osteoarthritis,
+DB05496,Otelixizumab,psoriasis; diabetes,
+DB05498,KW-7158,incontinence,
+DB05499,TAK-428,neuropathy,
+DB05500,AVN-944,tumors; leukemia; lymphoma,
+DB05501,AMD-070,hiv,
+DB05502,AG-858,leukemia,
+DB05506,ISIS 113715,diabetes,
+DB05507,VX-765,psoriasis,
+DB05509,LI-301,premature ejaculation,
+DB05511,Piclidenoson,arthritis; tumors; arthritis; rheumatoid arthritis; psoriasis,
+DB05512,MM-093,arthritis; arthritis; rheumatoid arthritis; psoriasis,
+DB05518,Managlinat dialanetil,diabetes,
+DB05519,Budiodarone,arrhythmia; atrial fibrillation; arrhythmia; arrhythmia,
+DB05521,Telaprevir,,frequency; anemia
+DB05528,Mipomersen,,fatigue; headache; nausea; fatigue; fatigue; fatigue
+DB05530,CPG 10101,hepatitis; hepatitis,
+DB05532,BMS-488043,hiv,
+DB05533,QR-333,neuropathy,
+DB05540,Alanosine,tumors,
+DB05541,Brivaracetam,,dizziness
+DB05575,Motesanib,tumors,
+DB05578,Ramucirumab,,fatigue; hypertension; diarrhea; fatigue; epistaxis; fatigue; fatigue; diarrhea; hypertension; cirrhosis
+DB05630,Sodium stibogluconate,tumors,nausea; vomiting; hepatitis; nephritis; hepatitis
+DB05652,VTP-201227,psoriasis,
+DB05656,Veltuzumab,lymphoma,
+DB05659,faropenem medoxomil,bronchitis,
+DB05676,Apremilast,psoriasis,weight loss; weight loss; weight loss; depression; depression
+DB05679,Ustekinumab,arthritis; arthritis; psoriasis,
+DB05687,BL-1020,schizophrenia,
+DB05688,CRx-119,arthritis; arthritis; rheumatoid arthritis,
+DB05708,GTS-21,schizophrenia,
+DB05710,Gantacurium Chloride,anesthesia,
+DB05722,CGC-11047,tumors; lymphoma,
+DB05730,PMI-001,arthritis; arthritis; rheumatoid arthritis,
+DB05737,Varespladib methyl,coronary artery disease,
+DB05738,Vapitadine,dermatitis; dermatitis,
+DB05739,CYT006-AngQb,hypertension; hypertension,
+DB05740,RPI-78M,pain,
+DB05741,AGS-005,leukemia,
+DB05742,AGS-004,hiv,
+DB05744,CRx-139,arthritis; arthritis; rheumatoid arthritis,
+DB05746,PF-03187207,hypertension; hypertension,
+DB05750,AVE-1625,schizophrenia,
+DB05751,RP01,asthma; asthma,
+DB05754,IPH 1101,hepatitis; leukemia; lymphoma; hepatitis,
+DB05755,BF-37,dermatitis; dermatitis,
+DB05757,DNB-001,hypertension; hypertension,
+DB05758,CYT007-TNFQb,psoriasis,
+DB05766,ACP-104,schizophrenia,
+DB05771,LLL-3348,psoriasis,
+DB05772,Rabeximod,arthritis; arthritis; rheumatoid arthritis,
+DB05775,CRx-401,diabetes,
+DB05776,IC41,hepatitis; hepatitis,
+DB05779,Oglufanide,hepatitis; hepatitis,
+DB05780,ATX-101,tumors,
+DB05785,LGD-1550,tumors,
+DB05787,LM-609,arthritis; tumors; arthritis; rheumatoid arthritis; psoriasis,
+DB05790,SR 140333,asthma; inflammatory bowel disease; asthma,
+DB05792,Arylacenamide,tumors,
+DB05793,PRO-542,hiv; aids,
+DB05794,Serelaxin,heart failure,
+DB05795,YKP-10A,depression; depression,
+DB05796,Daglutril,hypertension; hypertension; heart failure,
+DB05798,GEM-231,tumors,
+DB05800,Alethine,lymphoma,
+DB05801,GTI 2040,tumors; leukemia,
+DB05803,ISIS 14803,hepatitis; hepatitis,
+DB05804,Prasterone sulfate,asthma; asthma,
+DB05805,NS-2359,depression; attention deficit; hyperactivity; depression,
+DB05807,HGTV-43,hiv,
+DB05811,HSV-2 theracine,herpes,
+DB05812,Abiraterone,,fluid retention
+DB05814,GPI-1485,erectile dysfunction; erectile dysfunction,
+DB05817,Laromustine,tumors; leukemia,
+DB05819,NBI-6024,diabetes,
+DB05821,DP-VPA,migraine; epilepsy; migraine,
+DB05824,CNS-5161,pain; migraine; migraine; neuropathy,
+DB05825,NCX 1015,pain; arthritis; inflammatory bowel disease; arthritis,
+DB05828,LU-31130,psychosis; psychosis; schizophrenia,
+DB05831,ING-1,tumors,
+DB05835,NS-3728,tumors; anemia,
+DB05836,AG-702,herpes,
+DB05837,OSI-7836,tumors,
+DB05838,OPC-51803,nocturia; nighttime urination; incontinence,
+DB05839,BG-777,pneumonia; influenza; hiv,
+DB05841,AI-128,asthma; asthma,
+DB05842,AI-850,tumors,
+DB05843,trans NV-04,hypertension; hypertension,
+DB05849,NCX 950,asthma; asthma,
+DB05854,CLX-0921,diabetes,
+DB05860,PEG-Infergen,hepatitis; hepatitis,
+DB05864,PPI-2458,tumors; lymphoma,
+DB05868,Ciluprevir,hepatitis; hepatitis,
+DB05870,anti-alpha5Beta1-integrin antibody,tumors,
+DB05871,UC-781,hiv,
+DB05875,substance P,distress; respiratory distress,
+DB05876,PDE4,asthma; asthma,
+DB05879,AME-527,arthritis; arthritis; rheumatoid arthritis,
+DB05880,MBT-0312,tumors,
+DB05884,HCV-086,hepatitis; hepatitis,
+DB05885,Seletracetam,epilepsy,dizziness; nausea; euphoria
+DB05886,NV-18,tumors,
+DB05888,MEM 1414,memory loss; depression; memory loss; depression,
+DB05890,VEGF-AS,tumors,
+DB05892,RI 624,pain,
+DB05895,HGS-TR2J,tumors,
+DB05897,rhIGFBP-3,tumors,
+DB05899,IT-101,tumors,
+DB05903,KOS-1584,tumors,
+DB05904,BLX-883,hepatitis; hepatitis,
+DB05905,TD-2749,constipation; irritable bowel syndrome,
+DB05906,CCR5 mAb,hiv,
+DB05913,OSI-930,tumors,
+DB05916,CT-011,tumors,
+DB05919,DDP-200,incontinence,
+DB05928,Dovitinib,tumors,
+DB05929,GPI-0100,leukemia,
+DB05930,SB-559448,thrombocytopenia,
+DB05944,Varlitinib,tumors,
+DB05950,Contulakin-G,pain,
+DB05990,Obeticholic acid,,hypertension; jaundice; pruritus; jaundice; jaundice; hypertension
+DB06014,Eteplirsen,,pain; arthralgia; flushing; erythema; vomiting; arthralgia; rash; dermatitis; erythema; flushing; arthralgia; rash; dermatitis
+DB06016,Cariprazine,schizophrenia,psychosis; psychosis; dementia; dementia
+DB06039,PA-1050040,hiv,
+DB06042,ZEN-012,tumors,
+DB06043,Olaratumab,,pain; bronchospasm; hypotension; flushing; nausea; flushing; hypotension; anemia
+DB06058,XTL-6865,hepatitis; hepatitis,
+DB06061,AZD-8330,tumors,
+DB06063,CAM-2029,tumors,
+DB06069,XMT-1001,tumors,
+DB06070,SNX-5422,tumors,
+DB06071,DTS-201,tumors,
+DB06077,Lumateperone,schizophrenia,
+DB06080,ABT-869,tumors; leukemia,
+DB06083,Tapinarof,psoriasis,
+DB06089,ICA-105665,epilepsy,
+DB06094,Apatorsen,tumors,
+DB06096,NXN-188,migraine; migraine,
+DB06097,GSK-923295,tumors,
+DB06098,PRLX 93936,tumors,
+DB06101,IMC-1C11,tumors,
+DB06103,VX-148,psoriasis,
+DB06127,KRP-104,diabetes,
+DB06129,SVV-001,tumors,
+DB06130,FAV-201,lymphoma,
+DB06144,Sertindole,schizophrenia,
+DB06145,Spiramycin,,fever; pain; tenderness; chest pain; abdominal pain; fainting; chest pain; irregular heartbeat; fainting; nausea; vomiting; heartburn; abdominal pain; heartburn; yellow eyes; tenderness; fever; abdominal pain; hepatitis; hepatitis
+DB06148,Mianserin,depression; depression,
+DB06151,Acetylcysteine,,ataxia; cyanosis; ataxia; cyanosis; cyanosis
+DB06155,Rimonabant,diabetes,fatigue; nausea; vomiting; fatigue; fatigue; fatigue; depression; anxiety; insomnia; depression
+DB06162,Lumiliximab,asthma; leukemia; asthma,
+DB06168,Canakinumab,arthritis; arthritis,pain; headache; vertigo; rhinitis; nausea; diarrhea; rhinitis; diarrhea; bronchitis; influenza
+DB06176,Romidepsin,lymphoma,anorexia; nausea; vomiting; anorexia; anorexia; anorexia
+DB06186,Ipilimumab,,fever; fatigue; weakness; pain; abdominal pain; paresthesia; weakness; mucus; hypotension; abdominal pain; diarrhea; weakness; rash; dermatitis; pruritus; fatigue; weakness; fatigue; weakness; fever; fatigue; rash; diarrhea; abdominal pain; hypotension; hepatitis; neuropathy; dermatitis; hypothyroidism; adrenal insufficiency; hepatitis
+DB06190,Solabegron,incontinence; irritable bowel syndrome; diabetes,
+DB06193,Pixantrone,heart failure; leukemia; lymphoma,nausea; vomiting; alopecia; alopecia; thrombocytopenia
+DB06196,Icatibant,angioedema; angioedema,
+DB06201,Rufinamide,,fatigue; headache; dizziness; nausea; fatigue; fatigue; fatigue
+DB06203,Alogliptin,diabetes,headache
+DB06204,Tapentadol,pain; neuropathic pain; neuropathy,headache; dizziness; nausea; vomiting
+DB06207,Silodosin,,headache; dizziness; nasal congestion; hypotension; orthostatic hypotension; diarrhea; retrograde ejaculation; diarrhea; hypotension
+DB06209,Prasugrel,angina; angina,
+DB06210,Eltrombopag,,hepatitis; hepatitis
+DB06211,Doripenem,pyelonephritis,seizure; pneumonia
+DB06212,Tolvaptan,heart failure; cirrhosis,asthenia; thirst; constipation; pollakiuria; polyuria; polyuria
+DB06213,Regadenoson,,pain; discomfort; headache; chest pain; angina; dizziness; dyspnea; chest pain; angina; flushing; nausea; flushing; dyspnea
+DB06215,Ferumoxytol,anemia,
+DB06216,Asenapine,psychosis; psychosis; schizophrenia,
+DB06217,Vernakalant,atrial fibrillation,dizziness; dysgeusia; bradycardia; atrial flutter; hypotension; nausea; bradycardia; hypotension
+DB06218,Lacosamide,epilepsy,
+DB06219,Dalbavancin,,headache; dizziness; bronchospasm; nausea; vomiting; diarrhea; rash; urticaria; rash; urticaria; diarrhea; urticaria
+DB06228,Rivaroxaban,atrial fibrillation,
+DB06230,Nalmefene,depression; depression,
+DB06235,Vadimezan,tumors,
+DB06237,Avanafil,erectile dysfunction; erectile dysfunction,headache; flushing; flushing
+DB06243,Eflornithine,hirsutism; hirsutism,
+DB06262,Droxidopa,fainting; hypotension; orthostatic hypotension; fainting; hypotension,anorexia; pressure; headache; hallucination; nausea; anorexia; anorexia; hallucination; anorexia
+DB06264,Tolperisone,pain; back pain; spasm; spasm; muscle spasm; back pain,
+DB06266,Lonidamine,tumors,
+DB06267,Udenafil,hypertension; erectile dysfunction; erectile dysfunction; hypertension,
+DB06268,Sitaxentan,hypertension; hypertension; heart failure,
+DB06271,Sulodexide,claudication; claudication; neuropathy,dizziness; heartburn; dyspepsia; diarrhea; dyspepsia; heartburn; rash; rash; diarrhea
+DB06273,Tocilizumab,arthritis; arthritis; rheumatoid arthritis,headache; hypertension; hypertension
+DB06274,Alvimopan,pain,
+DB06282,Levocetirizine,rhinitis; rhinitis,
+DB06285,Teriparatide,,dizziness
+DB06287,Temsirolimus,arthritis; arthritis; rheumatoid arthritis; lymphoma,seizure; psychosis; psychosis
+DB06288,Amisulpride,depression; mania; depression; bipolar disorder; schizophrenia,
+DB06290,Simeprevir,hepatitis; cirrhosis; hepatitis,fatigue; headache; nausea; rash; pruritus; fatigue; fatigue; fatigue; rash
+DB06292,Dapagliflozin,diabetes,
+DB06335,Saxagliptin,diabetes,headache; urinary tract infection
+DB06366,Pertuzumab,,fatigue; nausea; diarrhea; rash; alopecia; alopecia; fatigue; fatigue; fatigue; rash; diarrhea; neuropathy
+DB06372,Rilonacept,gout,
+DB06401,Bazedoxifene,menopause,
+DB06402,Telavancin,pneumonia,
+DB06403,Ambrisentan,hypertension; hypertension,
+DB06404,Human C1-esterase inhibitor,angioedema; angioedema,headache; nausea; vomiting; rash; rash
+DB06412,Oxymetholone,anemia,
+DB06413,Armodafinil,apnea; sleep apnea; depression; sleep apnea; depression; schizophrenia,
+DB06414,Etravirine,hiv,
+DB06415,Calfactant,distress; respiratory distress,bradycardia; cyanosis; cyanosis; bradycardia; cyanosis
+DB06419,Cethromycin,pneumonia,
+DB06439,Tyloxapol,mucus; secretions,
+DB06471,Naxifylline,heart failure,
+DB06480,Prucalopride,constipation,
+DB06512,Deramciclane,anxiety,
+DB06519,Edaglitazone,diabetes,
+DB06543,Astaxanthin,tumors; asthma; asthma,
+DB06554,Gaboxadol,insomnia,
+DB06579,Adipiplon,insomnia,
+DB06581,Bevirimat,hiv,
+DB06595,Midostaurin,leukemia,
+DB06603,Panobinostat,,diarrhea; diarrhea
+DB06605,Apixaban,atrial fibrillation,
+DB06607,Catumaxomab,tumors,
+DB06612,Mepolizumab,asthma; asthma,
+DB06614,Peramivir,influenza,
+DB06616,Bosutinib,leukemia,pyrexia; fatigue; pain; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; rash; fatigue; fatigue; fatigue; rash; diarrhea; abdominal pain; anemia; thrombocytopenia
+DB06623,Flupirtine,fibromyalgia; fibromyalgia; fibromyalgia,
+DB06626,Axitinib,,hypertension; hypertension
+DB06643,Denosumab,tumors,pain; back pain; arthralgia; arthralgia; back pain; arthralgia; pancreatitis; cystitis
+DB06650,Ofatumumab,leukemia,
+DB06654,Safinamide,,pressure; hypertension; high blood pressure; hypotension; orthostatic hypotension; nausea; vomiting; agitation; insomnia; hypertension; hypotension
+DB06655,Liraglutide,diabetes,nausea; vomiting; tumors; diabetes
+DB06663,Pasireotide,,fatigue; pain; headache; abdominal pain; nausea; abdominal pain; diarrhea; fatigue; fatigue; fatigue; diarrhea; abdominal pain; cholelithiasis; diabetes
+DB06674,Golimumab,arthritis; arthritis; rheumatoid arthritis,tuberculosis; lymphoma
+DB06678,Esmirtazapine,insomnia,
+DB06684,Vilazodone,depression; depression,vomiting
+DB06691,Mepyramine,,tremor; ataxia; ataxia; tremor
+DB06693,Mevastatin,,pain; abdominal pain; nausea; abdominal pain; myositis; abdominal pain
+DB06694,Xylometazoline,nasal congestion,
+DB06695,Dabigatran etexilate,atrial fibrillation; peptic ulcer,dyspepsia; dyspepsia; gastritis
+DB06697,Artemether,malaria,
+DB06698,Betahistine,vertigo,pain; abdominal pain; nausea; dyspepsia; abdominal pain; dyspepsia; abdominal pain
+DB06699,Degarelix,,swelling; pain; swelling; hot flashes; erythema; hot flashes; swelling; erythema
+DB06700,Desvenlafaxine,,sweating; weight loss; pressure; headache; tremor; nausea; weight loss; sweating; tremor; weight loss; agitation
+DB06701,Dexmethylphenidate,,sweating; weight loss; anorexia; pain; headache; stomach pain; dizziness; twitching; confusion; delirium; palpitations; tachycardia; hypertension; flushing; nausea; vomiting; stomach pain; anorexia; flushing; weight loss; sweating; palpitations; tachycardia; anorexia; weight loss; anxiety; euphoria; agitation; confusion; insomnia; anorexia; hypertension
+DB06702,Fesoterodine,frequency; urinary frequency; urgency; urge incontinence; incontinence,
+DB06703,Gadobutrol,tumors,
+DB06704,Iobenguane,,headache; dizziness; flushing; rash; flushing; rash
+DB06708,Lumefantrine,malaria,pyrexia; asthenia; anorexia; headache; dizziness; cough; vomiting; anorexia; eruption; urticaria; angioedema; splenomegaly; hepatomegaly; anorexia; splenomegaly; hepatomegaly; urticaria; angioedema; cough; anorexia; urticaria
+DB06710,Methyltestosterone,swelling; pain; swelling; menopause; swelling,sweating; edema; dizziness; paresthesia; amnesia; edema; peripheral edema; dry skin; hirsutism; sweating; dry skin; hirsutism; anxiety; amnesia
+DB06711,Naphazoline,nasal congestion; itching,rhinitis; rhinitis
+DB06712,Nilvadipine,angina; angina; hypertension; hypertension,
+DB06714,Propylhexedrine,nasal congestion; rhinitis; rhinitis,burning; burning sensation; psychosis; psychosis
+DB06715,Potassium Iodide,hyperthyroidism,
+DB06716,Fospropofol,,paresthesia; pruritus; depression; depression
+DB06717,Fosaprepitant,nausea; vomiting,
+DB06718,Stanozolol,angioedema; angioedema,
+DB06719,Buserelin,,pain; headache; back pain; hot flashes; flatulence; vaginal dryness; hypermenorrhea; hot flashes; impotence; back pain; decreased libido
+DB06723,Aluminum hydroxide,heartburn; indigestion; indigestion; heartburn,
+DB06724,Calcium Carbonate,heartburn; indigestion; indigestion; heartburn,
+DB06725,Lornoxicam,pain,
+DB06736,Aceclofenac,pain; arthritis; arthritis; osteoarthritis; rheumatoid arthritis,pain; headache; abdominal pain; dizziness; nausea; dyspepsia; abdominal pain; dyspepsia; enuresis; rash; urticaria; rash; urticaria; abdominal pain; urticaria
+DB06738,Ketobemidone,pain,
+DB06742,Ambroxol,cough; productive cough; mucus; expectoration; cough,
+DB06751,Drotaverine,pain; colic; colic,
+DB06761,Beractant,distress; respiratory distress,
+DB06764,Tetryzoline,discomfort; redness; redness,
+DB06766,Alcaftadine,itching; conjunctivitis,
+DB06767,Ammonium chloride,cough; cough,sweating; twitching; confusion; disorientation; bradycardia; pallor; pallor; sweating; bradycardia; pallor; confusion; disorientation
+DB06768,Ammonium lactate,itching; xerosis; ichthyosis,
+DB06769,Bendamustine,leukemia; lymphoma,anaphylaxis
+DB06771,Besifloxacin,conjunctivitis,redness; redness
+DB06774,Capsaicin,pain; neuralgia; neuropathic pain; neuralgia,
+DB06779,Dalteparin,angina; angina; heart failure,rash; angioedema; alopecia; alopecia; rash; angioedema; thrombocytopenia
+DB06781,Difluprednate,pain,
+DB06782,Dimercaprol,,seizure
+DB06783,Prussian blue,,pain; abdominal pain; distension; abdominal pain; constipation; abdominal pain
+DB06784,Gallium citrate Ga 67,lymphoma,
+DB06787,Hexocyclium,diarrhea; diarrhea,
+DB06789,Hydroxyprogesterone caproate,,swelling; pain; swelling; nausea; diarrhea; urticaria; swelling; pruritus; urticaria; diarrhea; urticaria
+DB06791,Lanreotide,,pain; abdominal pain; bradycardia; nausea; vomiting; distension; abdominal pain; diarrhea; alopecia; bradycardia; alopecia; diarrhea; abdominal pain; diabetes
+DB06792,Lanthanum carbonate,,headache; nausea; vomiting
+DB06794,Lodoxamide,conjunctivitis,
+DB06796,Mangafodipir,,fever; pain; headache; abdominal pain; dizziness; palpitations; flushing; nausea; vomiting; abdominal pain; diarrhea; flushing; palpitations; fever; diarrhea; abdominal pain
+DB06799,Methenamine,,nausea; dysuria; rash; rash
+DB06800,Methylnaltrexone,constipation,hyperhidrosis; pain; abdominal pain; dizziness; hypotension; orthostatic hypotension; nausea; flatulence; abdominal pain; diarrhea; hyperhidrosis; diarrhea; abdominal pain; hypotension
+DB06802,Nepafenac,pain,
+DB06803,Niclosamide,,discomfort; nausea; vomiting; diarrhea; diarrhea
+DB06804,Nonoxynol-9,,hiv
+DB06809,Plerixafor,lymphoma,
+DB06810,Plicamycin,,epistaxis
+DB06811,Polidocanol,spider veins,pain
+DB06813,Pralatrexate,lymphoma,
+DB06817,Raltegravir,hiv,
+DB06819,Phenylbutyric acid,,weight gain; edema; pain; headache; abdominal pain; syncope; arrhythmia; syncope; edema; nausea; vomiting; abdominal pain; constipation; rectal bleeding; amenorrhea; rash; ecchymosis; weight gain; arrhythmia; amenorrhea; ecchymosis; rash; abdominal pain; arrhythmia; gastritis; peptic ulcer; pancreatitis; anemia; thrombocytopenia
+DB06822,Tinzaparin,,alopecia; alopecia; thrombocytopenia
+DB06824,Triethylenetetramine,,anemia
+DB06825,Triptorelin,,fatigue; pain; headache; dizziness; hypertension; vomiting; diarrhea; impotence; pruritus; fatigue; fatigue; fatigue; diarrhea; insomnia; emotional lability; hypertension; anemia
+DB06826,Unoprostone,pressure; hypertension; hypertension,
+DB06827,Viomycin,tuberculosis,
+DB07615,Tranilast,rhinitis; dermatitis; rhinitis; asthma; dermatitis; asthma,
+DB08439,Parecoxib,pain,
+DB08502,Capravirine,hiv; aids,
+DB08796,Pipazethate,cough; cough,
+DB08799,Antazoline,nasal congestion; conjunctivitis,
+DB08800,Chloropyramine,rhinitis; rhinitis; conjunctivitis; asthma; asthma,
+DB08801,Dimetindene,fever; rhinitis; eczema; urticaria; pruritus; fever; urticaria; rhinitis; eczema; urticaria,fever; ataxia; tachycardia; hypotension; redness; urine retention; ataxia; redness; tachycardia; fever; depression; hypotension; depression
+DB08802,Isothipendyl,itching,
+DB08803,Tymazoline,,pressure; collapse
+DB08804,Nandrolone decanoate,angioedema; angioedema,
+DB08805,Metiamide,reflux; heartburn; indigestion; indigestion; heartburn; peptic ulcer,
+DB08807,Bopindolol,edema; atrial fibrillation; hypertension; edema; hypertension,
+DB08808,Bupranolol,tachycardia; hypertension; tachycardia; hypertension,bradycardia; hypotension; bradycardia; hypotension
+DB08810,Cinitapride,reflux; dyspepsia; dyspepsia,confusion; confusion
+DB08811,Tofisopam,anxiety,
+DB08813,Nadroparin,angina; angina,thrombocytopenia
+DB08814,Triflusal,atrial fibrillation,
+DB08815,Lurasidone,schizophrenia,
+DB08816,Ticagrelor,,nausea; vomiting; diarrhea; diarrhea
+DB08818,Hyaluronic acid,pain; cystitis; osteoarthritis,
+DB08819,Tafluprost,pressure; hypertension; hypertension,
+DB08822,Azilsartan medoxomil,hypertension; hypertension,hypotension; diarrhea; diarrhea; hypotension
+DB08824,Ioflupane I-123,tremor; tremor,
+DB08826,Deferiprone,,nausea; diarrhea; diarrhea
+DB08828,Vismodegib,,fatigue; weight loss; ageusia; dysgeusia; nausea; vomiting; diarrhea; constipation; alopecia; weight loss; alopecia; fatigue; fatigue; fatigue; weight loss; diarrhea
+DB08831,2-deoxyglucose,epilepsy; tumors; herpes,
+DB08834,Tauroursodeoxycholic acid,cirrhosis,
+DB08835,Spaglumic Acid,conjunctivitis,
+DB08836,Temocapril,hypertension; hypertension; heart failure,
+DB08837,Tetraethylammonium,,distress; paralysis; respiratory distress
+DB08838,Agmatine,pain; neuropathic pain; epilepsy; depression; anxiety; neuropathy; diabetes; depression; schizophrenia,
+DB08842,Acetylcarnitine,fatigue; fatigue; fatigue; fatigue; depression; dementia; hepatitis; neuropathy; diabetes; depression; dementia; hiv; hepatitis,
+DB08846,Ellagic Acid,lymphoma,
+DB08860,Pitavastatin,,pain; back pain; myalgia; diarrhea; constipation; myalgia; back pain; myalgia; diarrhea
+DB08864,Rilpivirine,hiv,
+DB08865,Crizotinib,lymphoma,
+DB08868,Fingolimod,frequency,edema; pressure; edema
+DB08869,Tesamorelin,hiv,diarrhea; diarrhea; heart failure; neuropathy
+DB08870,Brentuximab vedotin,lymphoma,neuropathy
+DB08871,Eribulin,,neuropathy
+DB08872,Gabapentin Enacarbil,neuralgia; neuralgia,headache; dizziness
+DB08873,Boceprevir,,fatigue; headache; dysgeusia; nausea; fatigue; fatigue; fatigue; anemia
+DB08874,Fidaxomicin,diarrhea; diarrhea,
+DB08875,Cabozantinib,,hemoptysis; hemoptysis
+DB08876,Taliglucerase Alfa,,pain; headache; chest pain; arthralgia; chest pain; arthralgia; urticaria; arthralgia; urticaria; urticaria
+DB08877,Ruxolitinib,,thrombocytopenia
+DB08878,Aminopterin,psoriasis; leukemia,
+DB08879,Belimumab,,pyrexia; pain; migraine; pharyngitis; nausea; diarrhea; diarrhea; depression; insomnia; bronchitis; migraine; depression
+DB08882,Linagliptin,diabetes,
+DB08883,Perampanel,,irritability; aggression
+DB08885,Aflibercept,edema; edema,fatigue; pain; pressure; headache; abdominal pain; dysphonia; hypertension; abdominal pain; diarrhea; fatigue; epistaxis; fatigue; fatigue; diarrhea; abdominal pain; hypertension; thrombocytopenia
+DB08886,Asparaginase Erwinia chrysanthemi,leukemia,edema; pain; edema; pancreatitis; allergy; anaphylaxis
+DB08888,Ocriplasmin,,edema; pain; eye pain; visual impairment; blurred vision; edema
+DB08889,Carfilzomib,,pyrexia; febrile; fatigue; dyspnea; nausea; diarrhea; fatigue; fatigue; fatigue; dyspnea; diarrhea; anemia; thrombocytopenia
+DB08890,Linaclotide,constipation; irritable bowel syndrome,pain; abdominal pain; distension; flatulence; abdominal pain; diarrhea; diarrhea; abdominal pain
+DB08893,Mirabegron,frequency; urinary frequency; urgency; incontinence,headache; hypertension; hypertension; urinary tract infection
+DB08894,Peginesatide,anemia,cough; dyspnea; nausea; diarrhea; dyspnea; cough; diarrhea
+DB08895,Tofacitinib,arthritis; pneumonia; arthritis; rheumatoid arthritis; psoriasis; herpes,anemia
+DB08896,Regorafenib,,fever; fatigue; asthenia; pain; abdominal pain; dysphonia; hypertension; nausea; abdominal pain; diarrhea; rash; fatigue; fatigue; fever; fatigue; rash; diarrhea; abdominal pain; hypertension
+DB08897,Aclidinium,bronchospasm; bronchitis; emphysema,headache; cough; cough
+DB08898,Glucarpidase,,headache; paresthesia; hypotension; flushing; nausea; vomiting; flushing; hypotension
+DB08899,Enzalutamide,,fatigue; weakness; asthenia; edema; pain; headache; back pain; arthralgia; dizziness; paresthesia; weakness; hypertension; edema; peripheral edema; diarrhea; hematuria; arthralgia; weakness; back pain; fatigue; weakness; hematuria; fatigue; weakness; fatigue; arthralgia; diarrhea; anxiety; insomnia; hypertension
+DB08900,Teduglutide,,pain; abdominal pain; nausea; vomiting; distension; abdominal pain; abdominal pain
+DB08901,Ponatinib,leukemia,pyrexia; fatigue; pain; headache; abdominal pain; arthralgia; hypertension; nausea; abdominal pain; constipation; arthralgia; rash; dry skin; dry skin; fatigue; fatigue; fatigue; arthralgia; rash; abdominal pain; hypertension; anemia; thrombocytopenia
+DB08902,Raxibacumab,,pain; rash; pruritus; rash
+DB08903,Bedaquiline,tuberculosis,headache; arthralgia; nausea; arthralgia; arthralgia
+DB08904,Certolizumab pegol,arthritis; arthritis; rheumatoid arthritis,rash; rash; urinary tract infection
+DB08906,Fluticasone furoate,rhinitis; rhinitis; asthma; bronchitis; emphysema; asthma,pyrexia; pain; headache; back pain; cough; back pain; epistaxis; cough
+DB08907,Canagliflozin,diabetes,increased urination; urinary tract infection
+DB08908,Dimethyl fumarate,,pain; abdominal pain; flushing; nausea; abdominal pain; diarrhea; flushing; diarrhea; abdominal pain
+DB08909,Glycerol Phenylbutyrate,,headache; flatulence; diarrhea; diarrhea
+DB08910,Pomalidomide,,pyrexia; fatigue; asthenia; pain; back pain; dyspnea; nausea; diarrhea; constipation; back pain; fatigue; fatigue; fatigue; dyspnea; diarrhea; anemia
+DB08911,Trametinib,,diarrhea; rash; rash; diarrhea
+DB08912,Dabrafenib,,pyrexia; headache; arthralgia; arthralgia; hyperkeratosis; alopecia; alopecia; arthralgia
+DB08913,Radium Ra 223 Dichloride,,edema; edema; peripheral edema; nausea; vomiting; diarrhea; diarrhea
+DB08915,Aleglitazar,diabetes,
+DB08916,Afatinib,,diarrhea; rash; dermatitis; pruritus; dry skin; dry skin; rash; diarrhea; dermatitis
+DB08917,Ferric Carboxymaltose,anemia,dizziness; hypertension; flushing; nausea; flushing; hypertension
+DB08918,Levomilnacipran,,hyperhidrosis; palpitations; tachycardia; nausea; vomiting; constipation; erectile dysfunction; hyperhidrosis; palpitations; tachycardia; erectile dysfunction
+DB08922,Perospirone,mania; schizophrenia,insomnia
+DB08930,Dolutegravir,hiv,
+DB08931,Riociguat,hypertension; hypertension,
+DB08932,Macitentan,hypertension; hypertension,
+DB08933,Luliconazole,,dermatitis; dermatitis; cellulitis
+DB08934,Sofosbuvir,hepatitis; cirrhosis; hiv; hepatitis,fatigue; headache; bradycardia; bradycardia; fatigue; fatigue; fatigue
+DB08935,Obinutuzumab,leukemia,hepatitis; thrombocytopenia; hepatitis
+DB08949,Inositol nicotinate,claudication; claudication,edema; pain; headache; muscle pain; edema; redness; nausea; vomiting; muscle pain; rash; redness; rash
+DB08964,Gemeprost,,pyrexia; chills; weakness; pain; headache; chest pain; back pain; weakness; dyspnea; chest pain; palpitations; tachycardia; hypotension; flushing; nausea; vomiting; diarrhea; loose stools; weakness; muscle weakness; back pain; flushing; palpitations; tachycardia; weakness; weakness; dyspnea; diarrhea; hypotension
+DB09001,Barbexaclone,epilepsy,
+DB09011,Beclamide,epilepsy; anxiety; impulsivity,
+DB09012,Carbazochrome,purpura; purpura,
+DB09014,Captodiame,anxiety,seizure; ataxia; ataxia
+DB09016,Butriptyline,,sweating; fatigue; weakness; pressure; dizziness; epilepsy; tremor; weakness; incoordination; blurred vision; palpitations; low blood pressure; nausea; vomiting; constipation; weakness; sweating; tremor; palpitations; fatigue; weakness; fatigue; weakness; fatigue
+DB09017,Brotizolam,insomnia,
+DB09018,Bromopride,nausea; vomiting; reflux,
+DB09026,Aliskiren,pressure; hypertension; hypertension,hypotension; hypotension
+DB09027,Ledipasvir,cirrhosis; hiv,fatigue; headache; fatigue; fatigue; fatigue
+DB09029,Secukinumab,psoriasis,
+DB09030,Vorapaxar,,peptic ulcer
+DB09031,Miltefosine,,rash; rash
+DB09034,Suvorexant,insomnia,paralysis; depression; depression
+DB09035,Nivolumab,tumors,paresis; paresis; pancreatitis; hepatitis; nephritis; neuropathy; hypothyroidism; hyperthyroidism; adrenal insufficiency; hepatitis
+DB09036,Siltuximab,immunodeficiency; hiv,fever; rash; fever; rash
+DB09037,Pembrolizumab,tumors,arthritis; pancreatitis; hepatitis; nephritis; arthritis; hypothyroidism; hyperthyroidism; hepatitis
+DB09038,Empagliflozin,diabetes,dehydration; pressure; syncope; hypotension; orthostatic hypotension; syncope; hypotension
+DB09041,Tavaborole,,erythema; dermatitis; erythema; exfoliation; dermatitis
+DB09042,Tedizolid Phosphate,,dizziness; paresthesia; blurred vision; tachycardia; hypertension; nausea; vomiting; diarrhea; urticaria; tachycardia; urticaria; diarrhea; hypertension; urticaria; anemia
+DB09043,Albiglutide,diabetes,tumors
+DB09045,Dulaglutide,diabetes,tumors
+DB09046,Metreleptin,,weight loss; pain; headache; abdominal pain; abdominal pain; weight loss; weight loss; abdominal pain; lymphoma
+DB09048,Netupitant,nausea; vomiting,
+DB09049,Naloxegol,pain; constipation,
+DB09050,Ceftolozane,pyelonephritis,
+DB09052,Blinatumomab,leukemia,febrile; pneumonia
+DB09053,Ibrutinib,leukemia; lymphoma,
+DB09054,Idelalisib,leukemia; lymphoma,
+DB09057,Anthrax immune globulin human,,swelling; pain; headache; back pain; swelling; nausea; back pain; swelling
+DB09060,Avibactam,pyelonephritis,
+DB09061,Cannabidiol,pain; neuropathic pain,
+DB09063,Ceritinib,lymphoma,pain; abdominal pain; bradycardia; nausea; vomiting; abdominal pain; diarrhea; bradycardia; diarrhea; abdominal pain
+DB09065,Cobicistat,hiv,nausea; jaundice; icterus; jaundice; icterus; jaundice
+DB09067,Corticorelin ovine triflutate,,pressure; loss of consciousness; tachycardia; tachycardia
+DB09068,Vortioxetine,,nausea; diarrhea; diarrhea; mania
+DB09069,Trimetazidine,angina; angina,
+DB09071,Tasimelteon,,headache
+DB09072,Sodium oxybate,narcolepsy,diaphoresis; headache; myoclonus; ataxia; emesis; ataxia
+DB09074,Olaparib,,fever; pain; headache; back pain; dizziness; cough; dyspnea; wheezing; constipation; back pain; rash; fever; rash; wheezing; dyspnea; cough; urinary tract infection; leukemia
+DB09075,Edoxaban,atrial fibrillation,
+DB09076,Umeclidinium,,arthralgia; cough; bronchospasm; atrial fibrillation; arthralgia; arthralgia; cough
+DB09077,Dinutuximab,,fever; pain; chest pain; abdominal pain; back pain; arthralgia; neuralgia; neuropathic pain; chest pain; hypotension; abdominal pain; arthralgia; back pain; fever; arthralgia; abdominal pain; hypotension; neuralgia
+DB09078,Lenvatinib,,fatigue; asthenia; edema; hypertension; edema; nausea; diarrhea; fatigue; fatigue; fatigue; diarrhea; hypertension
+DB09079,Nintedanib,,pain; headache; abdominal pain; hypertension; nausea; vomiting; abdominal pain; diarrhea; diarrhea; abdominal pain; bronchitis; pneumonia; hypertension
+DB09080,Olodaterol,asthma; bronchitis; emphysema; asthma,pain; back pain; arthralgia; dizziness; cough; diarrhea; frequency; arthralgia; back pain; rash; arthralgia; rash; cough; diarrhea; bronchitis; urinary tract infection
+DB09081,Idebenone,visual impairment; neuropathy,pain; back pain; cough; back pain; cough
+DB09082,Vilanterol,asthma; bronchitis; emphysema; asthma,
+DB09083,Ivabradine,heart failure,
+DB09084,Benzydamine,swelling; pain; dental pain; swelling; swelling,
+DB09085,Tetracaine,,fever; edema; headache; dizziness; edema; erythema; vomiting; erythema; fever; depression; depression
+DB09086,Eugenol,toothache,
+DB09087,Potassium alum,secretions; constipation,
+DB09089,Trimebutine,irritable bowel syndrome,fatigue; pain; dizziness; nausea; dyspepsia; diarrhea; constipation; dyspepsia; fatigue; fatigue; fatigue; diarrhea
+DB09090,Pinaverium,pain; discomfort; abdominal pain; abdominal pain; abdominal pain; irritable bowel syndrome,pain; headache; vertigo; nausea; heartburn; distension; constipation; heartburn; allergy
+DB09091,Tixocortol,rhinitis; pharyngitis; rhinitis,allergy
+DB09092,Xanthinol,,pain; abdominal pain; hypotension; flushing; abdominal pain; flushing; abdominal pain; hypotension
+DB09094,Podophyllin,,burning; itching; depression; depression
+DB09095,Difluocortolone,swelling; swelling; redness; eczema; swelling; itching; redness; eczema; psoriasis,vesicles; patches
+DB09096,Benzoyl peroxide,,burning
+DB09097,Quinagolide,,fatigue; anorexia; pain; headache; abdominal pain; dizziness; syncope; nasal congestion; hypotension; orthostatic hypotension; syncope; flushing; nausea; vomiting; abdominal pain; constipation; anorexia; flushing; fatigue; fatigue; fatigue; anorexia; abdominal pain; insomnia; anorexia; hypotension
+DB09100,"Thyroid, porcine",nodules; hypothyroidism; hyperthyroidism,fever; sweating; weight loss; pain; headache; chest pain; shortness of breath; chest pain; irregular heartbeat; vomiting; diarrhea; weight loss; sweating; fever; weight loss; diarrhea; irritability
+DB09101,Elvitegravir,hiv,fatigue; pain; abdominal pain; nausea; vomiting; dyspepsia; abdominal pain; diarrhea; dyspepsia; rash; fatigue; fatigue; fatigue; rash; diarrhea; abdominal pain; depression; insomnia; depression
+DB09102,Daclatasvir,cirrhosis,fatigue; headache; dizziness; bradycardia; nausea; diarrhea; rash; bradycardia; fatigue; fatigue; fatigue; rash; diarrhea; insomnia; anemia
+DB09104,Magnesium Hydroxide,heartburn; indigestion; constipation; indigestion; heartburn,weakness; thirst; pain; cramping; abdominal pain; weakness; confusion; heart block; hypotension; flushing; redness; nausea; vomiting; abdominal pain; diarrhea; weakness; muscle weakness; redness; flushing; weakness; weakness; diarrhea; abdominal pain; depression; confusion; hypotension; appendicitis; depression
+DB09107,Methoxy polyethylene glycol-epoetin beta,anemia,hypertension; hypertension
+DB09110,Coenzyme M,cystitis,fever; fatigue; asthenia; anorexia; pain; headache; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; constipation; anorexia; alopecia; alopecia; fatigue; fatigue; fever; fatigue; anorexia; diarrhea; abdominal pain; anorexia; anemia; thrombocytopenia
+DB09112,Sodium Nitrite,,collapse; hypotension; hypotension
+DB09113,Poractant alfa,distress; respiratory distress,
+DB09117,Paraldehyde,,edema; headache; sore throat; dizziness; sore throat; hypotension; edema; nausea; depression; hypotension; heart failure; hepatitis; nephritis; depression; hepatitis
+DB09118,Stiripentol,epilepsy,weight loss; anorexia; ataxia; nausea; vomiting; anorexia; loss of appetite; dystonia; ataxia; weight loss; anorexia; weight loss; irritability; aggression; insomnia; anorexia
+DB09119,Eslicarbazepine acetate,,dizziness; ataxia; diplopia; nausea; vomiting; ataxia; euphoria
+DB09120,Zucapsaicin,pain; osteoarthritis,burning; headache; arthralgia; burning sensation; cough; sneezing; arthralgia; arthralgia; cough; osteoarthritis
+DB09122,Peginterferon beta-1a,,pyrexia; chills; asthenia; pain; headache; arthralgia; myalgia; erythema; arthralgia; myalgia; pruritus; erythema; arthralgia; myalgia; influenza
+DB09123,Dienogest,,tumors; lymphoma
+DB09128,Brexpiprazole,schizophrenia,tremor; tremor
+DB09129,Chromic chloride,,nausea; vomiting
+DB09131,Cupric Chloride,,edema; photophobia; edema; peripheral edema; diarrhea; diarrhea
+DB09132,Gadoteric acid,,pain; burning; headache; burning sensation; nausea
+DB09134,Ioversol,,hyperthermia; edema; paralysis; edema; anuria
+DB09140,Oxygen,dyspnea; gas; dyspnea,gas
+DB09141,Protamine sulfate,,pressure; dyspnea; bradycardia; hypertension; nausea; vomiting; bradycardia; dyspnea; hypertension; anaphylaxis
+DB09143,Sonidegib,,fatigue; asthenia; weight loss; dehydration; myalgia; syncope; hypertension; syncope; nausea; myalgia; weight loss; fatigue; fatigue; fatigue; weight loss; myalgia; hypertension
+DB09146,Iron saccharate,,swelling; pain; burning; headache; chest pain; dizziness; fainting; collapse; loss of consciousness; seizure; numbness; tingling; shortness of breath; dyspnea; hoarseness; chest pain; hypotension; fainting; swelling; rash; hives; swelling; itching; rash; dyspnea; hypotension
+DB09148,Florbetaben (18F),,pain; erythema; erythema
+DB09149,Florbetapir (18F),,fatigue; pain; pressure; headache; nausea; fatigue; fatigue; fatigue
+DB09151,Flutemetamol (18F),,pressure; headache; dizziness; flushing; nausea; flushing
+DB09152,Nitrogen,,alopecia; alopecia
+DB09153,Sodium Chloride,,hypertension; hypertension
+DB09154,Sodium Citrate,,tetany
+DB09155,Helium,asthma; asthma,hypothermia
+DB09156,Iopromide,,hyperthermia; edema; pain; headache; chest pain; back pain; paralysis; dysgeusia; chest pain; edema; nausea; vomiting; urgency; urinary urgency; back pain
+DB09157,Carbon dioxide,anesthesia; rapid breathing; gas,
+DB09161,Technetium Tc-99m sestamibi,coronary artery disease,fever; fatigue; asthenia; edema; pain; abdominal pain; dizziness; syncope; seizure; dyspnea; bradycardia; arrhythmia; hypotension; syncope; edema; flushing; vomiting; abdominal pain; arthritis; rash; urticaria; angioedema; flushing; bradycardia; arrhythmia; fatigue; fatigue; fever; fatigue; rash; urticaria; angioedema; dyspnea; abdominal pain; hypotension; arrhythmia; arthritis; urticaria
+DB09163,Technetium Tc-99m exametazime,inflammatory bowel disease,
+DB09164,Technetium Tc-99m disofenin,fever; pain; tenderness; jaundice; tenderness; jaundice; jaundice; fever; cholecystitis,chills; erythema; nausea; itching; erythema
+DB09165,Technetium Tc-99m pyrophosphate,,fever; chills; dizziness; hypotension; flushing; nausea; vomiting; itching; flushing; fever; hypotension
+DB09166,Etizolam,depression; anxiety; panic; insomnia; depression; anxiety disorder,weakness; headache; fainting; tremor; weakness; incoordination; confusion; fainting; weakness; muscle weakness; tremor; weakness; weakness; depression; confusion; depression
+DB09167,Dosulepin,anxiety,sweating; perspiration; headache; dizziness; giddiness; collapse; tremor; disorientation; blurred vision; palpitations; tachycardia; hypotension; postural hypotension; nausea; vomiting; constipation; sweating; tremor; palpitations; tachycardia; anxiety; panic; irritability; disorientation; insomnia; hypotension
+DB09183,Dasabuvir,cirrhosis,asthenia; nausea; pruritus; insomnia
+DB09185,Viloxazine,depression; depression,sweating; anorexia; pressure; headache; dizziness; tremor; ataxia; confusion; tachycardia; nausea; vomiting; heartburn; indigestion; constipation; indigestion; heartburn; anorexia; ataxia; pruritus; sweating; tremor; tachycardia; anorexia; mania; irritability; confusion; anorexia
+DB09194,Etoperidone,impotence; depression; depression,pressure; hypotension; hypotension
+DB09197,Mepiprazole,anxiety,
+DB09198,Lobeglitazone,diabetes,weight gain; edema; edema; weight gain; heart failure
+DB09204,Arotinolol,pressure; high blood pressure,
+DB09205,Moxisylyte,erectile dysfunction; erectile dysfunction,
+DB09208,Pegloticase,gout,heart failure; gout; anaphylaxis
+DB09209,Pholcodine,cough; cough,
+DB09210,Piracetam,twitching; myoclonus,
+DB09211,Limaprost,pain; numbness; claudication; claudication,discomfort; headache; flushing; nausea; vomiting; diarrhea; flushing; diarrhea
+DB09213,Dexibuprofen,fever; pain; arthritis; fever; arthritis; osteoarthritis; rheumatoid arthritis,hypertension; nausea; vomiting; dyspepsia; dyspepsia; hypertension
+DB09214,Dexketoprofen,pain,
+DB09216,Tolfenamic Acid,migraine; migraine,
+DB09217,Firocoxib,fever; pain; fever,
+DB09218,Clonixin,pain,
+DB09219,Bisoxatin,constipation,
+DB09220,Nicorandil,angina; angina,lethargy; weakness; pain; chest pain; angina; back pain; myalgia; weakness; chest pain; angina; palpitations; hypotension; nausea; vomiting; dyspepsia; dyspepsia; myalgia; weakness; back pain; palpitations; weakness; weakness; myalgia; bronchitis; hypotension
+DB09223,Blonanserin,schizophrenia,
+DB09224,Melperone,schizophrenia,
+DB09225,Zotepine,schizophrenia,
+DB09226,RP5063,schizophrenia,
+DB09227,Barnidipine,angina; angina; hypertension; hypertension,
+DB09228,Conestat alfa,angioedema; angioedema,headache; nausea; diarrhea; diarrhea
+DB09229,Aranidipine,hypertension; hypertension,
+DB09230,Azelnidipine,hypertension; hypertension,
+DB09231,Benidipine,hypertension; hypertension,
+DB09232,Cilnidipine,hypertension; hypertension,
+DB09235,Efonidipine,hypertension; hypertension,
+DB09236,Lacidipine,hypertension; hypertension,
+DB09237,Levamlodipine,hypertension; hypertension,
+DB09238,Manidipine,hypertension; hypertension,fatigue; headache; dizziness; flushing; rash; flushing; fatigue; fatigue; fatigue; rash
+DB09241,Methylene blue,pressure; hypotension; hypotension; cirrhosis,
+DB09242,Moxonidine,hypertension; hypertension,edema; headache; angina; angina; bradycardia; hypotension; edema; claudication; claudication; bradycardia; depression; hypotension; coronary artery disease; heart failure; depression
+DB09243,Hydracarbazine,hypertension; hypertension,
+DB09244,Pirlindole,depression; depression,
+DB09245,Toloxatone,depression; depression,
+DB09246,Benmoxin,depression; depression,
+DB09247,Iproclozide,depression; depression,
+DB09248,Mebanazine,depression; depression,
+DB09249,Octamoxin,depression; depression,
+DB09250,Pheniprazine,angina; angina; depression; depression; schizophrenia,
+DB09251,Phenoxypropazine,depression; depression,
+DB09252,Pivhydrazine,depression; depression,
+DB09253,Safrazine,depression; depression,
+DB09254,Caroxazone,depression; depression,
+DB09262,Imidafenacin,,thirst; constipation
+DB09264,Idarucizumab,,pyrexia; headache; delirium; constipation; pneumonia
+DB09270,Ubidecarenone,migraine; fibromyalgia; hypertension; fibromyalgia; hypertension; heart failure; fibromyalgia; migraine; diabetes,
+DB09272,Eluxadoline,diarrhea; diarrhea; irritable bowel syndrome,pain; abdominal pain; nausea; abdominal pain; constipation; abdominal pain
+DB09273,Doxofylline,asthma; asthma,
+DB09274,Artesunate,malaria,
+DB09275,Bismuth Subcitrate,reflux; dyspepsia; dyspepsia; gastritis; peptic ulcer,
+DB09276,Sodium aurothiomalate,arthritis; arthritis,discomfort; hematuria; dermatitis; pruritus; purpura; purpura; hematuria; dermatitis; anemia
+DB09278,Activated charcoal,,vomiting; diarrhea; constipation; diarrhea
+DB09279,Fimasartan,hypertension; hypertension; heart failure,
+DB09280,Lumacaftor,,fatigue; dyspnea; rhinorrhea; nausea; flatulence; diarrhea; rash; fatigue; fatigue; fatigue; rash; dyspnea; diarrhea; influenza
+DB09281,Magnesium Trisilicate,heartburn; indigestion; indigestion; heartburn,diarrhea; diarrhea
+DB09283,Trapidil,angina; angina,
+DB09284,Imolamine,angina; angina,
+DB09286,Pipamperone,schizophrenia,
+DB09287,Polyethylene glycol,constipation,diarrhea; diarrhea
+DB09288,Propacetamol,pain,
+DB09289,Tianeptine,asthma; irritable bowel syndrome; asthma,
+DB09290,Ramosetron,nausea; vomiting; diarrhea; diarrhea; irritable bowel syndrome,
+DB09291,Rolapitant,nausea; vomiting,pain; abdominal pain; dizziness; hiccups; dyspepsia; abdominal pain; dyspepsia; abdominal pain; urinary tract infection; anemia
+DB09292,Sacubitril,heart failure,dizziness; cough; hypotension; cough; hypotension
+DB09293,Iodide I-131,hyperthyroidism,edema; swelling; pain; chest pain; chest pain; tachycardia; edema; swelling; rash; hives; swelling; itching; tachycardia; rash; depression; hypothyroidism; hyperthyroidism; anemia; leukemia; thrombocytopenia; depression
+DB09296,Ombitasvir,hepatitis; cirrhosis; hepatitis,fatigue; asthenia; nausea; pruritus; fatigue; fatigue; fatigue; insomnia
+DB09297,Paritaprevir,hepatitis; cirrhosis; hepatitis,
+DB09299,Tenofovir alafenamide,hepatitis; hiv; hepatitis,
+DB09300,Butylscopolamine,pain; cramping,
+DB09301,Chondroitin sulfate,osteoarthritis,
+DB09304,Setiptiline,depression; depression,
+DB09305,Aptazapine,depression; depression,
+DB09306,Metralindole,depression; depression,
+DB09307,Oxaprotiline,depression; depression,
+DB09308,Solithromycin,pneumonia,
+DB09310,Coagulation Factor XIII A-Subunit (Recombinant),,pain; headache
+DB09311,Polycarbophil calcium,constipation,
+DB09312,Antilymphocyte immunoglobulin (horse),anemia,pyrexia; chills; arthralgia; arthralgia; rash; arthralgia; rash; thrombocytopenia
+DB09314,Technetium Tc-99m pertechnetate,reflux,
+DB09315,Xenon-133,gas,
+DB09316,Thallous Chloride,coronary artery disease,paralysis
+DB09317,"Synthetic Conjugated Estrogens, A",menopause,
+DB09318,"Synthetic Conjugated Estrogens, B",pain; vaginal dryness; menopause,
+DB09320,Procaine benzylpenicillin,pneumonia; syphilis,fever; pain; paralysis; emesis; fever; syphilis
+DB09321,Zinc oxide,dermatitis; dermatitis,
+DB09322,Zinc sulfate,,diarrhea; diarrhea; anemia
+DB09323,Benzathine benzylpenicillin,fever; fever; syphilis,paralysis
+DB09326,Ammonia N-13,coronary artery disease,
+DB09329,"Antihemophilic Factor (Recombinant), PEGylated",hemophilia,
+DB09343,Tipiracil,,febrile; anemia; thrombocytopenia
+DB09345,Pramocaine,pain; discomfort; burning; pruritus; itching,
+DB09351,Levobetaxolol,hypertension; hypertension,
+DB09353,Sulfur,dermatitis; patches; dandruff; dermatitis; common cold,
+DB09357,Dexpanthenol,rash; rash,
+DB09372,Tannic acid,fever; sore throat; sore throat; rash; dermatitis; blisters; fever; rash; dermatitis,
+DB09394,Phosphoric acid,,hematuria; hematuria
+DB09396,Propoxyphene napsylate,pain,hypotension; depression; hypotension; depression
+DB09397,Technetium Tc-99m sulfur colloid,reflux,fever; chills; perspiration; swelling; pain; burning; abdominal pain; dizziness; numbness; dyspnea; bronchospasm; hypotension; swelling; flushing; erythema; nausea; vomiting; abdominal pain; rash; urticaria; swelling; itching; erythema; flushing; blanching; fever; rash; urticaria; dyspnea; abdominal pain; hypotension; urticaria; anaphylaxis
+DB09398,Sodium fluoride F-18,pain; back pain; bone pain; arthritis; bone pain; back pain; arthritis,
+DB09407,Magnesium chloride,,lethargy; weakness; paralysis; weakness; hypotension; weakness; weakness; weakness; depression; hypotension; depression
+DB09409,Magnesium acetate tetrahydrate,hypertension; constipation; hypertension,lethargy; weakness; paralysis; weakness; hypotension; nausea; vomiting; weakness; weakness; weakness; depression; hypotension; depression
+DB09414,Dipotassium phosphate,,discomfort; nausea; vomiting; diarrhea; diarrhea
+DB09422,Soybean oil,,spasm; nausea; vomiting; spasm; muscle spasm
+DB09449,Sodium phosphate,constipation,dehydration; tetany; tachycardia; hypotension; tachycardia; hypotension
+DB09459,Tartaric acid,,fever; chills; weakness; weakness; nausea; vomiting; diarrhea; weakness; weakness; weakness; fever; diarrhea
+DB09460,Sodium carbonate,eczema; eczema,
+DB09477,Enalaprilat,hypertension; hypertension,fever; fatigue; edema; dizziness; cough; hypotension; edema; constipation; anuria; rash; angioedema; fatigue; fatigue; fever; fatigue; rash; angioedema; cough; hypotension; anaphylaxis
+DB09479,Rubidium chloride Rb-82,coronary artery disease,
+DB09481,Magnesium carbonate,,weakness; weakness; weakness; weakness; weakness
+DB09488,Acrivastine,sneezing; rhinorrhea; nasal congestion; rhinitis; pruritus; rhinitis,
+DB09498,Strontium chloride Sr-89,pain; bone pain; bone pain,fever; chills; pain; cough; hoarseness; bruising; fever; cough; depression; thrombocytopenia; depression
+DB09509,Samarium Sm-153 lexidronam pentasodium,pain; bone pain; bone pain,arrhythmia; arrhythmia; arrhythmia
+DB09512,Simethicone,pain; discomfort; flatulence; gas,
+DB09517,Sodium ferric gluconate complex,anemia,swelling; pain; hypotension; swelling; nausea; vomiting; diarrhea; swelling; diarrhea; hypotension
+DB09534,Ecamsule,,discomfort; redness; dermatitis; itching; redness; dry skin; dry skin; dermatitis
+DB09543,Methyl salicylate,pain; lumbago; sciatica; lumbago; sciatica,lethargy; edema; edema
+DB09546,Iobenguane sulfate I-123,heart failure,
+DB09555,Dexchlorpheniramine maleate,rhinitis; urticaria; angioedema; urticaria; angioedema; rhinitis; conjunctivitis; urticaria,depression; depression
+DB09564,Insulin Degludec,diabetes,fluid retention; heart failure
+DB09567,Olive oil,,fever; fever; anemia; thrombocytopenia
+DB09570,Ixazomib,,hepatitis; hepatitis
+DB10318,Varicella Zoster Vaccine (Live/Attenuated),herpes,
+DB10400,Dermatophagoides farinae,rhinitis; rhinitis; conjunctivitis,
+DB10401,Dermatophagoides pteronyssinus,rhinitis; rhinitis; conjunctivitis,
+DB10552,Peach,pneumonia,nausea; vomiting; diarrhea; diarrhea
+DB10804,Bacillus calmette-guerin substrain connaught live antigen,tumors,
+DB10989,Hepatitis A Vaccine,hepatitis; hepatitis,
+DB11058,Petrolatum,rash; rash,
+DB11082,Coal tar,redness; eczema; itching; redness; flaking; eczema; psoriasis,
+DB11092,Stannous fluoride,,dermatitis; blisters; dermatitis
+DB11093,Calcium Citrate,,flatulence; constipation
+DB11120,Turpentine,,headache; nausea; vomiting
+DB11133,Omega-3 fatty acids,,vomiting; constipation
+DB11135,Selenium,,fatigue; hypotension; nausea; vomiting; hair loss; fatigue; fatigue; fatigue; depression; irritability; hypotension; depression
+DB11166,Antithrombin Alfa,,swelling; swelling; swelling
+DB11228,Methyl cellulose,dehydration; constipation; irritable bowel syndrome,
+DB11312,Protein C,purpura; purpura,
+DB11330,Factor IX Complex (Human),hemophilia,
+DB11362,Selexipag,hypertension; hypertension,
+DB11363,Alectinib,lymphoma,fatigue; edema; myalgia; bradycardia; edema; constipation; myalgia; bradycardia; fatigue; fatigue; fatigue; myalgia
+DB11365,Sennosides,constipation,
+DB11366,Roquinimex,diabetes; leukemia,
+DB11560,Lesinurad,gout,
+DB11569,Ixekizumab,psoriasis,nausea
+DB11574,Elbasvir,,fatigue; headache; nausea; fatigue; fatigue; fatigue
+DB11575,Grazoprevir,,fatigue; headache; nausea; fatigue; fatigue; fatigue
+DB11581,Venetoclax,leukemia,fatigue; nausea; diarrhea; fatigue; fatigue; fatigue; diarrhea; anemia; thrombocytopenia
+DB11586,Asunaprevir,hepatitis; hepatitis,
+DB11591,Bilastine,rhinitis; urticaria; urticaria; rhinitis; urticaria,pain; headache; abdominal pain; dizziness; abdominal pain; abdominal pain
+DB11595,Atezolizumab,,pyrexia; fatigue; nausea; constipation; fatigue; fatigue; fatigue; urinary tract infection
+DB11597,Human Rho(D) immune globulin,purpura; purpura,pyrexia; chills; malaise; pain; headache; dizziness; nausea; malaise; anemia
+DB11601,Tuberculin Purified Protein Derivative,tuberculosis,pyrexia; pain; discomfort; syncope; dyspnea; syncope; erythema; rash; erythema; rash; dyspnea
+DB11603,Human rabies virus immune globulin,,edema; edema; rash; rash
+DB11604,Tetanus Immune Globulin,,edema; edema
+DB11605,Myrrh,pain; cough; indigestion; indigestion; cough; asthma; asthma; syphilis,
+DB11609,Normethadone,cough; cough,constipation; depression; depression
+DB11611,Lifitegrast,,dysgeusia
+DB11613,Velpatasvir,hepatitis; cirrhosis; hiv; hepatitis,
+DB11614,Rupatadine,rhinitis; urticaria; urticaria; rhinitis; urticaria,
+DB11621,Human Varicella-Zoster Immune Globulin,,edema; pain; headache; edema; rash; rash
+DB11627,Hepatitis B Vaccine (Recombinant),hepatitis; cirrhosis; diabetes; anemia; hemophilia; hepatitis,
+DB11660,Latanoprostene Bunod,pressure; hypertension; hypertension,edema; pain; eye pain; edema
+DB11691,Naldemedine,constipation,pain; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; diarrhea; abdominal pain
+DB11699,Tropisetron,nausea; vomiting,
+DB11703,Acalabrutinib,lymphoma,
+DB11714,Durvalumab,,hepatitis; hyperthyroidism; diabetes; adrenal insufficiency; hepatitis
+DB11737,Icotinib,,diarrhea; diarrhea
+DB11776,Brodalumab,arthritis; arthritis; psoriasis,
+DB11817,Baricitinib,arthritis; arthritis; rheumatoid arthritis,
+DB11828,Neratinib,,fatigue; dehydration; pain; abdominal pain; nausea; vomiting; abdominal pain; diarrhea; fatigue; fatigue; fatigue; diarrhea; abdominal pain; cellulitis
+DB11834,Guselkumab,psoriasis,
+DB11943,Delafloxacin,,pressure; headache; dizziness; confusion; psychosis; nausea; vomiting; diarrhea; frequency; diarrhea; depression; anxiety; agitation; psychosis; paranoia; confusion; insomnia; neuropathy; depression
+DB11945,Avelumab,,fatigue; edema; pain; edema; peripheral edema; nausea; diarrhea; rash; fatigue; fatigue; fatigue; rash; diarrhea; hepatitis; nephritis; hyperthyroidism; diabetes; adrenal insufficiency; hepatitis
+DB11989,Benznidazole,,angioedema; angioedema; neuropathy
+DB11994,Diacerein,osteoarthritis,
+DB12023,Benralizumab,asthma; asthma,
+DB12095,Telotristat,,constipation; depression; depression
+DB12140,Dilmapimod,pain; arthritis; arthritis,
+DB12159,Dupilumab,eczema; eczema,
+DB12243,Edaravone,,hypertension; hypertension
+DB12267,Brigatinib,tumors; lymphoma,vesicles
+DB12323,Radotinib,leukemia,coronary artery disease
+DB12442,Alvespimycin,tumors,fatigue; blurred vision; nausea; vomiting; fatigue; fatigue; fatigue
+DB12483,Copanlisib,lymphoma,cysts
+DB12598,Nafamostat,,dyspnea; dyspnea; anaphylaxis
+DB12702,Velusetrag,,headache; nausea; vomiting; diarrhea; diarrhea
+DB12834,Secnidazole,,lymphoma
+DB12924,Ozenoxacin,,dermatitis; dermatitis; lymphoma
+DB13025,Tiapride,psychosis; agitation; aggression; psychosis,
+DB13139,Levosalbutamol,asthma; asthma,
+DB13142,Calcium glubionate,tetany,anorexia; thirst; bradycardia; nausea; vomiting; constipation; anorexia; bradycardia; anorexia; anorexia
+DB13144,Lenograstim,,dermatitis; dermatitis
+DB13145,Nedaplatin,,nausea; vomiting; neuropathy
+DB13150,Coagulation factor VII human,hemophilia,
+DB13151,Anti-inhibitor coagulant complex,hemophilia,
+DB13156,Inosine pranobex,herpes,
+DB13158,Clobetasone,erythema; dermatitis; eczema; itchiness; erythema; dermatitis; eczema,
+DB13163,Terpin hydrate,bronchitis; pneumonia,pain; abdominal pain; nausea; vomiting; abdominal pain; abdominal pain
+DB13165,Ripasudil,hypertension; hypertension,abnormal sensation
+DB13167,Alclofenac,arthritis; arthritis; rheumatoid arthritis,
+DB13170,Plecanatide,secretions,
+DB13173,Cerliponase alfa,ataxia; blindness; ataxia,pyrexia; seizure
+DB13192,Antihemophilic factor human,hemophilia,hepatitis; hepatitis
+DB13783,Acemetacin,swelling; pain; back pain; swelling; arthritis; back pain; swelling; arthritis; osteoarthritis; rheumatoid arthritis,heart failure; cirrhosis; nephritis
+DB13872,Lormetazepam,insomnia,ataxia; hypotension; ataxia; depression; hypotension; depression
+DB13874,Enasidenib,leukemia,
+DB13878,Pibrentasvir,hepatitis; cirrhosis; hepatitis,
+DB13879,Glecaprevir,hepatitis; cirrhosis; hepatitis,
+DB13881,Tisagenlecleucel,leukemia,
+DB13909,Bismuth Subgallate,flatulence,
+DB13915,Axicabtagene ciloleucel,lymphoma,
+DB13923,Emicizumab,hemophilia,arthralgia; arthralgia; arthralgia
+DB13924,Varicella Zoster Vaccine (Recombinant),herpes,
+DB13925,Dotatate gallium Ga-68,tumors,
+DB13928,Semaglutide,diabetes,
+DB13931,Netarsudil,pressure; hypertension; hypertension,pain; blurred vision; erythema; erythema; lymphoma
