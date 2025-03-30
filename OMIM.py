@@ -38,41 +38,49 @@ omim_records = split_and_parse_records(OMIM_PATH)
 def search_records(records, symptoms_list, mode="OU"):
     """
     Recherche des enregistrements contenant des symptômes.
+
     Args:
         records (list): Liste des enregistrements parsés.
         symptoms_list (list): Liste des symptômes recherchés.
         mode (str): "OU" (par défaut) ou "ET" pour le type de recherche.
+
     Returns:
         list: Liste des enregistrements correspondants.
     """
     results = []
     
     for record in records:
-        if record["CS"]:
-            # On divise par ligne, nettoie les espaces inutiles, enlève les lignes vides et celles qui se terminent par ":"
+        if record.get("CS"):  # Vérifier si "CS" est présent et non vide
+            # Nettoyage des lignes des symptômes
             cs_lines = [line.strip() for line in record["CS"].split('\n') if line.strip() and not line.strip().endswith(":")]
-            symptoms_found = []
+
+            # Vérifier chaque symptôme et stocker ceux trouvés
+            symptoms_found = set()
             
             for symptom in symptoms_list:
                 symptom_lower = symptom.lower().strip()
-                
-                for line in cs_lines:
-                    line_lower = line.lower()
-                    
-                    # Si le symptôme est présent MAIS PAS précédé par "no " ou "No "
-                    if symptom_lower in line_lower and not re.search(rf"\bno {re.escape(symptom_lower)}\b", line_lower):
-                        symptoms_found.append(symptom)
-                        break  # On a trouvé le symptôme, inutile de continuer à chercher dans cette ligne
 
+                # Vérifier si le symptôme est présent dans *au moins* une ligne et n'est pas précédé de "no"
+                found = any(
+                    symptom_lower in line.lower() and not re.search(rf"\bno {re.escape(symptom_lower)}\b", line.lower())
+                    for line in cs_lines
+                )
+
+                if found:
+                    symptoms_found.add(symptom)
+
+            # Vérifier si on doit inclure ce record en fonction du mode
             if (mode == "OU" and symptoms_found) or (mode == "ET" and len(symptoms_found) == len(symptoms_list)):
-                cs_lines = [line for line in cs_lines if not line.strip().endswith(":") and "[" not in line and "]" not in line]
+                clean_cs_lines = [
+                    line for line in cs_lines if not line.strip().endswith(":") and "[" not in line and "]" not in line
+                ]
 
                 results.append({
-                    "TI": record["TI"],
-                    "DESCRIPTION": record["DESCRIPTION"],
-                    "SYMPTOMS_FOUND": symptoms_found,
-                    "ALL_SYMPTOMS": cs_lines  # Liste propre des symptômes filtrés
+                    "TI": record.get("TI", ""),
+                    "DESCRIPTION": record.get("DESCRIPTION", ""),
+                    "SYMPTOMS_FOUND": list(symptoms_found),
+                    "ALL_SYMPTOMS": clean_cs_lines  # Liste propre des symptômes filtrés
                 })
-                
+
     return results
 

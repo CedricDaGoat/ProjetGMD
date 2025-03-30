@@ -3,6 +3,7 @@ import os
 import pandas as pd
 from OMIM import split_and_parse_records, search_records
 from search_drugbank import recherche_medicaments_par_symptomes
+from meddra_indexer import load_index_from_disk, rechercher_medicaments_meddra, rechercher_medicaments_indic_meddra
 app = Flask(__name__)
 
 
@@ -25,10 +26,15 @@ def index():
 
         # Vérifier si la checkbox "ET" est cochée
         condition = "ET" if request.form.get("and_condition") == "on" else "OU"
-
+        index_se_name = "SIDER/index_all_se"
+        index_se = load_index_from_disk(index_se_name)
+        index_ind_name = "SIDER/index_all_indications"  
+        index_all_indications = load_index_from_disk(index_ind_name)
         # Appeler notre nouvelle fonction qui utilise le CSV
         if symptoms_list:
             drugs_causing, drugs_treating = recherche_medicaments_par_symptomes(symptoms_list, condition)
+            drugs_causing2, drugs_treating2 = rechercher_medicaments_meddra(symptoms_list, index_se, condition),rechercher_medicaments_indic_meddra(symptoms_list, index_all_indications, condition)
+            drugs_causing, drugs_treating = drugs_causing + drugs_causing2, drugs_treating + drugs_treating2
             genetic_diseases = search_records(omim_records, symptoms_list, condition)
 
     # Renvoyer les résultats à la page HTML
@@ -39,3 +45,7 @@ def index():
                            symptoms=", ".join(symptoms_list),
                            condition=condition)
 
+
+if __name__ == '__main__':
+    # Lancer l'application Flask
+    app.run(debug=True)
