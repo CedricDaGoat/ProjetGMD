@@ -34,22 +34,23 @@ def parse_drugbank_xml(xml_file_path):
     return drugs, ns
 
 
-# Chargement de la liste des symptômes depuis symtoms_list.py
+# Chargement de la liste des symptômes depuis symtoms_list_drugbank.py
 def load_symptoms_list():
     """
-    Charge la liste des symptômes depuis le fichier symtoms_list.py
+    Charge la liste des symptômes depuis le fichier symtoms_list_drugbank.py
     """
     try:
         # Importer la fonction depuis le module de symptômes
         sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-        from symtoms_list import get_comprehensive_symptoms_list
+        from symtoms_list_drugbank import get_comprehensive_symptoms_list
+        from symptom_list import get_symptoms
 
         # Appeler la fonction pour obtenir la liste des symptômes
-        symptoms_list = get_comprehensive_symptoms_list()
+        symptoms_list = get_comprehensive_symptoms_list() + get_symptoms()
         print(f"Liste de {len(symptoms_list)} symptômes chargée.")
         return symptoms_list
     except ImportError:
-        print("Impossible de charger la fonction get_comprehensive_symptoms_list depuis symtoms_list.py")
+        print("Impossible de charger la fonction get_comprehensive_symptoms_list depuis symtoms_list_drugbank.py")
         sys.exit(1)
     except Exception as e:
         print(f"Erreur lors du chargement des symptômes: {e}")
